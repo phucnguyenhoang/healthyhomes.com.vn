@@ -91,8 +91,8 @@ defined('ITEM_PER_PAGE')      OR define('ITEM_PER_PAGE', 10);
 defined('LIMIT_TEXT')      OR define('LIMIT_TEXT', 25);
 
 // Captcha
-define('CAPTCHA_SITE_KEY', '6LfIndErAAAAAMqBeQ0mGvWBwrdT0VcuSxcgLQSK'); // healthyhomes.com.vn
-define('CAPTCHA_SECRET_KEY', '6LfIndErAAAAAGgjwnWFtS4eOgBdBu53jX9So5s_'); // healthyhomes.com.vn
+define('CAPTCHA_SITE_KEY', ''); // healthyhomes.com.vn
+define('CAPTCHA_SECRET_KEY', ''); // healthyhomes.com.vn
 // define('CAPTCHA_SITE_KEY', '6Lf0w84rAAAAALfVlA2MNboQQ3Gt8bg0oRHHKf1e'); // localhost
 // define('CAPTCHA_SECRET_KEY', '6Lf0w84rAAAAAEae1JazhJq2ELrAEQFro-TNzlkz'); // localhost
 define('CAPTCHA_VERIFY_URL', 'https://www.google.com/recaptcha/api/siteverify');
@@ -100,7 +100,7 @@ define('CAPTCHA_VERIFY_URL', 'https://www.google.com/recaptcha/api/siteverify');
 // GA Send email url
 defined('GAS_SEND_EMAIL_URL')      OR define('GAS_SEND_EMAIL_URL', 'https://script.google.com/macros/s/AKfycbyYVIKm04d639jByGzJ3Wj2mAhIFuonAyBBJaaTUZDbVss-2sZk7_No7D1lynoz8tZbtQ/exec');
 
-define('SECRET_TOKEN', 'a1b2c3d4e5f6g7h8i9j0');
+define('SECRET_TOKEN', '');
 // define('CUSTOMER_SERVICE_EMAIL', 'nguyenwiro@gmail.com');
 define('CUSTOMER_SERVICE_EMAIL', 'customerservice@healthyhomes.com.vn');
 
