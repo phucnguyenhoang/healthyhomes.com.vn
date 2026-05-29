@@ -1,0 +1,25 @@
+services:
+  php74-apache:
+    container_name: healthyhomes-com-vn
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/var/www/html/
+    ports:
+      - 80:80
+      - 443:443
+    depends_on:
+      - mysql57
+  mysql57:
+    container_name: healthyhomes-com-vn-mysql
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Vfu9B3
+      TZ: Asia/Ho_Chi_Minh
+    ports:
+      - 3306:3306
+    command: ['mysqld', '--character-set-server=utf8mb4', '--collation-server=utf8mb4_unicode_ci']
+    volumes:
+      - ./data:/var/lib/mysql

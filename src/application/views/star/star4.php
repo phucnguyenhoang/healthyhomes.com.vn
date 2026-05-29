@@ -1,0 +1,5 @@
+<img src="<?php prImg('star/4.jpg') ?>">
+<div class="container">
+	<p>Cơ quan Bảo Vệ Môi Trường và Hiệp Hội Phổi Hoa Kỳ báo cáo thực tế rằng giải pháp DUY NHẤT để cải thiện chất lượng không khí trong nhà của chúng ta là loại bỏ các tác nhân gây dị ứng và hen suyễn, chất kích ứng và chất ô nhiễm tại NƠI SẢN SINH ra các tác nhân này. Thường được tìm thấy trong thảm, giường, và các loại đồ nội thất. Sau khi tổng hợp, nghiên cứu cũng thử trải nghiệm nhiều sản phẩm, dựa trên các dữ liệu đo lường được và bảng câu hỏi chủ quan. Chúng tôi thấy rằng hệ thống duy nhất có thể loại bỏ các tác nhân gây dị ứng và hen suyễn ngay tại nơi sản sinh ra chúng là <strong>Hệ Thống Làm Sạch Tổng Hợp Rainbow</strong>. </p>
+	<p>Trong thời đại truyền thông, có qua nhiều công ty quảng cáo về sản phẩm của họ và chúng tôi cũng là nạn nhân, vì thế mà OCMAAAH chủ động thông báo và tuyên truyền kết quả này đến mọi người.  Do đó, chúng tôi tự tin đề xuất <strong>Hệ Thống Làm Sạch Tổng Hợp Rainbow</strong> như một giải pháp hiệu quả để loại bỏ các chất gây dị ứng và chất ô nhiễm.</p>
+</div>

@@ -1,0 +1,24 @@
+# Ignored directories
+.claude/
+data/
+docker/
+src/resources/imgs/videos/
+src/resources/videos/
+
+# Development files
+.dev/
+
+# Runtime / cache
+src/application/cache/sessions/
+src/application/cache/*.cache
+
+# Sensitive config
+src/application/config/database.php
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

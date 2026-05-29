@@ -1,0 +1,109 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2026-05-28 07:51:51 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 07:51:56 --> Query error: Table 'healthyhomes.com.vn.gifts' doesn't exist - Invalid query: SELECT *
+FROM `gifts`
+ORDER BY `show_order` ASC
+ERROR - 2026-05-28 07:51:56 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 07:51:59 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 07:52:00 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 07:57:24 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 07:57:27 --> Query error: Unknown column 'type' in 'where clause' - Invalid query: SELECT `id`, `title`, `description`, `thumbnail`, `alias`
+FROM `blogs`
+WHERE `type` = 0
+ORDER BY `created_date` DESC
+ LIMIT 10
+ERROR - 2026-05-28 07:57:27 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 07:57:29 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 07:57:29 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 08:07:07 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 08:20:57 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 08:21:08 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 08:26:43 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 08:27:44 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 08:30:40 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 08:31:46 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:04:26 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:04:29 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:05:07 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:09:15 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:09:30 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:09:37 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:15:27 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:15:48 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:23 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:29 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:31 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:32 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:38 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:40 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:40 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:16:43 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:19:19 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:19:31 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:19:32 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:20:06 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:20:45 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:21:12 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:21:31 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:21:35 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:21:37 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:23:36 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:25:38 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:26:12 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:26:23 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:26:23 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:27:30 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:28:16 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:36:06 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:53:06 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:53:10 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:53:12 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:53:58 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:55:33 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:58:35 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:58:40 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:58:50 --> 404 Page Not Found: San-pham-kh%C3%A1c/index
+ERROR - 2026-05-28 09:58:50 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:58:54 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 09:59:04 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 10:00:53 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 10:01:10 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:30:23 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:30:47 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:31:00 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:33:42 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:35:43 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:35:45 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:35:52 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:36:42 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:36:49 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:38:10 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:38:16 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 15:41:01 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:02:56 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:04:52 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:04:54 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:49:07 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:49:16 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:49:24 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:49:27 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:50:13 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:55:29 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:55:32 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:56:12 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 16:56:45 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:02:36 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:02:44 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:05:46 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:05:54 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:06:00 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:06:06 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:06:53 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:08:12 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:11:15 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:13:32 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:13:39 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:13:47 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:13:54 --> 404 Page Not Found: Well-known/appspecific
+ERROR - 2026-05-28 17:13:59 --> 404 Page Not Found: Well-known/appspecific

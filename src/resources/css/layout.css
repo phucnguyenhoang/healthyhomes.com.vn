@@ -1,0 +1,1308 @@
+body {
+	position: relative;
+	color: #455560;
+	overflow-x: hidden;
+}
+
+.loading {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(246, 246, 246, 0.5);
+	background-image: url('/resources/imgs/loading.gif');
+	background-repeat: no-repeat;
+	background-size: 50px;
+	background-position: center;
+	z-index: 9999;
+}
+
+a {
+	text-decoration: none;
+	font-weight: 500;
+	color: #1ab7ea;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	-ms-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+
+a:hover {
+	color: #455560;
+	text-decoration: none;
+}
+
+.header {
+	position: relative;
+	z-index: 999;
+	width: 1024px;
+	height: 100px;
+	margin: auto;
+}
+
+#footer {
+	position: relative;
+	width: 100%;
+	height: auto;
+	padding: 46px 16px;
+	background-color: #f1f5f8;
+}
+
+#footer .img-logo {
+	max-width: 120px;
+}
+
+#footer .pan-nav h3 {
+	text-transform: uppercase;
+	color: #1ab7ea;
+	font-size: 15px !important;
+	letter-spacing: .5px;
+}
+
+#footer .pan-nav ul {
+	display: block;
+	text-decoration: none;
+	list-style: none;
+	padding: 0;
+}
+
+#footer .pan-nav ul li {
+	display: block;
+	text-decoration: none;
+	list-style: none;
+	padding: 5px 0;
+}
+
+#footer .pan-nav ul li a {
+	text-decoration: none;
+	color: #455560;
+}
+
+#footer .pan-nav ul li a:hover {
+	color: #1ab7ea;
+}
+
+.pan-title {
+	width: 100%;
+	/*height: 76px;
+	background-color: #f9f9f9;*/
+	border-top: 1px none #efefef;
+	border-bottom: 1px none #efefef;
+}
+
+.p-pan-title {
+	height: 76px;
+	background-color: #f9f9f9;
+}
+
+.pan-title h1 {
+	margin-top: 26px;
+	padding: 0;
+	font-size: 18px;
+	font-weight: 400;
+	color: #455560;
+}
+
+.pan-title p {
+	margin-top: 26px;
+}
+
+.pan-title a {
+	color: #1ab7ea;
+	text-decoration: none;
+}
+
+.nav {
+	display: block;
+	float: right;
+	margin-top: 10px;
+	width: 100%;
+}
+
+.main-logo {
+	text-decoration: none;
+}
+
+.main-logo img {
+	float: left;
+	width: 100px;
+	margin-top: 16px;
+}
+
+ul.nav-bar {
+	list-style: none;
+	display: block;
+	text-decoration: none;
+	float: right;
+	margin-top: 15px;
+	margin-bottom: 0;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-ms-transition: all 1s;
+	-o-transition: all 1s;
+	transition: all 1s;
+	background-color: white;
+}
+
+ul.nav-bar>li {
+	height: 75px;
+	display: block;
+	text-decoration: none;
+	list-style: none;
+	float: left;
+	position: relative;
+}
+
+ul.nav-bar>li.nav-button {
+	margin-left: 12px;
+}
+
+ul.nav-bar>li.nav-menu a {
+	display: block;
+	text-decoration: none;
+	padding: 5px 8px;
+	font-weight: 600;
+	color: #455560;
+}
+
+ul.nav-bar>li.nav-menu a:hover {
+	color: #1ab7ea;
+}
+
+ul.nav-bar a.active {
+	color: #1ab7ea !important;
+}
+
+ul.nav-bar>li.nav-menu a>span.fas {
+	float: right;
+	margin-top: 5px;
+}
+
+ul.sub-menu {
+	position: absolute;
+	display: none;
+	list-style: none;
+	width: 320px;
+	top: 75px;
+	left: 0;
+	padding: 0;
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+	border-radius: 0px 0px 2px 2px;
+	-webkit-transition: all 0.7s;
+	-moz-transition: all 0.7s;
+	-ms-transition: all 0.7s;
+	-o-transition: all 0.7s;
+	transition: all 0.7s;
+	z-index: 999;
+	background-color: white;
+}
+
+ul.sub-menu.show {
+	display: block;
+}
+
+ul.sub-menu li {
+	display: block;
+	text-decoration: none;
+	list-style: none;
+	position: relative;
+	padding: 8px 15px;
+	border-bottom: 1px solid #efefef;
+}
+
+ul.sub-menu .sub-menu {
+	top: 0;
+	left: 320px;
+}
+
+#btnMenu {
+	margin-top: 20px;
+	display: none; /* shown only on touch via @media (hover: none) */
+}
+
+.nav-touch-cta {
+	display: none; /* shown only on touch via html.touch-device */
+}
+
+ul.nav-bar > li.nav-cta-small-touch {
+	display: none; /* shown only on touch screens < 500px */
+}
+
+/* style for intruduce water power */
+.bg-fixed {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-image: url("/resources/imgs/rainbow-srx-churn.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.header-bg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 105px;
+	background-color: white;
+	z-index: 1
+}
+
+.pw-water {
+	padding-top: 56px;
+	background-color: white;
+}
+
+.pw-water-bg {
+	width: 100%;
+	height: auto;
+	background-color: white;
+	z-index: 2;
+	position: relative;
+}
+
+.pw-water h1 {
+	font-size: 42px;
+	margin-bottom: 2px;
+	font-family: "proxima-nova", 'Helvetica', 'Arial', sans-serif;
+	color: #455560;
+	font-weight: 400;
+	margin: 0 0 20px 0;
+	padding: 0;
+	line-height: 1.4;
+	text-align: center;
+}
+
+.pw-water>p {
+	max-width: 800px;
+	margin: auto;
+	text-align: center;
+	color: #455560;
+}
+
+.pw-water .icon-intruduce {
+	margin-top: 32px;
+}
+
+.pw-water .icon-intruduce h5 {
+	font-size: 18px;
+	color: #1ab7ea;
+	padding-top: 6px;
+	float: right;
+	width: 70%;
+}
+
+.pan-table-pro {
+	background-color: rgba(10, 10, 10, 0.81);
+	color: rgba(255, 255, 255, 0.9) !important;
+	padding: 46px 26px;
+	text-align: center;
+}
+
+.pan-table-pro p {
+	text-align: center;
+	margin: 26px 0 46px 0;
+}
+
+.tg {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid #ffffff;
+}
+
+.tg th {
+	font-size: 16px;
+	font-weight: 700;
+	padding: 10px 20px;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	overflow: hidden;
+	word-break: normal;
+}
+
+.tg td {
+	font-size: 16px;
+	font-weight: 500;
+	padding: 10px 20px;
+	border-right: 1px solid;
+	overflow: hidden;
+	word-break: normal;
+}
+
+.tg .fa-check {
+	color: #1ab7ea;
+}
+
+.pan-solution .pan-title {
+	padding: 56px 10px;
+	text-align: center;
+}
+
+.pan-solution .pan-title h2 {
+	padding-bottom: 26px;
+	color: #455560;
+}
+
+.pan-solution .pan-img img {
+	margin: auto;
+	width: 100%;
+}
+
+.pan-solution .pan-img h4 {
+	margin: 36px 0;
+	font-weight: 500;
+	color: #1ab7ea;
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.pan-solution .pan-img .bg {
+	padding: 0 0 8px 0;
+	background-color: #f9f9f9;
+	width: 80%;
+	margin: auto;
+}
+
+.pan-solution .pan-try {
+	padding: 26px 0 46px 0;
+}
+
+.pan-solution .pan-try p {
+	padding: 10px;
+}
+
+.pan-carousel-comment {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-color: #0091ea;
+	padding: 66px;
+	color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.pan-carousel-comment .carousel-item {
+	padding: 36px;
+}
+
+.pan-warning {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-color: white;
+	color: #455560;
+}
+
+.pan-warning .bg-left {
+	background-image: url("/resources/imgs/rainbow-cleaning-system-close-up.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.pan-warning .ct-right {
+	padding: 72px 46px 20px 46px;
+}
+
+.pan-warning .ct-right img {
+	width: 186px;
+	display: inline-block;
+	float: left;
+	padding-right: 16px;
+}
+
+.pan-warning .ct-right a:hover {
+	color: #455560;
+	text-decoration: none;
+}
+
+.pan-product img {
+	width: 98%;
+}
+
+.pan-find-product {
+	width: 100%;
+	height: 116px;
+	background-color: #1ab7ea;
+	color: white;
+}
+
+.pan-find-product p {
+	font-size: 23px;
+	font-weight: 400;
+	padding-top: 36px;
+}
+
+.pan-find-product a {
+	color: #666666;
+	margin-top: 30px;
+	font-weight: 500;
+}
+
+.pan-cooking {
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+.pan-popover-content {
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+
+.pan-popover-content img {
+	width: 100%;
+}
+
+.pan-popover-content .btn-popover {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	background-color: #1ab7ea;
+	border-radius: 36px;
+	line-height: 28px;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 600;
+	color: white;
+	padding: 0;
+	margin: 0;
+	cursor: pointer;
+}
+
+.pan-popover-content #btnIndoorAir {
+	top: 22%;
+	left: 23%;
+}
+
+.pan-popover-content #btnHardWood {
+	top: 71%;
+	left: 8%;
+}
+
+.pan-popover-content #btnUpholstery {
+	top: 66%;
+	left: 28%;
+}
+
+.pan-popover-content #btnCreviceTool {
+	top: 52%;
+	left: 50%;
+}
+
+.pan-popover-content #btnDustSurface {
+	top: 25%;
+	left: 64%;
+}
+
+.pan-popover-content #btnCushion {
+	top: 46%;
+	left: 80%;
+}
+
+.pan-popover-content #btnUnderFurniture {
+	top: 65%;
+	left: 78%;
+}
+
+.pan-popover-content #btnCarpet {
+	top: 83%;
+	left: 63%;
+}
+
+.popover {
+	background: rgba(40, 40, 40, 0.9) !important;
+	color: white;
+	max-width: 400px;
+}
+
+.popover .popover-header {
+	color: #1ab7ea;
+	text-transform: uppercase;
+	background-color: transparent;
+	padding: 10px 16px;
+	border-bottom: 1px solid #666666 !important
+}
+
+.popover .popover-body {
+	color: white;
+}
+
+.popover .popover-body img {
+	width: 100px;
+	border-radius: 56px;
+}
+
+.popover .popover-body p {
+	width: 250px;
+	float: right;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+.bs-popover-auto[x-placement^=right]>.arrow::after,
+.bs-popover-right>.arrow::after {
+	border-right-color: rgba(40, 40, 40, 0.9);
+}
+
+.bs-popover-auto[x-placement^=left]>.arrow::after,
+.bs-popover-left>.arrow::after {
+	border-left-color: rgba(40, 40, 40, 0.9);
+}
+
+.pan-cleaning-info {
+	width: 100%;
+	height: auto;
+	background-color: #f9f9f9;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.pan-cleaning-info h1 {
+	font-weight: 400;
+	margin: 0 0 20px 0;
+	padding: 0;
+	line-height: 1.4;
+}
+
+.pan-water-power {
+	width: 100%;
+	height: auto;
+	background-image: url("/resources/imgs/the-power-of-water-cleaning-background-2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	line-height: 1.8;
+}
+
+.pan-water-power h4 {
+	font-size: 18px;
+	font-weight: 500;
+	color: #1ab7ea;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.pan-water-power p {
+	margin-bottom: 26px;
+}
+
+.pan-certification {
+	line-height: 1.7;
+}
+
+.pan-certification h4 {
+	font-size: 18px;
+	font-weight: 500;
+	color: #1ab7ea;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.pan-certification ul {
+	list-style: none;
+}
+
+.pan-certification ul li {
+	list-style: none;
+	font-weight: 500;
+	line-height: 1.8;
+}
+
+.pan-certification ul li:before {
+	font-weight: normal;
+	margin-left: -24px;
+	font-size: 10px;
+	color: #1ab7ea !important;
+	font-family: "FontAwesome";
+	content: "\f10c";
+	margin-right: 10px;
+}
+
+.pan-certification a {
+	text-decoration: none;
+	font-weight: 800;
+	color: #1ab7ea;
+}
+
+.pan-certification a:hover {
+	color: #455560;
+}
+
+.pan-htw-carousel-comment {
+	width: 100%;
+	height: auto;
+	background-image: url('/resources/imgs/testimonial-background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 46px 10px;
+}
+
+.pan-htw-carousel-comment .carousel-item {
+	padding: 36px;
+}
+
+.pan-htw-demo {
+	background-color: #1ab7ea;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	color: white;
+}
+
+.htb-pan-schedule {
+	width: 100%;
+	background-color: #1ab7ea;
+	color: #ffffff;
+	margin: 0 0 60px 0;
+	padding: 30px 0 22px;
+	text-align: center;
+}
+
+.htb-pan-schedule p {
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 10px;
+}
+
+.htb-callout {
+	padding: 25px;
+	background: #ffffff;
+	border: 1px solid #e1e1e1;
+	color: #777777;
+	position: relative;
+	border-radius: 2px;
+	box-shadow: 0 2px 0 0 rgba(0, 0, 0, .03);
+}
+
+.htb-callout:before,
+.htb-callout:after {
+	content: "";
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-color: transparent;
+	border-bottom: 0;
+}
+
+.htb-callout:before {
+	bottom: -16px;
+	left: 25px;
+	border-top-color: #cccccc;
+	border-width: 16px;
+}
+
+.htb-callout:after {
+	bottom: -15px;
+	left: 26px;
+	border-top-color: #ffffff;
+	border-width: 15px;
+}
+
+.htb-pan-selling-model,
+.htb-pan-distributor,
+.au-pan-out-company,
+.cf-pan-feed-special,
+.cw-pan-title {
+	width: 100%;
+	background-image: url('/resources/imgs/testimonial-background-for-clean-homes.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 60px 0;
+	color: white;
+}
+
+.htb-pan-warning {
+	padding: 46px 0;
+}
+
+.t-pan-intro {
+	background-color: #f1f5f8;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.t-pan-content,
+.h-pan-content {
+	line-height: 1.8;
+}
+
+.t-pan-content h2,
+.h-pan-content h2 {
+	margin-bottom: 26px;
+}
+
+.t-pan-content .t-pan-img,
+.h-pan-content .h-pan-img {
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 358px;
+}
+
+.au-pan-out-company img {
+	max-width: 100%;
+}
+
+.h-pan-img-intro {
+	background-image: url('/resources/imgs/history/Rexair-History-Header.jpg');
+	background-color: #595959;
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+.cf-pan-title {
+	background-image: url('/resources/imgs/rexair-rainbow-careers.jpg');
+	background-color: #666666;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+}
+
+#youtubeBox {
+	width: 560px;
+	height: 315px;
+}
+
+.cf-pan-feed {
+	margin-bottom: 46px;
+}
+
+.cf-pan-feed .feed {
+	padding: 25px;
+	/* background: transparent; */
+	border: 1px solid #e1e1e1;
+	/* color: #777777; */
+	position: relative;
+	border-radius: 10px;
+	box-shadow: 0 2px 0 0 rgba(0, 0, 0, .03);
+	font-weight: 500;
+
+	background-image: url('/resources/imgs/testimonial-background-for-clean-homes.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.cf-pan-feed .feed:before,
+.cf-pan-feed .feed:after {
+	content: "";
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-color: transparent;
+	border-bottom: 0;
+}
+
+.cf-pan-feed .feed:before {
+	bottom: -16px;
+	left: 25px;
+	border-top-color: #cccccc;
+	border-width: 16px;
+}
+
+.cf-pan-feed .feed:after {
+	bottom: -15px;
+	left: 26px;
+	border-top-color: #16ACDA;
+	border-width: 15px;
+}
+
+.cf-pan-feed .author {
+	margin: 20px 0 0 24px;
+	font-weight: 700;
+}
+
+.cf-pan-footer {
+	width: 100%;
+	background-color: #65ac32;
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+
+.cer-pan-img {
+	padding-top: 56px;
+	padding-bottom: 56px;
+}
+
+.cer-pan-img img {
+	margin-bottom: 36px;
+}
+
+.sm-pan-video {
+	padding-top: 56px;
+	padding-bottom: 40px;
+}
+
+.sm-pan-video .sm-y-video {
+	margin-bottom: 36px;
+}
+
+.sm-pan-video .sm-y-video h5 {
+	min-height: 76px;
+}
+
+.sp-span-support {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.content-padding {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.cw-warning-list,
+.cw-advantage-list {
+	display: block;
+	list-style: none;
+	line-height: 1.7;
+	font-weight: 500;
+	margin-top: 36px;
+}
+
+.cw-warning-list li,
+.cw-advantage-list li {
+	list-style: none;
+}
+
+.cw-warning-list li:before {
+	font-family: "FontAwesome";
+	content: "\f071";
+	color: red;
+	margin-right: 10px;
+}
+
+.cw-advantage-list li:before {
+	font-family: "FontAwesome";
+	content: "\f00c";
+	color: #1ab7ea !important;
+	margin-right: 10px;
+}
+
+.cw-pan-footer {
+	width: 100%;
+	background-color: #1ab7ea;
+	color: #ffffff;
+	padding-bottom: 36px;
+	padding-bottom: 36px;
+}
+
+.pan-videos {
+	overflow: hidden;
+	margin-bottom: 26px;
+}
+
+.pan-videos .img-frame {
+	width: 100%;
+	height: auto;
+	max-height: 135px;
+	overflow: hidden;
+}
+
+.pan-videos img {
+	margin-top: -35px;
+	cursor: pointer;
+}
+
+.pan-videos h4 {
+	font-weight: 500;
+	color: #1ab7ea;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 22px 20px 22px 20px;
+	background: #f9f9f9;
+	font-size: 14px;
+}
+
+#modalVideo iframe {
+	min-height: 420px;
+}
+
+.um-pan-content h2 {
+	margin-bottom: 0;
+	margin-top: 32px;
+}
+
+.um-pan-content .um-pan-product {
+	background: #efefef;
+	color: #777777;
+	display: block;
+	border-radius: 2px;
+	border: 1px solid #e1e1e1;
+	box-shadow: 0 2px 0 0 rgba(0, 0, 0, .03);
+	overflow: hidden;
+}
+
+.um-pan-content .um-pan-product h4 {
+	font-size: 16px;
+	padding: 20px;
+	margin: 0px;
+	font-weight: 500;
+	color: #1ab7ea;
+}
+
+.ct-pan-left-nav {
+	display: block;
+	list-style: none;
+	padding: 0;
+}
+
+ul.ct-pan-left-nav>li {
+	display: block;
+	list-style: none;
+	margin-bottom: 3px;
+}
+
+ul.ct-pan-left-nav>li a {
+	display: block;
+	background-color: #f8f8f8;
+	padding: 15px 25px;
+	border-radius: 7px;
+	color: #666;
+	text-transform: capitalize;
+}
+
+ul.ct-pan-left-nav>li a.active {
+	background-color: #1ab7ea !important;
+	color: #ffffff !important;
+}
+
+.ct-pan-content-right h3 {
+	margin-bottom: 26px;
+	font-weight: 400;
+}
+
+.ct-pan-content-right img {
+	margin-bottom: 26px;
+}
+
+.qa-pan-content {
+	padding-top: 0;
+}
+
+.qa-pan-content button.btn-link {
+	text-decoration: none;
+	color: #455560;
+	text-transform: uppercase;
+	font-weight: 500;
+	line-height: 1.9;
+}
+
+.qa-pan-content button.btn-link:hover {
+	color: #1ab7ea;
+}
+
+.qa-pan-content button.btn-link span {
+	margin-right: 16px;
+	color: #1ab7ea;
+}
+
+.ds-pan-content img {
+	width: 26px;
+	margin-right: 6px;
+}
+
+.sup-bg {
+	width: 100%;
+	height: auto;
+	background-image: url('/resources/imgs/clean-homes-vaccum.jpg');
+	background-size: cover;
+	background-repeat: repeat;
+	padding: 56px 10px;
+	background-position: 50% 50%;
+}
+
+.rd-pan-carousel {
+	text-align: center;
+	padding: 20px;
+	background: #f9f9f9;
+	border-radius: 5px;
+	margin-bottom: 36px;
+}
+
+.rd-pan-carousel .carousel-indicators li {
+	background-color: #999999;
+}
+
+/*  css for blogs */
+.content-middle {
+	height: 100%;
+	vertical-align: middle !important;
+}
+
+.w70 {
+	width: 70px;
+}
+
+.w100 {
+	width: 100px;
+}
+
+.w200 {
+	width: 200px;
+}
+
+.input-xs {
+	height: 22px;
+	padding: 5px 10px;
+	font-size: 12px;
+	line-height: 1.5;
+	border-radius: 3px;
+}
+
+.pan-blog-view img {
+	max-width: 100%;
+	height: auto !important;
+}
+
+/*  end blog  */
+
+#modalStar img {
+	max-width: 100%;
+}
+
+#modalStar .container {
+	margin-top: 36px;
+	padding-left: 36px;
+	padding-right: 36px;
+}
+
+.pan-star {
+	text-align: center;
+	margin-bottom: 36px;
+}
+
+.pan-star img {
+	width: 100%;
+}
+
+:root,
+:host {
+	--spacing: 0.25rem;
+	--container-sm: 24rem;
+	--radius-lg: 0.5rem;
+	--color-white: #fff;
+	--tw-shadow-color: initial;
+	--tw-inset-shadow: 0 0 #0000;
+	--tw-inset-ring-shadow: 0 0 #0000;
+	--tw-ring-offset-shadow: 0 0 #0000;
+	--tw-ring-shadow: 0 0 #0000;
+	--tw-shadow: 0 0 #0000;
+	--color-green-800: oklch(44.8% 0.119 151.328);
+	--color-red-800: oklch(44.4% 0.177 26.899);
+	--tw-ease: initial;
+	--default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	--tw-duration: initial;
+	--default-transition-duration: 150ms;
+}
+
+.toast {
+	position: fixed;
+	right: calc(var(--spacing) * 4);
+	bottom: calc(var(--spacing) * 4);
+	z-index: 50;
+	width: 100%;
+	max-width: var(--container-sm);
+	border-radius: var(--radius-lg);
+	background-color: var(--color-white);
+	padding: calc(var(--spacing) * 4);
+	--tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+	box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+	opacity: 100%;
+}
+
+.toast.success {
+	background-color: var(--color-green-800);
+	color: var(--color-white);
+}
+
+.toast.error {
+	background-color: var(--color-red-800);
+	color: var(--color-white);
+}
+
+.toast.fade-out {
+	opacity: 0%;
+	transition-property: opacity;
+	transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+	transition-duration: var(--tw-duration, var(--default-transition-duration));
+	--tw-duration: 500ms;
+	transition-duration: 500ms;
+}
+
+@media (max-width: 767.98px) {
+	.pw-water .icon-intruduce .icon-box img {
+		margin-left: 56px;
+	}
+
+	.pw-water .icon-intruduce h5 {
+		padding-right: 30px;
+	}
+
+	.popover .popover-body p {
+		width: 200px;
+	}
+
+	.pan-htw-demo a {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	.pan-warning .bg-left {
+		display: none;
+	}
+
+	.pan-videos {
+		margin-bottom: 36px;
+	}
+
+	.ct-pan-left-nav .collapse {
+		padding: 26px;
+	}
+}
+
+@media (max-width: 991.98px) {
+	#youtubeBox {
+		width: 360px;
+		height: 215px;
+	}
+
+	.header {
+		width: 100%;
+	}
+
+	.pan-find-product {
+		height: 200px;
+	}
+
+	.pan-find-product a {
+		margin-top: 16px;
+	}
+
+	.htb-pan-selling-model img {
+		margin-top: 56px;
+	}
+
+	.au-pan-out-company img {
+		margin-top: 26px;
+	}
+}
+
+/* -------------------------------------------------------------------------
+   Touch devices: class added by JS (ontouchstart / maxTouchPoints check)
+   ------------------------------------------------------------------------- */
+html.touch-device .header {
+	width: 100%;
+}
+
+html.touch-device .nav {
+	display: flex;
+	align-items: center;
+	height: 100px;
+	margin-top: 0;
+	padding: 0 36px;
+}
+
+html.touch-device .main-logo {
+	flex: 1;
+}
+
+html.touch-device .main-logo>img {
+	float: none;
+	margin-top: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+}
+
+html.touch-device #btnMenu {
+	display: block;
+	order: 3;
+	margin-top: 0;
+	margin-right: 0;
+}
+
+html.touch-device .nav-cta-desktop {
+	display: none !important;
+}
+
+html.touch-device .nav-touch-cta {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	float: none;
+	order: 2;
+	margin-top: 0;
+	margin-right: 12px;
+}
+
+html.touch-device ul.nav-bar {
+	position: absolute;
+	top: 100px;
+	left: 0;
+	float: none;
+	width: 100%;
+	height: 0;
+	overflow: hidden;
+	padding-left: 32px;
+	padding-right: 32px;
+	box-shadow: 0px 6px 12px 0px rgba(0, 0, 0, 0.12);
+	z-index: 1000;
+}
+
+html.touch-device ul.nav-bar.show {
+	height: auto;
+	margin-top: 0;
+}
+
+html.touch-device ul.nav-bar>li {
+	width: 100%;
+	height: auto;
+	float: none;
+	position: relative;
+	border-bottom: 1px solid #efefef;
+}
+
+html.touch-device ul.nav-bar>li.nav-menu a {
+	width: 100%;
+	height: 100%;
+	padding: 10px 12px;
+}
+
+html.touch-device ul.sub-menu {
+	position: relative;
+	width: 100%;
+	top: 0;
+	box-shadow: none;
+	border-radius: 0;
+}
+
+html.touch-device ul.sub-menu li {
+	padding: 8px 15px;
+	border-top: 1px solid #efefef;
+	border-bottom: none;
+}
+
+html.touch-device ul.sub-menu .sub-menu {
+	left: 0;
+}
+
+@media (max-width: 499px) {
+	html.touch-device .nav-touch-cta {
+		display: none !important;
+	}
+
+	html.touch-device ul.nav-bar > li.nav-cta-small-touch {
+		display: block;
+	}
+}
