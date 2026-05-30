@@ -91,8 +91,8 @@ defined('ITEM_PER_PAGE')      OR define('ITEM_PER_PAGE', 10);
 defined('LIMIT_TEXT')      OR define('LIMIT_TEXT', 25);
 
 // Captcha
-define('CAPTCHA_SITE_KEY', '6Le7TAQtAAAAADoh82L9vn4hqH1m2fzSCXYS-eDK'); // healthyhomescambodia.com
-define('CAPTCHA_SECRET_KEY', '6Le7TAQtAAAAAHEz1EIlXCZ9ACIezZFQXbcgG3eE'); // healthyhomescambodia.com
+define('CAPTCHA_SITE_KEY', ''); // healthyhomescambodia.com
+define('CAPTCHA_SECRET_KEY', ''); // healthyhomescambodia.com
 // define('CAPTCHA_SITE_KEY', '6Lf0w84rAAAAALfVlA2MNboQQ3Gt8bg0oRHHKf1e'); // localhost
 // define('CAPTCHA_SECRET_KEY', '6Lf0w84rAAAAAEae1JazhJq2ELrAEQFro-TNzlkz'); // localhost
 define('CAPTCHA_VERIFY_URL', 'https://www.google.com/recaptcha/api/siteverify');
