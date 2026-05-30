@@ -21,7 +21,7 @@ class Blog extends CI_Controller {
             : [];
 
         $data = [
-            'title'    => 'Bài Viết',
+            'title'    => 'អត្ថបទ',
             'posts'    => $this->Md_post->getPublished($currPage),
             'pagination' => $pagination,
             'metadata' => false,
@@ -42,7 +42,7 @@ class Blog extends CI_Controller {
         $headerData = [
             'title'       => html_entity_decode($post['title'], ENT_QUOTES, 'UTF-8'),
             'seo_keywords'=> $post['seo_keywords'],
-            'canonical'   => base_url('bai-viet/' . $post['slug'] . '.html'),
+            'canonical'   => base_url('blog/' . $post['slug'] . '.html'),
             'metadata'    => [
                 'thumbnail' => !empty($post['thumbnail']) ? $post['thumbnail'] : base_url('resources/imgs/healthyhomes-logo.png'),
                 'desc'      => !empty($post['meta_description']) ? $post['meta_description'] : strip_tags($post['description']),
@@ -68,7 +68,7 @@ class Blog extends CI_Controller {
             : [];
 
         $data = [
-            'title'      => 'Chủ đề: ' . htmlspecialchars($tag),
+            'title'      => 'ប្រធានបទ: ' . htmlspecialchars($tag),
             'tag'        => $tag,
             'posts'      => $this->Md_post->getByTag($tag, $currPage),
             'pagination' => $pagination,

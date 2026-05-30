@@ -1,8 +1,8 @@
 <img src="<?php prImg('star/1.jpg') ?>">
 <div class="container">
-	<h2>NASA tin dùng Rainbow</h2>
+	<h2>NASA ជ្រើសរើស Rainbow</h2>
 	<h4>Golden Eagle Region</h4>
-	<em>Đây là lúc để tỏa sáng trong năm 2009!</em>
-	<p>Cơ sở NASA tại Cape Canaveral đang tìm kiếm thứ gì đó để làm sạch Trung Tâm Điều Khiển Phóng Tên Lửa và để bảo vệ các hiện vật lịch sử. Sau khi tìm kiếm trên internet, họ đã tìm thấy Rainbow và nghĩ rằng Rainbow là thứ mà họ đang tìm kiếm. Họ đã liên lạc với Rexair và Todd Gegelman đã đến văn phòng NASA rồi giới thiệu chiếc máy Rainbow kì diệu này cho họ.</p>
-	<p>NASA cuối cùng đã mua 3 máy Rainbow cho cơ sở của họ!</p>
+	<em>នេះជាឱកាសបញ្ចេញពន្លឺក្នុងឆ្នាំ 2009!</em>
+	<p>មូលដ្ឋានរបស់ NASA នៅ Cape Canaveral កំពុងស្វែងរកអ្វីមួយដើម្បីសម្អាតមជ្ឈមណ្ឌលបញ្ជាការបាញ់ក្បាលរ៉ុករីស និងការពារវត្ថុប្រវត្តិ។ បន្ទាប់ពីស្វែងរកតាម Internet ពួកគេបានរកឃើញ Rainbow ហើយគិតថា Rainbow គឺជាអ្វីដែលពួកគេកំពុងស្វែងរក។ ពួកគេបានទំនាក់ទំនង Rexair ហើយ Todd Gegelman បានទៅការិយាល័យ NASA ហើយបង្ហាញម៉ាស៊ីន Rainbow ដ៏អស្ចារ្យនេះដល់ពួកគេ។</p>
+	<p>NASA បានទិញ Rainbow 3 គ្រឿងសម្រាប់មូលដ្ឋានរបស់ខ្លួន!</p>
 </div>

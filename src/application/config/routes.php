@@ -54,8 +54,8 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 /* Public product routes */
-$route['san-pham-khac'] = 'Product/index';
-$route['san-pham-khac/([a-z0-9\-]+)\.html'] = 'Product/detail/$1';
+$route['other-products'] = 'Product/index';
+$route['other-products/([a-z0-9\-]+)\.html'] = 'Product/detail/$1';
 
 /* Admin product routes */
 $route['admin/products'] = 'Products/index';
@@ -65,32 +65,32 @@ $route['admin/products/delete-image/(:num)'] = 'Products/deleteImage/$1';
 $route['admin/products/edit/(:num)'] = 'Products/edit/$1';
 $route['admin/products/delete/(:num)'] = 'Products/delete/$1';
 
-$route['san-pham'] = 'Pages/product';
-$route['san-pham/cach-thuc-van-hanh'] = 'Pages/howToWork';
-$route['san-pham/cach-thuc-mua-hang'] = 'Pages/howToBuy';
-$route['san-pham/dung-cu'] = 'Pages/tool';
+$route['products'] = 'Pages/product';
+$route['products/how-it-works'] = 'Pages/howToWork';
+$route['products/how-to-buy'] = 'Pages/howToBuy';
+$route['products/tools'] = 'Pages/tool';
 
-$route['gioi-thieu/gioi-thieu-ve-chung-toi'] = 'Pages/aboutUs';
-$route['gioi-thieu/lich-su-thanh-lap'] = 'Pages/history';
-$route['gioi-thieu/chung-thuc-tu-khach-hang'] = 'Pages/customerFeed';
+$route['about/about-us'] = 'Pages/aboutUs';
+$route['about/history'] = 'Pages/history';
+$route['about/testimonials'] = 'Pages/customerFeed';
 
-$route['chung-nhan/giay-chung-nhan'] = 'Pages/certification';
-$route['chung-nhan/nguoi-noi-tieng'] = 'Pages/starMember';
-$route['chung-nhan/nguoi-noi-tieng/(:num)'] = 'Pages/starMemberDetail/$1';
+$route['certification/certificates'] = 'Pages/certification';
+$route['certification/celebrities'] = 'Pages/starMember';
+$route['certification/celebrities/(:num)'] = 'Pages/starMemberDetail/$1';
 
-$route['ho-tro'] = 'Pages/support';
-$route['ho-tro/khach-hang-chu-y'] = 'Pages/customerWarning';
-$route['ho-tro/videos'] = 'Pages/videos';
-$route['ho-tro/huong-dan-su-dung'] = 'Pages/userManual';
-$route['ho-tro/nhung-meo-lam-sach'] = 'Pages/cleaningTip';
-$route['ho-tro/nhung-cau-hoi-thuong-gap'] = 'Pages/friendlyQA';
-$route['ho-tro/du-lieu-tham-khao'] = 'Pages/dataSheet';
-$route['ho-tro/dat-mua-phu-kien'] = 'Pages/supplies';
-$route['ho-tro/lien-he-chung-toi'] = 'Pages/contactUs';
+$route['support'] = 'Pages/support';
+$route['support/buyer-beware'] = 'Pages/customerWarning';
+$route['support/videos'] = 'Pages/videos';
+$route['support/user-manual'] = 'Pages/userManual';
+$route['support/cleaning-tips'] = 'Pages/cleaningTip';
+$route['support/faq'] = 'Pages/friendlyQA';
+$route['support/datasheet'] = 'Pages/dataSheet';
+$route['support/supplies'] = 'Pages/supplies';
+$route['support/contact-us'] = 'Pages/contactUs';
 
-$route['yeu-cau-dung-thu-tai-nha'] = 'Pages/requestDemo';
+$route['request-demo'] = 'Pages/requestDemo';
 
-$route['khach-hang'] = 'Pages/customers';
+$route['customers'] = 'Pages/customers';
 
 /* Migration runner */
 $route['migrate'] = 'Migrate/index';
@@ -110,9 +110,9 @@ $route['admin/blogs/view/(:num)'] = 'Blogs/view/$1';
 $route['admin/blogs/delete/(:num)'] = 'Blogs/delete/$1';
 
 /* Public blog routes */
-$route['bai-viet'] = 'Blog/index';
-$route['bai-viet/([a-z0-9\-]+)\.html'] = 'Blog/detail/$1';
-$route['bai-viet/(:any)'] = 'Blog/byTag/$1';
+$route['blog'] = 'Blog/index';
+$route['blog/([a-z0-9\-]+)\.html'] = 'Blog/detail/$1';
+$route['blog/(:any)'] = 'Blog/byTag/$1';
 
 $route['blogs'] = 'pages/blogs';
 $route['blogs/(:any)'] = 'pages/blogView/$1';
@@ -123,8 +123,8 @@ $route['admin/activities/create'] = 'blogs/createActivity';
 $route['admin/activities/edit/(:num)'] = 'blogs/editActivity/$1';
 $route['admin/activities/view/(:num)'] = 'blogs/viewActivity/$1';
 $route['admin/activities/delete/(:num)'] = 'blogs/deleteActivity/$1';
-$route['hoat-dong'] = 'pages/activities';
-$route['hoat-dong/(:any)'] = 'pages/activityView/$1';
+$route['activities'] = 'pages/activities';
+$route['activities/(:any)'] = 'pages/activityView/$1';
 
 /* Router for Free gifts */
 $route['admin/gifts'] = 'gifts/index';

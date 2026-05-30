@@ -1,14 +1,12 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Đặt mua phụ kiện</h1>
+		<h1 class="float-left">ទិញគ្រឿងបន្ថែម</h1>
 		<p class="float-right d-none d-md-block">
-			<a href="/">
-				<span>Rainbow® Cleaning System</span>
-			</a>
+			<a href="/"><span>Rainbow® Cleaning System</span></a>
 			<span>/</span>
-			<a href="<?php prUrl('ho-tro') ?>">Hỗ trợ</a>
+			<a href="<?php prUrl('support') ?>">ការគាំទ្រ</a>
 			<span>/</span>
-			<span>Đặt mua phụ kiện</span>
+			<span>ទិញគ្រឿងបន្ថែម</span>
 		</p>
 	</div>
 </div>
@@ -17,12 +15,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-9">
-				<h1 style="color: white">Đặt mua linh kiện và phụ kiện Rainbow®</h1>
-				<p style="color: rgba(255,255,255,0.9); padding-right: 26px;">Tìm kiếm nước hoa Rainbow, linh kiện hoặc phụ kiện? Nhà phân phối Rainbow® ủy quyền gần đó có thể giúp đỡ.</p>
-				<a href="https://rainbowsystem.com/support/find-a-distributor" class="btn btn-lg btn-success" target="_blank">TÌM MỘT NHÀ PHÂN PHỐI ĐƯỢC ỦY QUYỀN</a>
-				<p style="color: rgba(255,255,255,0.9); padding-right: 26px; margin-top: 26px;">Nếu bạn không thể tìm được Nhà phân phối gần đó, vui lòng liên hệ với Bộ phận dịch vụ khách hàng Healthy Homes Viet Nam.</p>
+				<h1 style="color: white">ទិញគ្រឿងផ្លាស់ប្ដូរ និងគ្រឿងបន្ថែម Rainbow®</h1>
+				<p style="color: rgba(255,255,255,0.9); padding-right: 26px;">ស្វែងរកទឹកអប់ Rainbow គ្រឿងផ្លាស់ប្ដូរ ឬគ្រឿងបន្ថែម? អ្នកចែកចាយ Rainbow® ដែលទទួលស្គាល់ ជិតៗអ្នកអាចជួយបាន។</p>
+				<a href="https://rainbowsystem.com/support/find-a-distributor" class="btn btn-lg btn-success" target="_blank">ស្វែងរកអ្នកចែកចាយដែលទទួលស្គាល់</a>
+				<p style="color: rgba(255,255,255,0.9); padding-right: 26px; margin-top: 26px;">ប្រសិនបើអ្នករកមិនឃើញអ្នកចែកចាយជិតៗ សូមទំនាក់ទំនងផ្នែកសេវាអតិថិជន Healthy Homes Viet Nam។</p>
 			</div>
-		</div>		
+		</div>
 	</div>
 </div>
 
@@ -32,12 +30,12 @@
 			<img src="<?php prImg('Buyer-Beware.gif') ?>" class="d-block w-75" style="margin: 26px;">
 		</div>
 		<div class="col-md-9">
-			<h3 style="font-weight: 400; line-height: 1.7;"><strong style="color: #d2232a">KHÁCH HÀNG CHÚ Ý:</strong> Đừng mắc phải sai lầm khi mua Rainbow thông qua các kênh không được uỷ quyền chính thức.</h3>
-			<p>Khi khách hàng mua Hệ thống làm sạch tổng hợp Rainbow, là chúng ta mua để bảo vệ sức khoẻ của cả gia đình trong một thời gian dài, 10 năm 20 năm, chúng ta cần một nơi tin tưởng để bảo hành, kiểm tra định kỳ cũng như sửa chữa sau thời gian bảo hành. Và Hệ thống làm sạch tổng hợp Rainbow hàng thật chỉ được bán thông qua những Nhà phân phối được uỷ quyền chính thức trên toàn thế giới. Tại thị trường Việt Nam, Hệ thống làm sạch tổng hợp Rainbow được phân phối độc quyền và chính thức bởi Công Ty TNHH Healthy Homes Viet Nam.</p>
+			<h3 style="font-weight: 400; line-height: 1.7;"><strong style="color: #d2232a">ការព្រមានអតិថិជន:</strong> កុំធ្វើខុស ពេលទិញ Rainbow តាមរយៈបណ្ដាញដែលមិនទទួលស្គាល់ជាផ្លូវការ។</h3>
+			<p>នៅពេលដែលអតិថិជនទិញប្រព័ន្ធសម្អាតទូទៅ Rainbow យើងទិញវាដើម្បីការពារសុខភាពគ្រួសារក្នុងរយៈពេលវែង ១០ ឆ្នាំ ២០ ឆ្នាំ យើងត្រូវការទីកន្លែងដែលទុកចិត្តបានសម្រាប់ការធានា ការពិនិត្យជាប្រចាំ និងការជួសជុល។ ហើយប្រព័ន្ធសម្អាតទូទៅ Rainbow ពិតប្រាកដ ត្រូវបានលក់តាមរយៈអ្នកចែកចាយដែលទទួលស្គាល់ជាផ្លូវការប៉ុណ្ណោះ។ នៅទីផ្សារកម្ពុជា ប្រព័ន្ធសម្អាតទូទៅ Rainbow ត្រូវបានចែកចាយផ្ដាច់មុខ និងជាផ្លូវការ ដោយ CÔNG TY TNHH HEALTHY HOMES VIET NAM។</p>
 
-			<a href="<?php prUrl('ho-tro/khach-hang-chu-y#rui-ro-khi-mua-tu-nguon-khong-duoc-uy-quyen') ?>" style="margin-bottom: 26px">Những nguy cơ khi mua từ những nơi không được uỷ quyền chính thức</a>
+			<a href="<?php prUrl('support/buyer-beware#buyer-beware-risks') ?>" style="margin-bottom: 26px">ហានិភ័យនៃការទិញពីប្រភពដែលមិនទទួលស្គាល់</a>
 			<br>
-			<a href="<?php prUrl('ho-tro/khach-hang-chu-y#loi-ich-khi-mua-tu-healthyhome-vn') ?>">Lợi ích khi mua từ Công Ty TNHH Healthy Homes Viet Nam</a>
+			<a href="<?php prUrl('support/buyer-beware#benefits-from-healthyhomes') ?>">អត្ថប្រយោជន៍នៃការទិញពី CÔNG TY TNHH HEALTHY HOMES VIET NAM</a>
 		</div>
 	</div>
 </div>

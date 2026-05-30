@@ -1,12 +1,10 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Giấy chứng nhận</h1>
+		<h1 class="float-left">វិញ្ញាបនបត្រ</h1>
 		<p class="float-right d-none d-md-block">
-			<a href="/">
-				<span>Rainbow® Cleaning System</span>
-			</a>
+			<a href="/"><span>Rainbow® Cleaning System</span></a>
 			<span>/</span>
-			<span>Chứng nhận</span>
+			<span>វិញ្ញាបនបត្រ</span>
 		</p>
 	</div>
 </div>

@@ -10,11 +10,11 @@
 
 <div class="pan-title p-pan-title">
     <div class="container">
-        <h1 class="float-left">Bài Viết</h1>
+        <h1 class="float-left">អត្ថបទ</h1>
         <p class="float-right d-none d-md-block">
             <a href="/"><span>Rainbow® Cleaning System</span></a>
             <span>/</span>
-            <a href="<?php echo base_url('bai-viet'); ?>">Bài Viết</a>
+            <a href="<?php echo base_url('blog'); ?>">អត្ថបទ</a>
             <span>/</span>
             <?php
                 $bcTitle = html_entity_decode($post['title'], ENT_QUOTES, 'UTF-8');
@@ -41,7 +41,7 @@
                 <?php if (!empty($tags)): ?>
                 <div class="mr-3">
                     <?php foreach ($tags as $tag): ?>
-                    <a href="<?php echo base_url('bai-viet/' . urlencode($tag)); ?>"
+                    <a href="<?php echo base_url('blog/' . urlencode($tag)); ?>"
                        class="badge badge-dark tag-pill mr-1 px-2 py-1">
                         <i class="fas fa-tag fa-xs mr-1"></i><?php echo htmlspecialchars($tag); ?>
                     </a>
@@ -57,7 +57,7 @@
                 <?php if (!empty($post['updated_at']) && $post['updated_at'] !== $post['created_at']): ?>
                 <span>
                     <i class="fas fa-sync-alt mr-1"></i>
-                    Cập nhật: <?php echo date('d/m/Y', strtotime($post['updated_at'])); ?>
+                    ធ្វើបច្ចុប្បន្នភាព: <?php echo date('d/m/Y', strtotime($post['updated_at'])); ?>
                 </span>
                 <?php endif; ?>
             </div>
@@ -88,11 +88,11 @@
             <?php if (!empty($tags)): ?>
             <div class="border-top pt-4 pb-2">
                 <strong class="text-muted small text-uppercase">
-                    <i class="fas fa-tags mr-1"></i> Chủ đề
+                    <i class="fas fa-tags mr-1"></i> ប្រធានបទ
                 </strong>
                 <div class="mt-2">
                     <?php foreach ($tags as $tag): ?>
-                    <a href="<?php echo base_url('bai-viet/' . urlencode($tag)); ?>"
+                    <a href="<?php echo base_url('blog/' . urlencode($tag)); ?>"
                        class="btn btn-sm btn-outline-secondary mr-1 mb-1 tag-pill">
                         #<?php echo htmlspecialchars($tag); ?>
                     </a>
@@ -103,8 +103,8 @@
 
             <!-- Nút quay lại -->
             <div class="text-center mt-5">
-                <a href="<?php echo base_url('bai-viet'); ?>" class="btn btn-dark">
-                    <i class="fas fa-th-large mr-1"></i> Xem tất cả bài viết
+                <a href="<?php echo base_url('blog'); ?>" class="btn btn-dark">
+                    <i class="fas fa-th-large mr-1"></i> មើលអត្ថបទទាំងអស់
                 </a>
             </div>
 

@@ -7,10 +7,12 @@ src/resources/videos/
 
 # Development files
 .dev/
+dev-data/
 
 # Runtime / cache
 src/application/cache/sessions/
 src/application/cache/*.cache
+src/application/logs/*
 
 # Sensitive config
 src/application/config/database.php

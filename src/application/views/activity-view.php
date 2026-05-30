@@ -1,12 +1,10 @@
 <div class="pan-title p-pan-title">
   <div class="container">
-    <h1 class="float-left">Hoạt động</h1>
+    <h1 class="float-left">សកម្មភាព</h1>
     <p class="float-right d-none d-md-block">
-      <a href="/">
-        <span>Rainbow® Cleaning System</span>
-      </a>
+      <a href="/"><span>Rainbow® Cleaning System</span></a>
       <span>/</span>
-      <span>Hoạt động</span>
+      <span>សកម្មភាព</span>
     </p>
   </div>
 </div>
@@ -24,8 +22,8 @@
 
       <hr>
       <div class="pull-right">
-        <a href="<?php echo base_url('hoat-dong'); ?>" class="btn btn-sm btn-outline-secondary" role="button">
-          &larr; Hoạt động khác
+        <a href="<?php echo base_url('activities'); ?>" class="btn btn-sm btn-outline-secondary" role="button">
+          &larr; សកម្មភាពផ្សេងទៀត
         </a>
       </div>
     </div>

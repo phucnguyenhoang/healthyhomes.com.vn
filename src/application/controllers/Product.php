@@ -13,14 +13,14 @@ class Product extends CI_Controller {
         $products = $this->Md_product->getPublished();
 
         $this->load->view('layout/header', [
-            'title'    => 'Sản Phẩm',
+            'title'    => 'ផលិតផល',
             'metadata' => false,
         ]);
         $this->load->view('product/index', ['products' => $products]);
         $this->load->view('layout/footer');
     }
 
-    // /san-pham-khac/<slug>.html
+    // /other-products/<slug>.html
     public function detail($slug) {
         $product = $this->Md_product->getBySlug($slug);
         if (!$product) show_404();
@@ -35,7 +35,7 @@ class Product extends CI_Controller {
         $this->load->view('layout/header', [
             'title'        => html_entity_decode($product['name'], ENT_QUOTES, 'UTF-8'),
             'seo_keywords' => $product['seo_keywords'],
-            'canonical'    => base_url('san-pham-khac/' . $product['slug'] . '.html'),
+            'canonical'    => base_url('other-products/' . $product['slug'] . '.html'),
             'metadata'     => [
                 'thumbnail' => $mainImage ?: base_url('resources/imgs/healthyhomes-logo.png'),
                 'desc'      => !empty($product['meta_description'])
@@ -59,14 +59,14 @@ class Product extends CI_Controller {
             'name'        => html_entity_decode($product['name'], ENT_QUOTES, 'UTF-8'),
             'description' => strip_tags($product['description'] ?? ''),
             'image'       => $images,
-            'url'         => base_url('san-pham-khac/' . $product['slug'] . '.html'),
+            'url'         => base_url('other-products/' . $product['slug'] . '.html'),
             'brand'       => ['@type' => 'Organization', 'name' => 'Healthy Homes'],
             'offers'      => [
                 '@type'         => 'Offer',
                 'price'         => (string) $product['price'],
                 'priceCurrency' => 'VND',
                 'availability'  => 'https://schema.org/InStock',
-                'url'           => base_url('san-pham-khac/' . $product['slug'] . '.html'),
+                'url'           => base_url('other-products/' . $product['slug'] . '.html'),
             ],
         ];
         return '<script type="application/ld+json">'

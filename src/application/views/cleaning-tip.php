@@ -1,14 +1,12 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Những mẹo làm sạch</h1>
+		<h1 class="float-left">គន្លឹះសម្អាត</h1>
 		<p class="float-right d-none d-md-block">
-			<a href="/">
-				<span>Rainbow® Cleaning System</span>
-			</a>
+			<a href="/"><span>Rainbow® Cleaning System</span></a>
 			<span>/</span>
-			<a href="<?php prUrl('ho-tro') ?>">Hỗ trợ</a>
+			<a href="<?php prUrl('support') ?>">ការគាំទ្រ</a>
 			<span>/</span>
-			<span>Những mẹo làm sạch</span>
+			<span>គន្លឹះសម្អាត</span>
 		</p>
 	</div>
 </div>
@@ -17,132 +15,126 @@
 	<div class="row">
 		<div class="col-md-4">
 			<ul class="ct-pan-left-nav">
-				<li><a href="giat-khong-khi-trong-nha-cua-ban" class="active">“Giặt” không khí trong nhà của bạn</a></li>
-				<div class="collapse show giat-khong-khi-trong-nha-cua-ban d-md-none">
-					<h3>“Giặt” không khí trong nhà của bạn</h3>
+				<li><a href="water-wash-air" class="active">ការ "លាង" ខ្យល់ក្នុងផ្ទះរបស់អ្នក</a></li>
+				<div class="collapse show water-wash-air d-md-none">
+					<h3>ការ "លាង" ខ្យល់ក្នុងផ្ទះរបស់អ្នក</h3>
 					<img src="<?php prImg('tip/cleaning-tip-water-wash.jpg') ?>" class="d-block w-100">
-					<p>Để có không khí trong lành, được rửa sạch bằng nước, chỉ cần đặt Rainbow của bạn vào giữa phòng và chạy với tốc độ làm sạch không khí ở mức thấp.</p>
-					<p>Rainbow cũng có thể khử mùi hoặc làm thơm không khí trong nhà bạn. Đơn giản chỉ cần thêm dung dịch Rainbow Fresh Air hoặc bất kỳ nước hoa Rainbow nào vào chậu nước.</p>
+					<p>ដើម្បីទទួលបានខ្យល់ស្រស់ ដែលបានលាងដោយទឹក គ្រាន់តែដាក់ Rainbow នៅកណ្ដាលបន្ទប់ ហើយដំណើរការដោយល្បឿនទាប ដើម្បីសម្អាតខ្យល់។</p>
+					<p>Rainbow ក៏អាចលុបក្លិន ឬដាក់ក្លិនក្រអូបក្នុងផ្ទះ។ គ្រាន់តែបន្ថែម Rainbow Fresh Air ឬ Rainbow fragrance ណាមួយទៅក្នុងធុងទឹក។</p>
 				</div>
 
-				<li><a href="ve-sinh-noi-that-duoc-boc-ben-ngoai">Vệ sinh nội thất được bọc bên ngoài</a></li>
-				<div class="collapse ve-sinh-noi-that-duoc-boc-ben-ngoai d-md-none">
-					<h3>Vệ sinh nội thất được bọc bên ngoài</h3>
+				<li><a href="clean-upholstery">សម្អាតគ្រឿងសង្ហារឹមមានក្រណាត់</a></li>
+				<div class="collapse clean-upholstery d-md-none">
+					<h3>សម្អាតគ្រឿងសង្ហារឹមមានក្រណាត់</h3>
 					<img src="<?php prImg('tip/cleaning-tips-upholstered.jpg') ?>" class="d-block w-100">
-					<p>Rainbow đi kèm với nhiều dụng cụ hữu ích, nhưng một số ít linh hoạt như Upholstery Tool. Upholstery Tool thì thật tuyệt vời để làm sạch ghế sofa, ghế và đồ đạc trong nhà khác. Nó cũng tuyệt vời để làm sạch nhẹ nhàng quần áo và áo khoác ngoài - bao gồm len, áo khoác lông và vải tinh tế.</p>
+					<p>Rainbow មកជាមួយឧបករណ៍ដ៏ប្រើប្រាស់ជាច្រើន ប៉ុន្តែ Upholstery Tool ពិតជាអស្ចារ្យ ដើម្បីសម្អាតសាឡុង កៅអី និងគ្រឿងក្នុងផ្ទះ ក៏ដូចជាសម្អាតសម្លៀកបំពាក់ ជាដើម។</p>
 				</div>
 
-				<li><a href="lam-sach-cac-khu-vuc-kho-tiep-can">Làm sạch các khu vực khó tiếp cận</a></li>
-				<div class="collapse lam-sach-cac-khu-vuc-kho-tiep-can d-md-none">
-					<h3>Làm sạch các khu vực khó tiếp cận</h3>
+				<li><a href="hard-to-reach">សម្អាតកន្លែងពិបាកទៅដល់</a></li>
+				<div class="collapse hard-to-reach d-md-none">
+					<h3>សម្អាតកន្លែងពិបាកទៅដល់</h3>
 					<img src="<?php prImg('tip/cleaning-tips-hard-to-reach.jpg') ?>" class="d-block w-100">
-					<p>Rainbow Coil Cleaner của bạn là một công cụ rất nhỏ, và tiện dụng. Do thiết kế thanh mảnh của nó, nó có thể dễ dàng được sử dụng để làm sạch dưới máy giặt hoặc máy sấy của bạn và để hút sạch các dàn ống làm mát có thể nhìn thấy trong tủ lạnh của bạn. Bạn thậm chí có thể sử dụng nó để làm sạch những nơi khó tiếp cận trong nhà hoặc thậm chí là xe hơi của bạn.</p>
+					<p>Rainbow Coil Cleaner គឺជាឧបករណ៍តូច ងាយស្រួល។ ដោយសារការរចនាស្លូតបូត វាងាយស្រួលប្រើ ក្រោមម៉ាស៊ីន ឬ ការសម្អាតកន្លែងពិបាកក្នុងផ្ទះ ឬ រថយន្ត។</p>
 				</div>
 
-				<li><a href="lam-sach-dem-va-goi">Làm sạch đệm và gối</a></li>
-				<div class="collapse lam-sach-dem-va-goi d-md-none">
-					<h3>Làm sạch đệm và gối</h3>
+				<li><a href="cushions-pillows">សម្អាតខ្នើយ និងខ្នើយក្បាល</a></li>
+				<div class="collapse cushions-pillows d-md-none">
+					<h3>សម្អាតខ្នើយ និងខ្នើយក្បាល</h3>
 					<img src="<?php prImg('tip/cleaning-tips-cushions-pillows.jpg') ?>" class="d-block w-100">
-					<p>Bạn có biết rằng bạn có thể làm sạch đệm và gối bằng Rainbow không? Đó là lý do tại sao Rainbow thiết kế Aerofresh Bag. Đây là cách bạn làm điều đó</p>
+					<p>អ្នកដឹងទេថា អ្នកអាចសម្អាតខ្នើយ ដោយប្រើ Rainbow? ហើយ Rainbow បានរចនា Aerofresh Bag មកសម្រាប់ការនេះ។</p>
 					<ol>
-						<li>Đặt gối của bạn vào Aerofresh Bag.</li>
-						<li>Với Upholstery Tool được gắn vào đầu gậy, giữ chặt túi quanh gậy. Bật Rainbow và không khí cũ, bụi bặm bị hút ra ngoài.</li>
-						<li>Sau đó, không buông túi và đầu gậy, gắn vòi vào ống xả không khí ngoài sau Rainbow. Chiếc gối của bạn hiện đã được “thanh lọc” bởi không khí sạch, được rửa bằng nước.</li>
+						<li>ដាក់ខ្នើយក្នុង Aerofresh Bag។</li>
+						<li>ភ្ជាប់ Upholstery Tool ហើយបើក Rainbow ដើម្បីដកខ្យល់ចាស់ ធូលីចេញ។</li>
+						<li>បន្ទាប់មក ភ្ជាប់ទៅ outlet ខ្យល់ ដើម្បីបញ្ចូលខ្យល់ស្អាត ដែលបានលាងដោយទឹក ចូលទៅក្នុងខ្នើយ។</li>
 					</ol>
 				</div>
 
-				<li><a href="su-dung-dusting-brush">Sử dụng Dusting Brush</a></li>
-				<div class="collapse su-dung-dusting-brush d-md-none">
-					<h3>Sử dụng Dusting Brush</h3>
+				<li><a href="dusting-brush">ការប្រើ Dusting Brush</a></li>
+				<div class="collapse dusting-brush d-md-none">
+					<h3>ការប្រើ Dusting Brush</h3>
 					<img src="<?php prImg('tip/cleaning-tips-dusting-brush.jpg') ?>" class="d-block w-100">
-					<p>Đừng quên đặt Dusting Brush của bạn để sử dụng xung quanh nhà. Gắn nó vào gậy Rainbow của bạn và bao quanh căn phòng bằng sức hút. Bắt đầu ở một đầu của căn phòng và hút bụi gương, rèm, màn và rèm cửa, bóng đèn và bệ cửa sổ. Kết thúc quá trình quét dọn của bạn bằng cách gắn bàn chải quét bụi vào một vòi mở rộng để tiếp cận cánh quạt trần và, gờ nhà, tường và trần nhà cao.</p>
-					<p>Bàn chải bụi rất lý tưởng cho các công việc làm sạch tinh tế - lông mịn của nó nhẹ nhàng làm sạch đồ sứ, đồ nghệ thuật, rèm cửa sổ, v.v. Nhưng bạn cũng có thể sử dụng nó để nhẹ nhàng làm sạch chó hoặc mèo của gia đình, nhẹ nhàng loại bỏ bụi, bụi bẩn và lông thú cưng. Và nó hoàn hảo cho bụi nhà.</p>
+					<p>កុំភ្លេចប្រើ Dusting Brush នៅជុំវិញផ្ទះ។ ភ្ជាប់ទៅ Rainbow ហើយចាប់ផ្ដើមសម្អាតកញ្ចក់ ទ្វា ភ្លើង ហើយបញ្ចប់ដោយប្រើ extension wand ដើម្បីទៅដល់ quạt trần ជាដើម។</p>
 				</div>
 
-				<li><a href="be-mat-cung">Bề mặt cứng? Không vấn đề gì!</a></li>
-				<div class="collapse be-mat-cung d-md-none">
-					<h3>Bề mặt cứng? Không vấn đề gì!</h3>
+				<li><a href="hard-surface">ផ្ទៃរឹង? គ្មានបញ្ហា!</a></li>
+				<div class="collapse hard-surface d-md-none">
+					<h3>ផ្ទៃរឹង? គ្មានបញ្ហា!</h3>
 					<img src="<?php prImg('tip/cleaning-tips-hard-surface-floors.jpg') ?>" class="d-block w-100">
-					<p>Bằng cách thêm Rainbow RainJet vào hệ thống làm sạch của bạn, bạn sẽ có thể mở rộng khả năng của mình để làm sạch gạch men và các loại sàn khác.</p>
-					<p>Dung dịch làm sạch sàn Rainbow là chất lỏng tương thích có thể được sử dụng với RainJet của bạn để làm sạch nhanh chóng và cho kết quả sáng bóng. Hãy hỏi nhà phân phối Rainbow được ủy quyền của bạn về cách bạn có thể có được RainJet.</p>
+					<p>ដោយបន្ថែម Rainbow RainJet ទៅប្រព័ន្ធ អ្នកអាចសម្អាតក្រណាត់ ហើយជាន់ផ្សេងទៀត។</p>
 				</div>
 
-				<li><a href="su-dung-rainbow-inflator">Sử dụng Rainbow Inflator Tool</a></li>
-				<div class="collapse su-dung-rainbow-inflator d-md-none">
-					<h3>Sử dụng Rainbow Inflator Tool</h3>
+				<li><a href="inflator-tool">ការប្រើ Rainbow Inflator Tool</a></li>
+				<div class="collapse inflator-tool d-md-none">
+					<h3>ការប្រើ Rainbow Inflator Tool</h3>
 					<img src="<?php prImg('tip/cleaning-tips-inflator-tool.jpg') ?>" class="d-block w-100">
-					<p>Bằng cách kết nối vòi với cửa thoát khí của Rainbow, bạn có thể dễ dàng bơm phồng quả bóng bãi biển, nệm không khí và đồ chơi bơm hơi với Inflator Tool.</p>
-					<img src="<?php prImg('tip/cleaning-tips-confined-space.jpg') ?>" class="d-block w-100">
-					<p>Ngoài ra, bằng cách sử dụng Inflator Tool trong chế độ hút trực tiếp, bạn có dụng cụ hoàn hảo để làm sạch các không gian hạn chế, chẳng hạn như bệ cửa sổ, dàn ống tủ lạnh và phía sau các thiết bị.</p>
+					<p>ដោយភ្ជាប់ទៅ outlet ខ្យល់ អ្នកអាចងាយស្រួលបូម ក្បាលជាន់ ឬប្រដាប់ប្រើប្រាស់ដែលបូមខ្យល់ ដោយប្រើ Inflator Tool។</p>
 				</div>
 
-				<li><a href="su-dung-sprayer-tool">Sử dụng Sprayer Tool</a></li>
-				<div class="collapse su-dung-sprayer-tool d-md-none">
-					<h3>Sử dụng Sprayer Tool</h3>
+				<li><a href="sprayer-tool">ការប្រើ Sprayer Tool</a></li>
+				<div class="collapse sprayer-tool d-md-none">
+					<h3>ការប្រើ Sprayer Tool</h3>
 					<img src="<?php prImg('tip/cleaning-tips-sprayer-tool.jpg') ?>" class="d-block w-100">
-					<p>Rainbow có thể được sử dụng với Rainbow Sprayer khéo léo. Chỉ cần gắn Rainbow Sprayer vào gậy Rainbow của bạn, kết nối vòi với cửa thoát không khí và sử dụng sức mạnh của Rainbow để sử dụng nhiều sản phẩm xịt thông thường trong gia đình.</p>
-					<p>Bạn thậm chí có thể đổ đầy Sprayer bằng nước thông thường trong gia đình và sử dụng nó để phun sương cho cây trồng trong nhà hoặc làm sạch ô cửa sổ của bạn.</p>
+					<p>Rainbow អាចប្រើជាមួយ Rainbow Sprayer ដ៏ជំនាញ។ គ្រាន់តែភ្ជាប់ Rainbow Sprayer ទៅ wand ហើយប្រើ power Rainbow ដើម្បីឆ្លាក់ផ្ទៃ ឬ ដំណើរការ spray ផ្ទះ。</p>
 				</div>
 			</ul>
 		</div>
 		<div class="col-md-8 ct-pan-content-right d-none d-md-block">
-			<div class="collapse show giat-khong-khi-trong-nha-cua-ban">
-				<h3>“Giặt” không khí trong nhà của bạn</h3>
+			<div class="collapse show water-wash-air">
+				<h3>ការ "លាង" ខ្យល់ក្នុងផ្ទះរបស់អ្នក</h3>
 				<img src="<?php prImg('tip/cleaning-tip-water-wash.jpg') ?>" class="d-block w-100">
-				<p>Để có không khí trong lành, được rửa sạch bằng nước, chỉ cần đặt Rainbow của bạn vào giữa phòng và chạy với tốc độ làm sạch không khí ở mức thấp.</p>
-				<p>Rainbow cũng có thể khử mùi hoặc làm thơm không khí trong nhà bạn. Đơn giản chỉ cần thêm dung dịch Rainbow Fresh Air hoặc bất kỳ nước hoa Rainbow nào vào chậu nước.</p>
+				<p>ដើម្បីទទួលបានខ្យល់ស្រស់ ដែលបានលាងដោយទឹក គ្រាន់តែដាក់ Rainbow នៅកណ្ដាលបន្ទប់ ហើយដំណើរការដោយល្បឿនទាប ដើម្បីសម្អាតខ្យល់។</p>
+				<p>Rainbow ក៏អាចលុបក្លិន ឬដាក់ក្លិនក្រអូបក្នុងផ្ទះ។ គ្រាន់តែបន្ថែម Rainbow Fresh Air ឬ Rainbow fragrance ណាមួយទៅក្នុងធុងទឹក។</p>
 			</div>
 
-			<div class="collapse ve-sinh-noi-that-duoc-boc-ben-ngoai">
-				<h3>Vệ sinh nội thất được bọc bên ngoài</h3>
+			<div class="collapse clean-upholstery">
+				<h3>សម្អាតគ្រឿងសង្ហារឹមមានក្រណាត់</h3>
 				<img src="<?php prImg('tip/cleaning-tips-upholstered.jpg') ?>" class="d-block w-100">
-				<p>Rainbow đi kèm với nhiều dụng cụ hữu ích, nhưng một số ít linh hoạt như Upholstery Tool. Upholstery Tool thì thật tuyệt vời để làm sạch ghế sofa, ghế và đồ đạc trong nhà khác. Nó cũng tuyệt vời để làm sạch nhẹ nhàng quần áo và áo khoác ngoài - bao gồm len, áo khoác lông và vải tinh tế.</p>
+				<p>Rainbow មកជាមួយឧបករណ៍ដ៏ប្រើប្រាស់ជាច្រើន ប៉ុន្តែ Upholstery Tool ពិតជាអស្ចារ្យ ដើម្បីសម្អាតសាឡុង កៅអី ក៏ដូចជាសម្អាតសម្លៀកបំពាក់ ក្រណាត់ទន់ ជាដើម។</p>
 			</div>
 
-			<div class="collapse lam-sach-cac-khu-vuc-kho-tiep-can">
-				<h3>Làm sạch các khu vực khó tiếp cận</h3>
+			<div class="collapse hard-to-reach">
+				<h3>សម្អាតកន្លែងពិបាកទៅដល់</h3>
 				<img src="<?php prImg('tip/cleaning-tips-hard-to-reach.jpg') ?>" class="d-block w-100">
-				<p>Rainbow Coil Cleaner của bạn là một công cụ rất nhỏ, và tiện dụng. Do thiết kế thanh mảnh của nó, nó có thể dễ dàng được sử dụng để làm sạch dưới máy giặt hoặc máy sấy của bạn và để hút sạch các dàn ống làm mát có thể nhìn thấy trong tủ lạnh của bạn. Bạn thậm chí có thể sử dụng nó để làm sạch những nơi khó tiếp cận trong nhà hoặc thậm chí là xe hơi của bạn.</p>
+				<p>Rainbow Coil Cleaner គឺជាឧបករណ៍តូច ងាយស្រួល ដោយសារការរចនាស្លូតបូត វាងាយស្រួលប្រើ ក្រោមម៉ាស៊ីន ឬ ការសម្អាតកន្លែងពិបាកក្នុងផ្ទះ ឬ រថយន្ត។</p>
 			</div>
 
-			<div class="collapse lam-sach-dem-va-goi">
-				<h3>Làm sạch đệm và gối</h3>
+			<div class="collapse cushions-pillows">
+				<h3>សម្អាតខ្នើយ និងខ្នើយក្បាល</h3>
 				<img src="<?php prImg('tip/cleaning-tips-cushions-pillows.jpg') ?>" class="d-block w-100">
-				<p>Bạn có biết rằng bạn có thể làm sạch đệm và gối bằng Rainbow không? Đó là lý do tại sao Rainbow thiết kế Aerofresh Bag. Đây là cách bạn làm điều đó</p>
+				<p>អ្នកដឹងទេថា អ្នកអាចសម្អាតខ្នើយ ដោយប្រើ Rainbow? ហើយ Rainbow បានរចនា Aerofresh Bag មកសម្រាប់ការនេះ។</p>
 				<ol>
-					<li>Đặt gối của bạn vào Aerofresh Bag.</li>
-					<li>Với Upholstery Tool được gắn vào đầu gậy, giữ chặt túi quanh gậy. Bật Rainbow và không khí cũ, bụi bặm bị hút ra ngoài.</li>
-					<li>Sau đó, không buông túi và đầu gậy, gắn vòi vào ống xả không khí ngoài sau Rainbow. Chiếc gối của bạn hiện đã được “thanh lọc” bởi không khí sạch, được rửa bằng nước.</li>
+					<li>ដាក់ខ្នើយក្នុង Aerofresh Bag។</li>
+					<li>ភ្ជាប់ Upholstery Tool ហើយបើក Rainbow ដើម្បីដកខ្យល់ចាស់ ធូលីចេញ។</li>
+					<li>បន្ទាប់មក ភ្ជាប់ទៅ outlet ខ្យល់ ដើម្បីបញ្ចូលខ្យល់ស្អាត ចូលទៅក្នុងខ្នើយ។</li>
 				</ol>
 			</div>
 
-			<div class="collapse su-dung-dusting-brush">
-				<h3>Sử dụng Dusting Brush</h3>
+			<div class="collapse dusting-brush">
+				<h3>ការប្រើ Dusting Brush</h3>
 				<img src="<?php prImg('tip/cleaning-tips-dusting-brush.jpg') ?>" class="d-block w-100">
-				<p>Đừng quên đặt Dusting Brush của bạn để sử dụng xung quanh nhà. Gắn nó vào gậy Rainbow của bạn và bao quanh căn phòng bằng sức hút. Bắt đầu ở một đầu của căn phòng và hút bụi gương, rèm, màn và rèm cửa, bóng đèn và bệ cửa sổ. Kết thúc quá trình quét dọn của bạn bằng cách gắn bàn chải quét bụi vào một vòi mở rộng để tiếp cận cánh quạt trần và, gờ nhà, tường và trần nhà cao.</p>
-				<p>Bàn chải bụi rất lý tưởng cho các công việc làm sạch tinh tế - lông mịn của nó nhẹ nhàng làm sạch đồ sứ, đồ nghệ thuật, rèm cửa sổ, v.v. Nhưng bạn cũng có thể sử dụng nó để nhẹ nhàng làm sạch chó hoặc mèo của gia đình, nhẹ nhàng loại bỏ bụi, bụi bẩn và lông thú cưng. Và nó hoàn hảo cho bụi nhà.</p>
+				<p>កុំភ្លេចប្រើ Dusting Brush នៅជុំវិញផ្ទះ។ ភ្ជាប់ទៅ Rainbow ហើយចាប់ផ្ដើម ដោយចាប់ផ្ដើមពីចុងបន្ទប់ ហើយសម្អាតកញ្ចក់ ទ្វា ភ្លើង ហើយបញ្ចប់ ដោយប្រើ extension wand ដើម្បីទៅដល់ quạt trần ជាដើម។</p>
 			</div>
 
-			<div class="collapse be-mat-cung">
-				<h3>Bề mặt cứng? Không vấn đề gì!</h3>
+			<div class="collapse hard-surface">
+				<h3>ផ្ទៃរឹង? គ្មានបញ្ហា!</h3>
 				<img src="<?php prImg('tip/cleaning-tips-hard-surface-floors.jpg') ?>" class="d-block w-100">
-				<p>Bằng cách thêm Rainbow RainJet vào hệ thống làm sạch của bạn, bạn sẽ có thể mở rộng khả năng của mình để làm sạch gạch men và các loại sàn khác.</p>
-				<p>Dung dịch làm sạch sàn Rainbow là chất lỏng tương thích có thể được sử dụng với RainJet của bạn để làm sạch nhanh chóng và cho kết quả sáng bóng. Hãy hỏi nhà phân phối Rainbow được ủy quyền của bạn về cách bạn có thể có được RainJet.</p>
+				<p>ដោយបន្ថែម Rainbow RainJet ទៅប្រព័ន្ធ អ្នកអាចសម្អាតក្រណាត់ ហើយជាន់ផ្សេងទៀត។</p>
+				<p>ដំណោះស្រាយ Rainbow Clean Floor ជាប្រភេទទឹកអាចប្រើជាមួយ RainJet ដើម្បីសម្អាតឆាប់រហ័ស ហើយភ្លឺ ស្អាត ។</p>
 			</div>
 
-			<div class="collapse su-dung-rainbow-inflator">
-				<h3>Sử dụng Rainbow Inflator Tool</h3>
+			<div class="collapse inflator-tool">
+				<h3>ការប្រើ Rainbow Inflator Tool</h3>
 				<img src="<?php prImg('tip/cleaning-tips-inflator-tool.jpg') ?>" class="d-block w-100">
-				<p>Bằng cách kết nối vòi với cửa thoát khí của Rainbow, bạn có thể dễ dàng bơm phồng quả bóng bãi biển, nệm không khí và đồ chơi bơm hơi với Inflator Tool.</p>
+				<p>ដោយភ្ជាប់ទៅ outlet ខ្យល់ អ្នកអាចងាយស្រួលបូម ក្បាលជាន់ ឬប្រដាប់ប្រើប្រាស់ដែលបូមខ្យល់ ដោយប្រើ Inflator Tool។</p>
 				<img src="<?php prImg('tip/cleaning-tips-confined-space.jpg') ?>" class="d-block w-100">
-				<p>Ngoài ra, bằng cách sử dụng Inflator Tool trong chế độ hút trực tiếp, bạn có dụng cụ hoàn hảo để làm sạch các không gian hạn chế, chẳng hạn như bệ cửa sổ, dàn ống tủ lạnh và phía sau các thiết bị.</p>
+				<p>ក្រៅពីនេះ ដោយប្រើ Inflator Tool ក្នុងម៉ូដ suction ផ្ទាល់ អ្នកមានឧបករណ៍ល្អ ដើម្បីសម្អាតចន្លោះតូច ដូចជា coil ទូរទឹកកក ជាដើម។</p>
 			</div>
 
-			<div class="collapse su-dung-sprayer-tool">
-				<h3>Sử dụng Sprayer Tool</h3>
+			<div class="collapse sprayer-tool">
+				<h3>ការប្រើ Sprayer Tool</h3>
 				<img src="<?php prImg('tip/cleaning-tips-sprayer-tool.jpg') ?>" class="d-block w-100">
-				<p>Rainbow có thể được sử dụng với Rainbow Sprayer khéo léo. Chỉ cần gắn Rainbow Sprayer vào gậy Rainbow của bạn, kết nối vòi với cửa thoát không khí và sử dụng sức mạnh của Rainbow để sử dụng nhiều sản phẩm xịt thông thường trong gia đình.</p>
-				<p>Bạn thậm chí có thể đổ đầy Sprayer bằng nước thông thường trong gia đình và sử dụng nó để phun sương cho cây trồng trong nhà hoặc làm sạch ô cửa sổ của bạn.</p>
+				<p>Rainbow អាចប្រើជាមួយ Rainbow Sprayer ដ៏ជំនាញ។ ភ្ជាប់ Rainbow Sprayer ទៅ wand ភ្ជាប់ hose ទៅ outlet ខ្យល់ ហើយប្រើ power Rainbow ដើម្បីប្រើ spray ផ្សេងៗ ក្នុងផ្ទះ។</p>
+				<p>អ្នកថែមទាំងអាចបំពេញ Sprayer ដោយទឹកធម្មតា ហើយ spray សួន ឬ សម្អាតបង្អួច។</p>
 			</div>
 		</div>
 	</div>

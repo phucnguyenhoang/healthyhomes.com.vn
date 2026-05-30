@@ -23,27 +23,27 @@
 					</tr>
 				</table>
 
-				<p class="pan-intro">Từ năm 1936, Rexair đã phát minh Rainbow® - Hệ Thống Làm Sạch Tổng Hợp, được thiết kế để cải thiện môi trường sống xung quanh chúng ta, với hàng triệu người dùng hài lòng trên toàn thế giới.</p>
+				<p class="pan-intro">ចាប់តាំងពីឆ្នាំ ១៩៣៦ Rexair បានបង្កើត Rainbow® - ប្រព័ន្ធសម្អាតទូទៅ ដែលត្រូវបានរចនាឡើងដើម្បីកែលម្អបរិស្ថានរស់នៅរបស់យើង ជាមួយអ្នកប្រើប្រាស់ពេញចិត្តរាប់លាននាក់ទូទាំងពិភពលោក។</p>
 			</div>
 			<div class="col-md-3">
 				<div class="pan-nav">
-					<h3>Khám Phá</h3>
+					<h3>ស្វែងយល់</h3>
 					<ul>
-						<li><a href="<?php prUrl('san-pham') ?>">Hệ thống làm sạch tổng hợp Rainbow</a></li>
-						<li><a href="<?php prUrl('san-pham/cach-thuc-mua-hang') ?>">Cách thức mua hàng</a></li>
-						<li><a href="<?php prUrl('san-pham/dung-cu') ?>">Dụng cụ Rainbow</a></li>
-						<li><a href="<?php prUrl('gioi-thieu/gioi-thieu-ve-chung-toi') ?>">Công ty chúng tôi</a></li>
+						<li><a href="<?php prUrl('products') ?>">ប្រព័ន្ធសម្អាតទូទៅ Rainbow</a></li>
+						<li><a href="<?php prUrl('products/how-to-buy') ?>">របៀបទិញ</a></li>
+						<li><a href="<?php prUrl('products/tools') ?>">ឧបករណ៍ Rainbow</a></li>
+						<li><a href="<?php prUrl('about/about-us') ?>">ក្រុមហ៊ុនរបស់យើង</a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="pan-nav">
-					<h3>Thông Tin</h3>
+					<h3>ព័ត៌មាន</h3>
 					<ul>
-						<li><a href="https://rainbowsystem.com/support/find-a-distributor" target="_blank">Tìm nhà phân phối</a></li>
-						<li><a href="<?php prUrl('ho-tro/huong-dan-su-dung') ?>">Hướng dẫn sử dụng sản phẩm</a></li>
-						<li><a href="<?php prUrl('yeu-cau-dung-thu-tai-nha') ?>">Yêu cầu dùng thử tại nhà</a></li>
-						<li><a href="<?php prUrl('ho-tro/dat-mua-phu-kien') ?>">Mua linh kiện & phụ kiện</a></li>
+						<li><a href="https://rainbowsystem.com/support/find-a-distributor" target="_blank">ស្វែងរកអ្នកចែកចាយ</a></li>
+						<li><a href="<?php prUrl('support/user-manual') ?>">មគ្គុទ្ទេសក៍ប្រើប្រាស់ផលិតផល</a></li>
+						<li><a href="<?php prUrl('request-demo') ?>">ស្នើសុំការបង្ហាញនៅផ្ទះ</a></li>
+						<li><a href="<?php prUrl('support/supplies') ?>">ទិញគ្រឿងបន្ថែម</a></li>
 					</ul>
 				</div>
 			</div>

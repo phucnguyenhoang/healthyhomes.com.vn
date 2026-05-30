@@ -1,25 +1,24 @@
 <img src="<?php prImg('star/3.jpg') ?>">
 <div class="container">
 	<p class="float-right">MARIE, INC.</p>
-	<p>Ngày 29 Tháng 10 Năm 1996,</p>
+	<p>ថ្ងៃទី 29 ខែតុលា ឆ្នាំ 1996,</p>
 
-	<p>Ông Clay Wilson, Chủ Tịch <br>
+	<p>លោក Clay Wilson, ប្រធាន<br>
 	Ecomart<br>
 	27112 S. 3600 W.<br>
 	West Valley, UT 8419</p>
 
-	<p>Ông Wilson thân mến,</p>
+	<p>លោក Wilson ជាទីគោរព,</p>
 
-	<p>Gần đây, Callie Haggard - đại diện kinh doanh của quý công ty, đã giới thiệu <strong>Hệ Thống Làm Sạch Rainbow</strong> cho tôi. Tôi đã rất ấn tượng với kiến thức về sản phẩm của Callie và tôi còn ấn tượng hơn nữa với chính Hệ Thống Làm sạch Rainbow. </p>
+	<p>នាពេលថ្មីៗ Callie Haggard — តំណាងផ្នែកលក់របស់ក្រុមហ៊ុនអ្នក — បានណែនាំ <strong>ប្រព័ន្ធសម្អាត Rainbow</strong> ដល់ខ្ញុំ។ ខ្ញុំ​ចាប់​ចិត្ត​ខ្លាំង​ណាស់​ជាមួយ​ចំណេះ​ដឹង​ផ្នែក​ផលិត​ផល​របស់ Callie ហើយ​ខ្ញុំ​ចាប់​ចិត្ត​ខ្លាំង​ជាង​នេះ​ទៀត​ជាមួយ <strong>ប្រព័ន្ធសម្អាត Rainbow</strong> ខ្លួនឯង។</p>
 
-	<p>Dễ dàng vận hành với cơ chế làm sạch đến mức triệt để đã khiến tôi trở thành một người hâm mộ thực sự của <strong>Hệ Thống Làm Sạch Rainbow</strong>. Con tôi bị dị ứng và hệ thống này không chỉ triệt để thu dọn bụi bẩn trên các mặt phẳng mà còn làm sạch được cả bụi nhỏ trong không khí. Tôi biết nó đã tạo ra một sự khác biệt trong nhà của chúng tôi.  </p>
+	<p>ប្រតិបត្តិការ​ដ៏​ងាយ​ស្រួល​ជាមួយ​យន្ត​ការ​សម្អាត​ដ៏​ហ្មត់​ចត់​បាន​ធ្វើ​ឱ្យ​ខ្ញុំ​ក្លាយ​ជា​អ្នក​ស្រឡាញ់​ពិត​ប្រាកដ​នៃ <strong>ប្រព័ន្ធសម្អាត Rainbow</strong>។ កូន​របស់​ខ្ញុំ​មាន​ជំងឺ​អាឡែស៊ី ហើយ​ប្រព័ន្ធ​នេះ​មិន​ត្រឹម​តែ​ដក​ធូលី​ចំបើង​ចេញ​ពី​ផ្ទៃ​ប្រក​ទាំង​ឡាយ​ប៉ុណ្ណោះ​ទេ វា​ក៏​អាច​សម្អាត​ធូលី​ម៉ត​ក្នុង​អាកាស​ផង​ដែរ​។ ខ្ញុំ​ដឹង​ថា​វា​បាន​ធ្វើ​ឱ្យ​មាន​ការ​ប្រែ​ប្រួល​ជា​វិជ្ជមាន​ក្នុង​ផ្ទះ​យើង​ខ្ញុំ​ណាស់​។</p>
 
-	<p>Tôi cảm thấy rất may mắn khi tôi được giới thiệu chiếc máy đáng chú ý này và muốn quý công ty biết rằng tôi hài lòng với kết quả nhiều như thế nào, cũng như mẹ tôi ... bà cũng sở hữu một chiếc máy! Thảm của tôi chưa bao giờ nhìn sạch và tốt hơn thế! </p>
+	<p>ខ្ញុំ​មាន​អំណរ​ក្ដី​ធំ​ធេងណាស់​ដែល​ត្រូវ​បាន​ណែ​នាំ​ម៉ាស៊ីន​ដ៏​ពិសេស​នេះ ហើយ​ចង់​ឱ្យ​ក្រុម​ហ៊ុន​អ្នក​ដឹង​ថា​ខ្ញុំ​ពេញ​ចិត្ត​ជាមួយ​លទ្ធ​ផល​ប៉ុណ្ណា ក៏​ដូច​ជា​ម្ដាយ​ខ្ញុំ​ដែរ ... លោក​ម្ដាយ​ក៏​ជា​ម្ចាស់​ម៉ាស៊ីន​មួយ​ផង​ដែរ! កំប្លោក​ខ្ញុំ​មិន​ធ្លាប់​ស្អាត​ ហើយ​ល្អ​ជាង​នេះ​ទេ!</p>
 
-	<p>Trân trọng,<br>
+	<p>ដោយ​ការ​គោរព​,<br>
 	Marie Osmond</p>
 
 	<p>3325 North University Avenue, Suite 150, Provo, Utah 84604 (801) 373-3600</p>
-
 
 </div>

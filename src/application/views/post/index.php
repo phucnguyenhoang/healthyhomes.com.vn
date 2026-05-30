@@ -9,11 +9,11 @@
 
 <div class="pan-title p-pan-title">
     <div class="container">
-        <h1 class="float-left">Bài Viết</h1>
+        <h1 class="float-left">អត្ថបទ</h1>
         <p class="float-right d-none d-md-block">
             <a href="/"><span>Rainbow® Cleaning System</span></a>
             <span>/</span>
-            <span>Bài Viết</span>
+            <span>អត្ថបទ</span>
         </p>
     </div>
 </div>
@@ -23,7 +23,7 @@
     <?php if (empty($posts)): ?>
     <div class="text-center py-5 text-muted">
         <i class="fas fa-newspaper fa-3x mb-3" style="opacity:.3;"></i>
-        <p>Chưa có bài viết nào. Hãy quay lại sau.</p>
+        <p>មិនទាន់មានអត្ថបទណាមួយ។ សូមចូលមើលម្ដងទៀតនៅពេលក្រោយ។</p>
     </div>
     <?php else: ?>
 
@@ -35,7 +35,7 @@
         <div class="col-md-6 col-lg-4 mb-4">
             <article class="card post-card h-100 border-0 shadow-sm">
                 <?php if (!empty($p['thumbnail'])): ?>
-                <a href="<?php echo base_url('bai-viet/' . $p['slug'] . '.html'); ?>">
+                <a href="<?php echo base_url('blog/' . $p['slug'] . '.html'); ?>">
                     <img src="<?php echo $p['thumbnail']; ?>"
                          class="card-img-top" alt="<?php echo htmlspecialchars(html_entity_decode($p['title'], ENT_QUOTES, 'UTF-8')); ?>"
                          loading="lazy">
@@ -45,7 +45,7 @@
                     <?php if ($tags): ?>
                     <div class="mb-2">
                         <?php foreach ($tags as $tag): ?>
-                        <a href="<?php echo base_url('bai-viet/' . urlencode($tag)); ?>"
+                        <a href="<?php echo base_url('blog/' . urlencode($tag)); ?>"
                            class="badge badge-light text-dark post-tag border">
                             <i class="fas fa-tag fa-xs"></i> <?php echo htmlspecialchars($tag); ?>
                         </a>
@@ -54,7 +54,7 @@
                     <?php endif; ?>
 
                     <h2 class="h6 font-weight-bold mb-2">
-                        <a href="<?php echo base_url('bai-viet/' . $p['slug'] . '.html'); ?>"
+                        <a href="<?php echo base_url('blog/' . $p['slug'] . '.html'); ?>"
                            class="text-dark text-decoration-none">
                             <?php echo htmlspecialchars(html_entity_decode($p['title'], ENT_QUOTES, 'UTF-8')); ?>
                         </a>
@@ -74,9 +74,9 @@
                             <i class="fas fa-calendar-alt mr-1"></i>
                             <?php echo date('d/m/Y', strtotime($p['created_at'])); ?>
                         </small>
-                        <a href="<?php echo base_url('bai-viet/' . $p['slug'] . '.html'); ?>"
+                        <a href="<?php echo base_url('blog/' . $p['slug'] . '.html'); ?>"
                            class="btn btn-sm btn-outline-dark">
-                            Xem thêm <i class="fas fa-arrow-right ml-1"></i>
+                            មើលបន្ថែម <i class="fas fa-arrow-right ml-1"></i>
                         </a>
                     </div>
                 </div>
@@ -87,10 +87,10 @@
 
     <!-- Phân trang -->
     <?php if (!empty($pagination) && $pagination['total'] > 1): ?>
-    <nav aria-label="Phân trang bài viết" class="mt-4">
+    <nav aria-label="ទំព័រអត្ថបទ" class="mt-4">
         <ul class="pagination justify-content-center">
             <li class="page-item <?php echo $pagination['current'] <= 1 ? 'disabled' : ''; ?>">
-                <a class="page-link" href="?page=<?php echo $pagination['current'] - 1; ?>" aria-label="Trang trước">
+                <a class="page-link" href="?page=<?php echo $pagination['current'] - 1; ?>" aria-label="ទំព័រមុន">
                     <i class="fas fa-chevron-left"></i>
                 </a>
             </li>
@@ -100,7 +100,7 @@
             </li>
             <?php endfor; ?>
             <li class="page-item <?php echo $pagination['current'] >= $pagination['total'] ? 'disabled' : ''; ?>">
-                <a class="page-link" href="?page=<?php echo $pagination['current'] + 1; ?>" aria-label="Trang sau">
+                <a class="page-link" href="?page=<?php echo $pagination['current'] + 1; ?>" aria-label="ទំព័របន្ទាប់">
                     <i class="fas fa-chevron-right"></i>
                 </a>
             </li>

@@ -1,12 +1,12 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Hỗ trợ</h1>
+		<h1 class="float-left">ការគាំទ្រ</h1>
 		<p class="float-right d-none d-md-block">
 			<a href="/">
 				<span>Rainbow® Cleaning System</span>
 			</a>
 			<span>/</span>
-			<span>Hỗ trợ</span>
+			<span>ការគាំទ្រ</span>
 		</p>
 	</div>
 </div>
@@ -14,33 +14,33 @@
 <div class="container sp-span-support">
 	<div class="row">
 		<div class="col-md-4" style="margin-bottom: 36px;">
-			<h3 style="margin-bottom: 20px;">Hỗ trợ trực tuyến</h3>
+			<h3 style="margin-bottom: 20px;">ការគាំទ្រតាមអ៊ីនធឺណិត</h3>
 			<div class="list-group">
-			  <a href="https://rainbowsystem.com/support/find-a-distributor" target="_blank" class="list-group-item list-group-item-action list-group-item-primary">Tìm nhà phân phối</a>
-			  <a href="<?php prUrl('ho-tro/khach-hang-chu-y') ?>" class="list-group-item list-group-item-action list-group-item-primary">Khách hàng chú ý</a>
-			  <a href="<?php prUrl('ho-tro/videos') ?>" class="list-group-item list-group-item-action list-group-item-primary">Videos</a>
-			  <a href="<?php prUrl('ho-tro/huong-dan-su-dung') ?>" class="list-group-item list-group-item-action list-group-item-primary">Hướng dẫn sử dụng</a>
-			  <a href="<?php prUrl('ho-tro/nhung-meo-lam-sach') ?>" class="list-group-item list-group-item-action  list-group-item-primary">Những mẹo làm sạch</a>
-			  <a href="<?php prUrl('ho-tro/nhung-cau-hoi-thuong-gap') ?>" class="list-group-item list-group-item-action  list-group-item-primary">Những câu hỏi thường gặp</a>			  
-			  <a href="<?php prUrl('ho-tro/du-lieu-tham-khao') ?>" class="list-group-item list-group-item-action  list-group-item-primary">Dữ liệu tham khảo</a>
-			  <a href="<?php prUrl('ho-tro/dat-mua-phu-kien') ?>" class="list-group-item list-group-item-action  list-group-item-primary">Đặt mua phụ kiện</a>
-			  <a href="<?php prUrl('ho-tro/lien-he-chung-toi') ?>" class="list-group-item list-group-item-action  list-group-item-primary">Liên hệ chúng tôi</a>
+			  <a href="https://rainbowsystem.com/support/find-a-distributor" target="_blank" class="list-group-item list-group-item-action list-group-item-primary">ស្វែងរកអ្នកចែកចាយ</a>
+			  <a href="<?php prUrl('support/buyer-beware') ?>" class="list-group-item list-group-item-action list-group-item-primary">ការព្រមានអតិថិជន</a>
+			  <a href="<?php prUrl('support/videos') ?>" class="list-group-item list-group-item-action list-group-item-primary">Videos</a>
+			  <a href="<?php prUrl('support/user-manual') ?>" class="list-group-item list-group-item-action list-group-item-primary">មគ្គុទ្ទេសក៍ប្រើប្រាស់</a>
+			  <a href="<?php prUrl('support/cleaning-tips') ?>" class="list-group-item list-group-item-action  list-group-item-primary">គន្លឹះសម្អាត</a>
+			  <a href="<?php prUrl('support/faq') ?>" class="list-group-item list-group-item-action  list-group-item-primary">សំណួរញឹកញាប់</a>
+			  <a href="<?php prUrl('support/datasheet') ?>" class="list-group-item list-group-item-action  list-group-item-primary">ឯកសារយោង</a>
+			  <a href="<?php prUrl('support/supplies') ?>" class="list-group-item list-group-item-action  list-group-item-primary">ទិញគ្រឿងបន្ថែម</a>
+			  <a href="<?php prUrl('support/contact-us') ?>" class="list-group-item list-group-item-action  list-group-item-primary">ទំនាក់ទំនងយើង</a>
 			</div>
 		</div>
 		<div class="col-md-8">
 			<img src="<?php prImg('Rexair-Support-Banner.jpg') ?>" class="d-block w-100">
 			<br>
-			<h2>Làm sao để chúng tôi giúp bạn?</h2>
+			<h2>យើងអាចជួយអ្នកដោយរបៀបណា?</h2>
 			<br>
-			<p>Bộ phận dịch vụ khách hàng Healthy Homes Viet Nam rất sẳn lòng giải đáp bất kỳ câu hỏi nào về Hệ thống làm sạch tổng hợp Rainbow, phụ kiện và nhà phân phối Rainbow ủy quyền độc lập.</p>
-			<h5>Healthy Homes Viet Nam – Dịch Vụ Khách Hàng</h5>
+			<p>ផ្នែកសេវាអតិថិជន Healthy Homes Viet Nam រីករាយក្នុងការឆ្លើយសំណួរណាមួយអំពីប្រព័ន្ធសម្អាតទូទៅ Rainbow គ្រឿងបន្ថែម និងអ្នកចែកចាយ Rainbow ឯករាជ្យដែលទទួលស្គាល់។</p>
+			<h5>Healthy Homes Viet Nam – សេវាអតិថិជន</h5>
 			<br>
 			<p>
-				<strong>Điện thoại:</strong> +84 795 345 799 <br>
-				<strong>Địa chỉ:</strong> Toà nhà Healthy Homes, 263/2A1 Nguyễn Văn Đậu, Phường Bình Lợi Trung, TP. Hồ Chí Minh, Việt Nam.
+				<strong>ទូរស័ព្ទ:</strong> +84 795 345 799 <br>
+				<strong>អាសយដ្ឋាន:</strong> Toà nhà Healthy Homes, 263/2A1 Nguyễn Văn Đậu, Phường Bình Lợi Trung, TP. Hồ Chí Minh, Việt Nam.
 			</p>
 			<p>
-				<a href="<?php prUrl('ho-tro/lien-he-chung-toi') ?>">Liên hệ chúng tôi</a>
+				<a href="<?php prUrl('support/contact-us') ?>">ទំនាក់ទំនងយើង</a>
 			</p>
 		</div>
 	</div>

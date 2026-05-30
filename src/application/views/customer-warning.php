@@ -1,21 +1,19 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Khách hàng chú ý</h1>
+		<h1 class="float-left">ការព្រមានអតិថិជន</h1>
 		<p class="float-right d-none d-md-block">
-			<a href="/">
-				<span>Rainbow® Cleaning System</span>
-			</a>
+			<a href="/"><span>Rainbow® Cleaning System</span></a>
 			<span>/</span>
-			<a href="<?php prUrl('ho-tro') ?>">Hỗ trợ</a>
+			<a href="<?php prUrl('support') ?>">ការគាំទ្រ</a>
 			<span>/</span>
-			<span>Khách hàng chú ý</span>
+			<span>ការព្រមានអតិថិជន</span>
 		</p>
 	</div>
 </div>
 
 <div class="cw-pan-title">
 	<div class="container">
-		<h1 class="text-center" style="font-weight: 400;">Rainbow chính hãng chỉ được bán và hỗ trợ thông qua các kênh Phân Phối và Đại Lý Ủy Quyền.</h1>
+		<h1 class="text-center" style="font-weight: 400;">Rainbow ពិតប្រាកដត្រូវបានលក់ និងគាំទ្រតាមរយៈបណ្ដាញអ្នកចែកចាយ និងភ្នាក់ងារដែលទទួលស្គាល់ប៉ុណ្ណោះ។</h1>
 	</div>
 </div>
 
@@ -25,10 +23,10 @@
 			<img src="<?php prImg('Buyer-Beware.gif') ?>" class="d-block w-100" style="margin-bottom: 36px">
 		</div>
 		<div class="col-md-4 text-center" style="line-height: 1.8; margin-bottom: 20px;">
-			<h2 style="margin-bottom: 60px">Khách  Hàng Chú Ý</h2>
-			<p>Khi bạn mua một Hệ Thống Làm Sạch Tổng Hợp Rainbow, bạn đồng thời mua sự phát triển sản phẩm qua nhiều năm, cùng sự cải tiến liên tục và khéo léo tỉ mỉ. Thêm vào đó, Hệ Thống Làm Sạch Tổng Hợp Rainbow của bạn được hỗ trợ bởi Rexair LLC và Nhà phân phối Rainbow ủy quyền tại đất nước, địa phương của bạn – Đó là Healthy Homes Viet Nam.</p>
-			<p class="text-danger">Đừng phạm sai lầm khi mua Rainbow qua một nhà bán lẻ không được uỷ quyền. Hãy nhớ rằng: mọi giao dịch mua từ nhà bán lẻ trên internet - bao gồm mọi giao dịch mua trên các trang thương mại điện tử như eBay hoặc Amazon.com – là không được Uỷ Quyền!</p>
-			<p>Rexair cũng rất thông cảm với những khách hàng bị lợi dụng bởi những người bán hàng không được uỷ quyền, trái phép hoặc người bán qua mạng. Tuy nhiên, Rexair chỉ có thể đứng đằng sau những Nhà phân phối ủy quyền của mình và chỉ có thể hỗ trợ cho những khách hàng đã mua thông qua các kênh ủy quyền.</p>
+			<h2 style="margin-bottom: 60px">ការព្រមានអតិថិជន</h2>
+			<p>នៅពេលអ្នកទិញប្រព័ន្ធសម្អាតទូទៅ Rainbow អ្នកក៏ទិញការអភិវឌ្ឍន៍ផលិតផលច្រើនឆ្នាំ ជាមួយការកែលម្អជាបន្ត និងភាពជំនាញ។ លើសពីនេះ ប្រព័ន្ធសម្អាតទូទៅ Rainbow របស់អ្នកត្រូវបានគាំទ្រដោយ Rexair LLC និងអ្នកចែកចាយ Rainbow ដែលទទួលស្គាល់នៅប្រទេស/តំបន់របស់អ្នក – Healthy Homes Viet Nam។</p>
+			<p class="text-danger">កុំធ្វើខុស ពេលទិញ Rainbow តាមរយៈអ្នកលក់រាយដែលមិនទទួលស្គាល់។ ចងចាំ: ការទិញណាមួយពីអ្នកលក់រាយអ៊ីនធឺណិត – រួមមានការទិញពីគេហទំព័ររបស់ eBay ឬ Amazon.com – មិនទទួលស្គាល់!</p>
+			<p>Rexair ក៏យល់ចិត្តចំពោះអតិថិជនដែលត្រូវបានកេងចំណេញដោយអ្នកលក់ដែលមិនទទួលស្គាល់ ។ ទោះជាយ៉ាងណា Rexair អាចគាំទ្រតែអ្នកចែកចាយដែលទទួលស្គាល់ ហើយអាចផ្ដល់ជំនួយតែដល់អតិថិជនដែលបានទិញតាមរយៈបណ្ដាញទទួលស្គាល់ប៉ុណ្ណោះ។</p>
 		</div>
 		<div class="col-md-4">
 			<img src="<?php prImg('Buyer-Beware.gif') ?>" class="d-block w-100">
@@ -36,31 +34,31 @@
 	</div>
 </div>
 
-<a name="rui-ro-khi-mua-tu-nguon-khong-duoc-uy-quyen" class="hidden"></a>
+<a name="buyer-beware-risks" class="hidden"></a>
 <div class="container content-padding">
-	<h2>Rủi ro khi mua từ một nguồn không được uỷ quyền:</h2>
+	<h2>ហានិភ័យនៃការទិញពីប្រភពដែលមិនទទួលស្គាល់:</h2>
 	<ul class="cw-warning-list">
-		<li>Bạn sẽ KHÔNG được tiếp cận với bất kỳ một bảo hành bởi nhà sản xuất - Rexair LLC tại Troy, Michigan, Hoa Kỳ.</li>
-		<li>Bạn KHÔNG thực sự biết bạn đang giao dịch với ai và thường không phải là một doanh nghiệp có dịch vụ chăm sóc khách hàng tốt.</li>
-		<li>Bất kỳ sự bảo hành nào thực sự được cung cấp bởi những người bán Rainbow không có uỷ quyền, sự bảo hành này là vô giá trị. Vì để được sửa chữa bảo hành, bạn có thể phải tự đóng gói và sau đó chuyển đi đến một quốc gia khác để sửa chữa - một quá trình cần nhiều thời gian và tốn kém, không đảm bảo bạn sẽ hài lòng.</li>
-		<li>Mặc dù có những lời hứa về việc vận chuyển nhanh chóng, nhưng vẫn sẽ có sự chậm trễ kéo dài giữa việc mua qua thẻ tín dụng và ngày mà thiết bị thực sự được vận chuyển. Chưa tính mất thêm bao lâu để đến địa chỉ bạn nhận hàng.</li>
-		<li>Thiết bị được quảng cáo như “mới”, trên thực tế có thể đã được sử dụng. Bạn có thể không biết cho đến khi quá muộn!</li>
-		<li>Các thiết bị có thể không ở trong tình trạng tốt, có thể bị lỗi hoặc có thể chứa các bộ phận không phải từ chính hãng của nhà máy Rexair. Thông thường các sản phẩm từ các nguồn trái phép đã bị xóa số sê-ri để che giấu nguồn gốc thực sự của sản phẩm.</li>
-		<li>Nhà phân phối Rainbow được ủy quyền chỉ bảo vệ quyền lợi bảo hành trên các máy được bán bởi những Nhà phân phối ủy quyền khác (quốc gia khác, địa phương khác), nhưng không bao gồm các cửa hàng bán máy hút bụi hoặc những nhà buôn qua mạng.</li>
+		<li>អ្នកនឹងមិនទទួលបានការការពារដោយការធានាណាមួយពីរោងចក្រ – Rexair LLC នៅ Troy, Michigan, USA។</li>
+		<li>អ្នកពិតប្រាកដមិនដឹងថា អ្នកកំពុងធ្វើដំណើរជាមួយអ្នកណា ហើយជារឿយៗ មិនមែនជាអាជីវកម្មដែលមានសេវាកម្មអតិថិជនល្អ។</li>
+		<li>ការធានាណាមួយដែលផ្ដល់ដោយអ្នកលក់ Rainbow ដែលមិនទទួលស្គាល់ ការធានានោះគ្មានតម្លៃ។ ដោយហេតុថាដើម្បីទទួលបានការជួសជុលការធានា អ្នកអាចត្រូវតែខ្ចប់ ហើយប្រគល់ម៉ាស៊ីនទៅប្រទេសផ្សេង – ដំណើរការដែលចំណាយពេលច្រើន ថ្លៃ ហើយអាចមិនពេញចិត្ត។</li>
+		<li>ទោះជាមានការសន្យាអំពីការដឹកជញ្ជូនយ៉ាងឆាប់រហ័ស ក៏ប្រហែលជានៅតែមានការពន្យារពេលយូររវាងការទូទាត់ប័ណ្ណឥណទាន និងថ្ងៃដែលឧបករណ៍ត្រូវបានដឹកជញ្ជូន ហើយដោយមិនគិតអំពីរយៈពេលប្រថាប់ ហើយដល់ទីតាំងអ្នក។</li>
+		<li>ឧបករណ៍ដែលបានផ្សាយ​ ថ "ថ្មី" អាចបានប្រើរួចហើយ។ អ្នកប្រហែលមិនដឹងទ្បើយរហូតដល់遅ហើយ!</li>
+		<li>ឧបករណ៍ប្រហែលនៅក្នុងស្ថានភាពមិនល្អ អាចមានបញ្ហា ឬអាចផ្ទុកគ្រឿងឧបករណ៍ដែលមិនមែនពីរោងចក្រ Rexair ។ ជាធម្មតា ផលិតផលពីប្រភពមិនទទួលស្គាល់ ត្រូវបានលុបលេខសម្គាល់ ដើម្បីលាក់ប្រភពពិតប្រាកដ។</li>
+		<li>អ្នកចែកចាយ Rainbow ដែលទទួលស្គាល់ការពារតែសិទ្ធិការធានាលើម៉ាស៊ីនដែលលក់ដោយអ្នកចែកចាយដែលទទួលស្គាល់ (ប្រទេសផ្សេង តំបន់ផ្សេង) ប៉ុន្តែ មិនរួមបញ្ចូលហាងលក់ម៉ាស៊ីនស្ទូប ឬអ្នកជំនួញតាមអ៊ីនធឺណិតឡើយ។</li>
 	</ul>
 </div>
 
-<a name="loi-ich-khi-mua-tu-healthyhome-vn" class="hidden"></a>
+<a name="benefits-from-healthyhomes" class="hidden"></a>
 <div class="container content-padding">
 	<div class="row">
 		<div class="col-md-8">
-			<h2 style="font-weight: 400">Ưu điểm của việc mua từ Nhà phân phối hoặc đại lý ủy quyền của Rainbow</h2>
+			<h2 style="font-weight: 400">អត្ថប្រយោជន៍នៃការទិញពីអ្នកចែកចាយ ឬភ្នាក់ងារដែលទទួលស្គាល់ Rainbow</h2>
 			<ul class="cw-advantage-list">
-				<li>Bạn biết bạn đang giao dịch với ai - Nhà phân phối Rainbow được ủy quyền, cam kết làm hài lòng khách hàng.</li>
-				<li>Bạn sẽ nhận được sự bảo hành được ủy quyền và hỗ trợ bởi Rexair LLC.</li>
-				<li>Bạn sẽ nhận được dịch vụ cá nhân và sự quan tâm của tất cả các nhà phân phối trên thế giới.</li>
-				<li>Bạn sẽ nhận được một thiết bị hoàn toàn mới trong tình trạng và điều kiện hoàn hảo.</li>
-				<li>Bạn sẽ được tiếp cận tất cả các dịch vụ hậu mãi một cách thuận tiện nhất.</li>
+				<li>អ្នកដឹងថា អ្នកកំពុងធ្វើការជាមួយអ្នក – អ្នកចែកចាយ Rainbow ដែលទទួលស្គាល់ ប្តេជ្ញាធ្វើឱ្យអតិថិជនពេញចិត្ត។</li>
+				<li>អ្នកនឹងទទួលបានការធានា និងការគាំទ្រដែលទទួលស្គាល់ដោយ Rexair LLC។</li>
+				<li>អ្នកនឹងទទួលបានសេវាផ្ទាល់ខ្លួន និងការថែរក្សារបស់អ្នកចែកចាយទូទាំងពិភពលោក។</li>
+				<li>អ្នកនឹងទទួលបានឧបករណ៍ថ្មីទាំងស្រុងក្នុងស្ថានភាព និងលក្ខខណ្ឌល្អឥតខ្ចោះ។</li>
+				<li>អ្នកនឹងទទួលបានទទួលការប្រើប្រាស់សេវាក្រោយពេលទិញទាំងអស់ យ៉ាងងាយស្រួល។</li>
 			</ul>
 		</div>
 		<div class="col-md-4">
@@ -73,11 +71,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-9">
-				<h5 style="font-size: 18px; margin-top: 40px;">Đưa ra quyết định đúng đắn. Liên hệ với Nhà phân phối Rainbow được ủy quyền.</h5>
+				<h5 style="font-size: 18px; margin-top: 40px;">ធ្វើការសម្រេចចិត្តត្រឹមត្រូវ។ ទំនាក់ទំនងអ្នកចែកចាយ Rainbow ដែលទទួលស្គាល់។</h5>
 			</div>
 			<div class="col-lg-3 text-center">
-				<a href="#" class="btn btn-lg btn-light" style="margin-top: 26px">Tìm Nhà Phân Phối</a>
+				<a href="https://rainbowsystem.com/support/find-a-distributor" target="_blank" class="btn btn-lg btn-light" style="margin-top: 26px">ស្វែងរកអ្នកចែកចាយ</a>
 			</div>
 		</div>
-	</div>	
+	</div>
 </div>

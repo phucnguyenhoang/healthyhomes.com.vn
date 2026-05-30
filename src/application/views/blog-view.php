@@ -1,12 +1,10 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Blogs</h1>
+		<h1 class="float-left">អត្ថបទ</h1>
 		<p class="float-right d-none d-md-block">
-			<a href="/">
-				<span>Rainbow® Cleaning System</span>
-			</a>
+			<a href="/"><span>Rainbow® Cleaning System</span></a>
 			<span>/</span>
-			<span>Blogs</span>
+			<span>អត្ថបទ</span>
 		</p>
 	</div>
 </div>
@@ -24,8 +22,8 @@
 
 			<hr>
 			<div class="pull-right">
-				<a href="<?php echo base_url('blogs'); ?>" class="btn btn-sm btn-outline-secondary" role="button">
-					&larr; Bài viết khác
+				<a href="<?php echo base_url('blog'); ?>" class="btn btn-sm btn-outline-secondary" role="button">
+					&larr; អត្ថបទផ្សេងទៀត
 				</a>
 			</div>
 		</div>

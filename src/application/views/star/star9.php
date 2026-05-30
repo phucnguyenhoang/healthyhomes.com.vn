@@ -1,29 +1,28 @@
 <img src="<?php prImg('star/9.jpg') ?>">
 <div class="container">
-	<h3 class="text-center">Đoàn làm phim truyền hình tình huống nổi tiếng của Mỹ "Mọi người yêu quý Raymond" là một người dùng Rainbow</h3>
-	<p><em>Patricia Heaton, nữ anh hùng của bộ phim tình huống nổi tiếng của Mỹ "Mọi người yêu thích Raymond", đã xem buổi giới thiệu sản phẩm làm sạch của Rainbow và mua nó ngay lập tức, sau đó giới thiệu nhà sản xuất, nhà biên kịch và thậm chí toàn bộ đoàn làm phim để mua Rainbow. Bởi vì hiệu ứng của Rainbow rất tuyệt vời, nó cũng đóng vai trò là nhân vật chính trong một số tập của bộ phim tình huống " Mọi người yêu thích Raymond".</em></p>
+	<h3 class="text-center">គណៈបុគ្គលិកភាពយន្តទូរទស្សន៍អាមេរិចល្បីល្បាញ "Everybody Loves Raymond" គឺជាអ្នកប្រើ Rainbow</h3>
+	<p><em>Patricia Heaton តារានាងក្នុងរឿងទូរទស្សន៍ "Everybody Loves Raymond" បានទស្សនាការបង្ហាញផលិតផល Rainbow ហើយទិញភ្លាមៗ បន្ទាប់មកណែនាំអ្នកផលិត អ្នកនិពន្ធ និងមហាជនទាំងមូលឱ្យទិញ Rainbow ។ ដោយសារតែ Rainbow ប្រកបដោយប្រសិទ្ធភាពខ្ពស់ វាក៏ដើរតួជាតួអង្គក្នុងភាគជាច្រើននៃរឿង "Everybody Loves Raymond" ។</em></p>
 	<div class="text-right">
 		<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseFullContent" aria-expanded="false" aria-controls="collapseFullContent">
-	    Xem Thêm >>
+	    មើលបន្ថែម >>
 	  </button>
 	</div>
 	<br>
 
 	<div class="collapse" id="collapseFullContent">
-	  <h4>Trong chương trình truyền hình quốc gia CBS - “MỌI NGƯỜI YÊU THÍCH RAYMOND” </h4>
-	  <p><em>Bởi Paul Vidovich</em></p>
-		<p><em>Chủ tịch và Giám đốc điều hành</em></p>
-		<p><em>Lưu ý của biên tập viên: Những trang này có một bản tái bản của Chủ tịch và Giám đốc điều hành Paul Vidovich, thông báo về vai trò quan trọng của Rainbow trong chương trình truyền hình nổi tiếng của CBS, “Everybody Loves Raymond”, sẽ được phát sóng vào ngày 12 tháng 3 năm 2001. Hãy xem thử.</em></p>
+	  <h4>នៅក្នុងកម្មវិធីទូរទស្សន៍ CBS ថ្នាក់ជាតិ — "EVERYBODY LOVES RAYMOND"</h4>
+	  <p><em>ដោយ Paul Vidovich</em></p>
+		<p><em>ប្រធានក្រុមហ៊ុន និងនាយកប្រតិបត្តិ</em></p>
+		<p><em>កំណត់ចំណាំរបស់អ្នកកែសម្រួល: ទំព័រទាំងនេះមានការបោះពុម្ពឡើងវិញនៃការសរសេររបស់ប្រធានក្រុមហ៊ុន Paul Vidovich ដែលប្រកាសអំពីតួនាទីដ៏សំខាន់របស់ Rainbow ក្នុងកម្មវិធីទូរទស្សន៍ CBS ល្បីល្បាញ "Everybody Loves Raymond" ដែលនឹងចាក់ផ្សាយនៅថ្ងៃទី 12 ខែមីនា ឆ្នាំ 2001។ ស្ទែតុំ មើលដើម្បីដឹង។</em></p>
 
-		<p>Khi bạn đã từng có mối liên hệ với Rainbow, bạn rõ ràng tin vào các chương trình tiếp thị của Rexair. Hơn thế nữa, thỉnh thoảng bạn lại nghe một câu chuyện củng cố niềm tin của bạn. Gần đây tôi đã trải qua một câu chuyện như vậy và muốn chia sẻ nó với bạn.</p>
+		<p>នៅពេលអ្នកធ្លាប់ភ្ជាប់ទំនាក់ទំនងជាមួយ Rainbow អ្នករឹងជឿជាក់លើកម្មវិធីទីផ្សារ Rexair ។ ជាងនេះទៅទៀត ពេលខ្លះអ្នកឮរឿងមួយដែលបង្ហើបការជឿជាក់នោះ។ ថ្មីៗនេះ ខ្ញុំបានឆ្លងកាត់រឿងបែបនោះ ហើយចង់ចែករំលែករឿងនោះជាមួយអ្នក។</p>
 
-		<p>Một vài tháng trước, Catherine Shaffer, một đại lý tại Abraham Davidi, Los Angeles, California, đã có một cuộc hẹn giới thiệu với một người phụ nữ tên là Patricia Heaton. Bạn có thể đã nghe nói về Patricia - cô ấy là một nữ diễn viên đóng vai vợ Ray Romano, trong bộ phim truyền hình ăn khách ấn tượng “Mọi người yêu thích Raymond”, Patricia đã mua Rainbow và sau đó đưa cho Catherine một số sự giới thiệu. Philip Rosenthal, nhà điều hành sản xuất của chương trình, đã mua một chiếc Rainbow. Sau đó, bản thân Ray Romano đã mua một chiếc Rainbow. Và chuỗi sự giới thiệu tiếp tục với ba nhà văn, bao gồm cả Lew Scheider.Vợ của Lew không cảm thấy khỏe vào ngày mà Catherine giới thiệu và dùng thử Rainbow tại nhà của Lew. Vì vậy, anh bảo cô đi trước và chợp mắt một lát và anh sẽ tiếp đón nhân viên bán hàng của Rainbow. Hơn một giờ sau, Lew đánh thức vợ mình để cho cô ấy xem Rainbow mới của họ. Anh ấy rất ấn tượng với e SERIES, trên thực tế, anh ấy đã viết một câu chuyện về nó. Đầu tháng 2, kịch bản của anh được quay như một chương trình truyền hình. Bạn có thể xem kết quả vào Thứ Hai, ngày 12 tháng 3 lúc 9 giờ tối theo giờ EST (kiểm tra danh sách phát theo giờ địa phương khu vực của bạn). Chương trình CBS, xuất hiện “Mọi người yêu quý Raymond”, có sự tham gia của ngôi sao chương trình, Ray Romano, có một cuộc tình ảo với his “HummVac” (trong đời thực là một Rainbow e SERIES). Trên thực tế, anh ta thực sự làm một phần của sự lần ra mắt Rainbow. Dàn diễn viên và ê-kíp của một trong những chương trình truyền hình hot nhất trong các fan của U.S e SERIES. Rõ ràng, điều này chứng minh được Rainbow là một sản phẩm tốt.</p>
+		<p>ប៉ុន្មានខែមុន Catherine Shaffer ភ្នាក់ងារនៅ Abraham Davidi Los Angeles California បានណាត់ជួបបង្ហាញផលិតផលជាមួយស្ត្រីម្នាក់ឈ្មោះ Patricia Heaton ។ អ្នកប្រហែលធ្លាប់លឺអំពី Patricia — នាងជាតារានាងដែលលេងជាប្រពន្ធ Ray Romano ក្នុងរឿងទូរទស្សន៍ "Everybody Loves Raymond"។ Patricia បានទិញ Rainbow ហើយបន្ទាប់មកណែនាំ Catherine ទៅកន្លែងមួយចំនួន។ Philip Rosenthal អ្នកផលិតប្រតិបត្តិនៃកម្មវិធីបានទិញ Rainbow ។ បន្ទាប់មក Ray Romano ខ្លួនឯងបានទិញ Rainbow ។ ហើយការណែនាំបន្តទៀតជាមួយអ្នកនិពន្ធបីនាក់ទៀត រួមមាន Lew Scheider ។ ប្រពន្ធ Lew មានអារម្មណ៍មិនស្រួលខ្លួននៅថ្ងៃ Catherine មក ហើយ Lew បញ្ជូននាងទៅគេងមុន ហើយគាត់ទទួលភ្ញៀវ Rainbow ។ ជាងមួយម៉ោងក្រោយ Lew ភ្ញាក់ប្រពន្ធរបស់គាត់ ដើម្បីបង្ហាញ Rainbow ថ្មីរបស់ពួកគេ។ គាត់ប្រទះចិត្តខ្លាំងណាស់ជាមួយ e SERIES ដល់ម្ល៉េះ គាត់បាននិពន្ធរឿងអំពីវា។ ต้นខែកុម្ភៈ 台本ទូរទស្សន៍របស់គាត់ត្រូវបានថតជាភាគ។ អ្នកអាចមើលលទ្ធផលនៅ ថ្ងៃ ច័ន្ទ ទី 12 ខែ មីនា ម៉ោង 9 យប់ EST (ពិនិត្យជួរខ្នាតម៉ោងក្នុងតំបន់របស់អ្នក)។ កម្មវិធី CBS ដែលចាក់ "Everybody Loves Raymond" មាន Ray Romano ជាតារា — ដែលមានចំណង់ចំណូលចិត្ត irkingay ជាមួយ "HummVac" (ក្នុងជីវិតពិតជា Rainbow e SERIES) ។ ពិតណាស់ គាត់ធ្វើជាផ្នែកមួយនៃការបង្ហាញ Rainbow ។ ក្រុមតារានិងបុគ្គលិកនៃកម្មវិធីទូរទស្សន៍ hothot ជាងគេក្នុងអ្នកគាំទ្រ e SERIES ។ ច្បាស់ណាស់ ការនេះបញ្ជាក់ថា Rainbow ជាផលិតផលល្អ។</p>
 
-		<p>Vào ngày 12 tháng 3, tất cả các khán giả truyền hình sẽ được tiếp xúc với e SERIES. Nó chắc chắn sẽ khiến tất cả mọi người trong Gia đình Rainbow phấn khích khi thấy sản phẩm của chúng tôi trong ánh đèn sân khấu “quốc gia”. Đây là một cơ hội tuyệt vời để tất cả chúng ta cảm thấy hãnh diện về Rainbow kì diệu và chia sẻ Rainbow với tất cả người xem trên khắp Hoa Kỳ.</p>
+		<p>នៅថ្ងៃទី 12 ខែមីនា អ្នកទស្សនាទូរទស្សន៍ទាំងអស់នឹងបានស្គាល់ e SERIES ។ វានឹងបណ្ដាលឱ្យអ្នកគ្រប់គ្នានៅក្នុងគ្រួសារ Rainbow រីករាយ នៅពេលមើលឃើញផលិតផលរបស់យើងនៅក្នុងការបំភ្លឺ "ថ្នាក់ជាតិ" ។ នេះជាឱកាសសម្រាប់យើងទាំងអស់គ្នាបង្ហាញពីការហ្មត់ចត់ចំពោះ Rainbow ដ៏អស្ចារ្យ និងចែករំលែក Rainbow ជាមួយអ្នកទស្សនាទូរទស្សន៍ទូទាំងសហរដ្ឋអាមេរិក។</p>
 
-		<p><em>Điều gì: “Mọi người yêu quý Raymond”</em></p>
-		<p><em>Khi nào: Thứ Hai, ngày 12 tháng 3, 9:00 tối theo giờ EST (Kiểm tra danh sách thời gian phát sóng trong khu vực của bạn)</em></p>
-		<p><em>Ở đâu: CBS địa phương của bạn</em></p>
-
+		<p><em>អ្វី: "Everybody Loves Raymond"</em></p>
+		<p><em>នៅពេល: ថ្ងៃ ច័ន្ទ ទី 12 ខែ មីនា ម៉ោង 9:00 យប់ EST (ពិនិត្យជួរខ្នាតចាក់ផ្សាយក្នុងតំបន់របស់អ្នក)</em></p>
+		<p><em>នៅឯ: CBS ក្នុងតំបន់របស់អ្នក</em></p>
 	</div>
 </div>

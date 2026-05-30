@@ -1,13 +1,13 @@
 <img src="<?php prImg('star/2.jpg') ?>">
 <div class="container">
-	<h1 class="text-center">BỆNH HEN SUYỄN & DỊ ỨNG</h1>
+	<h1 class="text-center">ជំងឺហឺត & អាឡែស៊ី</h1>
 	<p class="text-center">
 		HUNTER MEDICAL CENTER<br>
 		FAMILY PRACTICE<br>
-		3534 Nam 6000 Tây<br>
-		Thành phố West Valley, UT 84120<br>
-		Điện thoại: (801) 969-6264 / Fax: (801) 969-6333<br>
-		8g00 sáng - 5g30 chiều,  Thứ Hai-Thứ Sáu, 9g00 sáng - 1g00 chiều, Thứ Bảy
+		3534 S 6000 W<br>
+		West Valley City, UT 84120<br>
+		ទូរស័ព្ទ: (801) 969-6264 / Fax: (801) 969-6333<br>
+		ម៉ោង 8:00 ព្រឹក - 5:30 ល្ងាច, ច័ន្ទ-សុក្រ, ម៉ោង 9:00 ព្រឹក - 1:00 ល្ងាច, សៅរ៍
 	</p>
 	<hr>
 	<div class="row text-center">
@@ -16,18 +16,18 @@
 		<div class="col-3">John H. Ball, P.A.-C,</div>
 		<div class="col-3">Tina Powell, F.N.P.</div>
 	</div>
-	<p>Ngày 19 Tháng 5 Năm 2015,</p>
-	<p>Tôi là một bác sĩ y khoa ở thành phố West Valley, Utah. Tôi thường xuyên điều trị các ca dị ứng, hen suyễn <strong>NẶNG VÀ NGHIÊM TRỌNG</strong> tại phòng khám của tôi cũng như tại bệnh viện. </p>
+	<p>ថ្ងៃទី 19 ខែឧសភា ឆ្នាំ 2015,</p>
+	<p>ខ្ញុំជាវេជ្ជបណ្ឌិតនៅ West Valley City រដ្ឋ Utah។ ខ្ញុំព្យាបាលករណីអាឡែស៊ី និងជំងឺហឺត <strong>ធ្ងន់ធ្ងរ</strong> ជាប្រចាំនៅគ្លីនិករបស់ខ្ញុំ ក៏ដូចជានៅមន្ទីរពេទ្យ។</p>
 
-	<p>Bệnh hen suyễn rất có thể đe dọa tính mạng và thường RẤT khó để kiểm soát. Còn các loại dị ứng cũng từ nhẹ thì khó chịu, đến nghiêm trọng thì thành bệnh mãn tính. Thông thường, các quyển sách điều trị hen suyễn luôn khuyến cáo rằng môi trường sống của người bị hen suyễn và dị ứng cần được dọn dẹp sạch sẽ bụi bẩn thường xuyên, và phải rất cẩn thận. Thực tế mà nói, điều đó là hoàn toàn bất khả thi trừ khi bạn có cơ hội sử dụng <strong>Hệ Thống Làm Sạch Tổng Hợp Rainbow</strong>. Trong nhiều năm, tôi đã đọc rất nhiều các gợi ý trong những quyển sách và tự hỏi làm cách nào để có thể dọn dẹp một cách kỹ lưỡng. Và bây giờ, với <strong>Hệ Thống Làm Sạch Tổng Hợp Rainbow</strong>, ĐIỀU ĐÓ LÀ HOÀN TOÀN CÓ THỂ!</p>
+	<p>ជំងឺហឺតអាចគំរាមគំហែងដល់អាយុជីវិត ហើយជារឿយៗ<strong>ពិបាក</strong>ក្នុងការគ្រប់គ្រង។ ចំណែកអាឡែស៊ីក៏ចាប់ពីស្រាលដែលមិនស្រួលខ្លួន រហូតដល់ធ្ងន់ធ្ងរជាជំងឺរ៉ាំរ៉ៃ។ ជាទូទៅ សៀវភៅព្យាបាលជំងឺហឺតតែងណែនាំថា បរិស្ថានរស់នៅរបស់អ្នកមានជំងឺហឺត និងអាឡែស៊ីត្រូវធ្វើឱ្យស្អាតពីធូលីចំបើងឱ្យបានទៀងទាត់ ហើយត្រូវប្រុងប្រយ័ត្ន។ តាមការពិត នោះជាដំណោះស្រាយដែលស្ទើរតែមិនអាចធ្វើបាន លុះត្រាតែអ្នកមានឱកាសប្រើ <strong>ប្រព័ន្ធសម្អាតទូទៅ Rainbow</strong>។ ក្នុងប៉ុន្មានឆ្នាំមកនេះ ខ្ញុំបានអានការណែនាំជាច្រើននៅក្នុងសៀវភៅទាំងនោះ ហើយ​ឆ្ងល់ថាតើធ្វើដូចម្តេចទើបអាចសម្អាតបានហ្មត់ចត់ពេញលេញ។ ឥឡូវ ជាមួយ <strong>ប្រព័ន្ធសម្អាតទូទៅ Rainbow</strong> — នោះគឺអាច<strong>ធ្វើបានពេញលេញ</strong>!</p>
 
-	<p>Khi tôi thấy <strong>Hệ Thống Làm Sạch Tổng Hợp Rainbow</strong> có mặt trong căn nhà mới của tôi, tôi biết ngay rằng chiếc máy này có khả năng cải thiện cuộc sống của nhiều bệnh nhân hen suyễn và dị ứng nặng cũng như rất nghiêm trọng. Tôi đã nhanh chóng mua hai máy, một cho gia đình tôi và một cho người anh rể đang bị hen suyễn nghiêm trọng đến mức mất khả năng lao động. </p>
+	<p>នៅពេលខ្ញុំឃើញ <strong>ប្រព័ន្ធសម្អាតទូទៅ Rainbow</strong> ក្នុងផ្ទះថ្មីរបស់ខ្ញុំ ខ្ញុំដឹងភ្លាមថាម៉ាស៊ីននេះអាចធ្វើឱ្យជីវិតអ្នកជំងឺហឺត និងអាឡែស៊ីធ្ងន់ធ្ងររបស់ខ្ញុំប្រសើរឡើង។ ខ្ញុំបានប្រញប់ទិញ 2 គ្រឿង — មួយសម្រាប់គ្រួសាររបស់ខ្ញុំ ហើយមួយទៀតសម្រាប់បងប្រុសប្តីរបស់ខ្ញុំ ដែលកំពុងមានជំងឺហឺតធ្ងន់ធ្ងររហូតបាត់បង់ចំណុះការងារ។</p>
 
-	<p>Nếu bạn hoặc bất cứ ai trong gia đình bạn đang đau đầu bởi những vấn đề này, thì tôi có thể giới thiệu bạn thử dùng <strong>Hệ Thống Làm Sạch Tổng Hợp Rainbow</strong>. Tôi viết lá thư này nhằm hy vọng giúp đỡ đến các gia đình bệnh nhân. Tôi đã, đang và sẽ không nhận BẤT KÌ khoản phí, thù lao hoặc bồi dưỡng nào cho việc viết lá thư này. Thật ra, bức thư này hoàn toàn không được yêu cầu bởi Công Ty này và tôi thậm chí không chắc họ sẽ sử dụng nó cho khách hàng của họ. Dĩ nhiên, họ có thể hoàn toàn sử dụng nếu họ muốn. </p>
+	<p>ប្រសិនបើអ្នក ឬអ្នកណាម្នាក់ក្នុងគ្រួសាររបស់អ្នកកំពុងរងទុក្ខពីបញ្ហាទាំងនេះ ខ្ញុំអាចណែនាំអ្នកឱ្យសាកល្បង <strong>ប្រព័ន្ធសម្អាតទូទៅ Rainbow</strong>។ ខ្ញុំសរសេរលិខិតនេះក្នុងក្ដីសង្ឃឹមថានឹងជួយដល់គ្រួសាររបស់អ្នកជំងឺ។ ខ្ញុំ​មិន​ទទួល ហើយ​នឹង​មិន​ទទួល​ប្រាក់ ការ​ដង្ហែ ឬ​ការ​ទូទាត់​ណា​មួយ​ឡើយ​ពី​ការ​សរសេរ​លិខិត​នេះ។ តាមការពិតប្រៀប ក្រុមហ៊ុននេះមិន​ស្នើ​សុំ​ឱ្យ​ខ្ញុំ​​សរសេរ​ទេ ហើយ​ខ្ញុំ​ក៏​មិន​ប្រាកដ​ថា​ពួកគេ​នឹង​ប្រើ​វាសម្រាប់​អតិថិជន​របស់​ពួកគេ​ដែរ​ឬ​ទេ​។ ប៉ុន្តែ​ជា​ការ​ពិត ពួកគេ​អាច​ប្រើ​ប្រស់​វា​ប្រសិន​បើ​ពួកគេ​ចង់​។</p>
 
-	<p>Xin vui lòng gọi cho văn phòng của tôi nếu bạn có bất kỳ câu hỏi về việc sử dụng máy này trong điều trị hen suyễn hoặc dị ứng.</p>
+	<p>សូមមេត្តាទូរស័ព្ទ​មក​ការិយាល័យ​របស់​ខ្ញុំ ប្រសិន​បើ​អ្នក​មាន​សំណួរ​ណា​មួយ​ទាក់ទង​នឹង​ការ​ប្រើ​ម៉ាស៊ីន​នេះ​ក្នុង​ការ​ព្យាបាល​ជំងឺ​ហឺត ឬ​អាឡែស៊ី​។</p>
 
-	<p>Trân trọng,<br> 
+	<p>ដោយ​ការ​គោរព​អំណរ,<br>
 		Fiel Ckvn Frederic Civilish, M.D.FC / Ca
 	</p>
 </div>

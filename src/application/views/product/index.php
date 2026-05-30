@@ -7,11 +7,11 @@
 
 <div class="pan-title p-pan-title">
     <div class="container">
-        <h1 class="float-left">Sản Phẩm</h1>
+        <h1 class="float-left">ផលិតផល</h1>
         <p class="float-right d-none d-md-block">
             <a href="/"><span>Rainbow® Cleaning System</span></a>
             <span>/</span>
-            <span>Sản Phẩm</span>
+            <span>ផលិតផល</span>
         </p>
     </div>
 </div>
@@ -21,7 +21,7 @@
     <?php if (empty($products)): ?>
     <div class="text-center py-5 text-muted">
         <i class="fas fa-box-open fa-3x mb-3" style="opacity:.3;"></i>
-        <p>Chưa có sản phẩm nào. Hãy quay lại sau.</p>
+        <p>មិនទាន់មានផលិតផលណាមួយ។ សូមចូលមើលម្ដងទៀតនៅពេលក្រោយ។</p>
     </div>
     <?php else: ?>
 
@@ -30,14 +30,14 @@
         <div class="col-md-6 col-lg-4 mb-4">
             <article class="card product-card h-100 border-0 shadow-sm">
                 <?php if (!empty($p['main_image'])): ?>
-                <a href="<?php echo base_url('san-pham-khac/' . $p['slug'] . '.html'); ?>">
+                <a href="<?php echo base_url('other-products/' . $p['slug'] . '.html'); ?>">
                     <img src="<?php echo $p['main_image']; ?>"
                          class="card-img-top"
                          alt="<?php echo htmlspecialchars(html_entity_decode($p['name'], ENT_QUOTES, 'UTF-8')); ?>"
                          loading="lazy">
                 </a>
                 <?php else: ?>
-                <a href="<?php echo base_url('san-pham-khac/' . $p['slug'] . '.html'); ?>">
+                <a href="<?php echo base_url('other-products/' . $p['slug'] . '.html'); ?>">
                     <div class="card-img-top bg-light d-flex align-items-center justify-content-center" style="height:220px;">
                         <i class="fas fa-image fa-3x text-muted" style="opacity:.3;"></i>
                     </div>
@@ -46,7 +46,7 @@
 
                 <div class="card-body d-flex flex-column">
                     <h2 class="h6 font-weight-bold mb-2">
-                        <a href="<?php echo base_url('san-pham-khac/' . $p['slug'] . '.html'); ?>"
+                        <a href="<?php echo base_url('other-products/' . $p['slug'] . '.html'); ?>"
                            class="text-dark text-decoration-none">
                             <?php echo htmlspecialchars(html_entity_decode($p['name'], ENT_QUOTES, 'UTF-8')); ?>
                         </a>
@@ -68,9 +68,9 @@
                     <?php endif; ?>
 
                     <div class="mt-3">
-                        <a href="<?php echo base_url('san-pham-khac/' . $p['slug'] . '.html'); ?>"
+                        <a href="<?php echo base_url('other-products/' . $p['slug'] . '.html'); ?>"
                            class="btn btn-sm btn-outline-dark w-100">
-                            Xem chi tiết <i class="fas fa-arrow-right ml-1"></i>
+                            មើលលម្អិត <i class="fas fa-arrow-right ml-1"></i>
                         </a>
                     </div>
                 </div>

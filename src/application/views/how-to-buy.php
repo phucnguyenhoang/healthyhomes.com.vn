@@ -2,10 +2,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8">
-				<p>Chúng tôi trọng mời bạn trải nghiệm Rainbow ® tại ngay nhà bạn</p>
+				<p>យើងសូមអញ្ជើញអ្នកឱ្យបទពិសោធន៍ Rainbow® នៅក្នុងផ្ទះរបស់អ្នក</p>
 			</div>
 			<div class="col-lg-4">
-				<a href="<?php prUrl('yeu-cau-dung-thu-tai-nha') ?>" class="btn btn-lg btn-light">Lên Lịch Dùng Thử Tại Nhà</a>
+				<a href="<?php prUrl('request-demo') ?>" class="btn btn-lg btn-light">រៀបចំការបង្ហាញនៅផ្ទះ</a>
 			</div>
 		</div>
 	</div>
@@ -17,18 +17,16 @@
 			<img src="<?php prImg('Rainbow-Demonstration.jpg') ?>" class="d-block w-100">
 		</div>
 		<div class="col-md-6">
-			<h1 style="font-size: 32px;">Cách Thức Mua Rainbow®</h1>
-			<p style="line-height: 1.7;">Ngôi nhà của bạn là nơi đặc biệt của riêng bạn và đi kèm với nó là những thách thức làm sạch đặc biệt của riêng nó. Đó chính xác là lý do tại sao một sản phẩm linh hoạt như Rainbow® được thể hiện tốt nhất trong môi trường thực tế mà nó sẽ được sử dụng. Trong buổi giới thiệu sản phẩm miễn phí tại nhà, một người đại diện được đào tạo bởi Rainbow sẽ cho bạn thấy các tính năng chính của Rainbow và cách nó có thể được sử dụng hiệu quả nhất để dọn dẹp nhà của bạn. Họ cũng có thể trả lời bất kỳ câu hỏi nào của bạn để đưa ra quyết định sáng suốt. Hoàn toàn không có nghĩa vụ phải mua hàng.</p>
+			<h1 style="font-size: 32px;">របៀបទិញ Rainbow®</h1>
+			<p style="line-height: 1.7;">ផ្ទះរបស់អ្នកគឺជាកន្លែងពិសេសរបស់អ្នក ហើយមកជាមួយនូវបញ្ហាសម្អាតពិសេសផ្ទាល់ខ្លួន។ នោះហើយជាមូលហេតុដែលផលិតផលដ៏ចម្រើននៃ Rainbow® ត្រូវបង្ហាញឱ្យឃើញបានល្អបំផុតក្នុងបរិបទជាក់ស្ដែងដែលវានឹងត្រូវប្រើ។ ក្នុងអំឡុងការបង្ហាញផ្ទះឥតគិតថ្លៃ តំណាងដែលបានទទួលការបណ្ដុះបណ្ដាលពី Rainbow នឹងបង្ហាញអ្នកនូវមុខងារសំខាន់ៗរបស់ Rainbow និងរបៀបប្រើប្រាស់ Yellow ល្អបំផុតដើម្បីសម្អាតផ្ទះរបស់អ្នក។ ពួកគេក៏អាចឆ្លើយសំណួររបស់អ្នក ដើម្បីធ្វើការសម្រេចចិត្តប្រកបដោយព័ត៌មាន។ គ្មានកាតព្វកិច្ចទិញណាមួយឡើយ។</p>
 
 			<div class="htb-callout">
-				"Khi tôi chia sẻ buổi giới thiệu sản phẩm của Rainbow với những người bạn của tôi thì họ chỉ có thể  trầm trồ khen ngợi.
-Cậu nhân viên hôm đó đến nhà tôi là Brian Nguyễn, thật sự làm tôi kinh ngạc với những gì  một chiếc máy có thể làm được, tôi
-đã mua Rainbow ngay trong hôm đó mà không một giây lưỡng lự. Cho tôi gửi lời cảm ơn đến cậu Brian Nguyễn và Rainbow!"
+				"នៅពេលខ្ញុំចែករំលែកការបង្ហាញ Rainbow ជាមួយមិត្តភ័ក្ដិ ពួកគេអាចតែហ្គឺប់ ហ្គឺបអស់គ្នា។ ព្រះ Rainbow ពិតជាអស្ចារ្យ ហើយ Healthy Homes Viet Nam ក៏ល្អដូចគ្នា!"
 			</div>
-			<div style="margin: 20px 0 0 24px; font-weight: 700;">Gia đình anh chị Mai Phương & Anh Tuấn, Căn hộ cao cấp Sunshine Quận 7</div>
+			<div style="margin: 20px 0 0 24px; font-weight: 700;">គ្រួសារ Mai Phương &amp; Anh Tuấn, Sunshine Apartment District 7</div>
 			<p style="margin: 36px 0;">
-				<a href="<?php prUrl('gioi-thieu/chung-thuc-tu-khach-hang') ?>" class="btn btn-lg btn-primary">Phải thấy mới tin</a>	
-			</p>			
+				<a href="<?php prUrl('about/testimonials') ?>" class="btn btn-lg btn-primary">ត្រូវឃើញ ទើបជឿ</a>
+			</p>
 		</div>
 	</div>
 </div>
@@ -37,9 +35,9 @@ Cậu nhân viên hôm đó đến nhà tôi là Brian Nguyễn, thật sự là
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8" style="line-height: 1.7">
-				<h3>Mô Hình Bán Hàng Trực Tiếp Của Chúng Tôi</h3>
-				<p>Chúng tôi tin tưởng chắc chắn rằng Hệ thống làm sạch tổng hợp Rainbow® được giới thiệu và được bán tốt nhất cho khách hàng thông qua các buổi dùng thử và giới thiệu sản phẩm được cá nhân hóa tại nhà. Điều này cho phép khách hàng trải nghiệm tính linh hoạt và hiệu suất của sản phẩm và đưa ra quyết định mua hàng sáng suốt. <strong>Sản phẩm của chúng tôi đã được bán theo cách này trong hơn 80 năm qua</strong>.</p>
-				<p>Rexair là một thành viên đáng tự hào của Hiệp hội bán hàng trực tiếp, giúp đảm bảo rằng việc tiếp thị sản phẩm được thực hiện với đạo đức kinh doanh và dịch vụ cao nhất cho người tiêu dùng.</p>
+				<h3>គំរូលក់ផ្ទាល់របស់យើង</h3>
+				<p>យើងជឿជាក់ជាក់ថា ប្រព័ន្ធសម្អាតទូទៅ Rainbow® ត្រូវបានណែនាំ និងលក់ល្អបំផុតដល់អតិថិជន តាមរយៈការបង្ហាញ និងណែនាំផ្ទាល់ខ្លួននៅផ្ទះ។ <strong>ផលិតផលរបស់យើងត្រូវបានលក់តាមរបៀបនេះអស់ជាង ៨០ ឆ្នាំ</strong>។</p>
+				<p>Rexair គឺជាសមាជិកដ៏មោទនភាពនៃ Direct Selling Association ដែលជួយធានាថាការទីផ្សារផលិតផលត្រូវបានអនុវត្តដោយក្រមសីលធម៌ និងសេវាខ្ពស់ដល់អ្នកប្រើប្រាស់។</p>
 			</div>
 			<div class="col-md-4 text-center">
 				<img src="<?php prImg('DSA_White_logo-200x223.png') ?>">
@@ -49,18 +47,16 @@ Cậu nhân viên hôm đó đến nhà tôi là Brian Nguyễn, thật sự là
 </div>
 
 <div class="container htb-pan-warning">
-	<h2 style="margin-bottom: 26px;">Đừng Mắc Phải Sai Lầm Tiêu Tốn Tiền Bạc Của Bạn</h2>
-	
+	<h2 style="margin-bottom: 26px;">កុំធ្វើខុសព្រោះអ្នកខាតលុយ</h2>
 	<div class="row">
 		<div class="col-md-3 col-xl-2">
 			<img src="<?php prImg('Buyer-Beware.gif') ?>" class="d-block w-100">
 		</div>
 		<div class="col-md-9 col-xl-10" style="line-height: 1.7">
-			<p>Hệ thống làm sạch Rainbow® được bán cho khách hàng thông qua một mạng lưới độc lập của <a href="http://rainbowsystem.com/support/find-a-distributor/">Nhà phân phối Rainbow được ủy quyền</a>, độc quyền thông qua các buổi giới thiệu sản phẩm tại nhà. Rexair, nhà sản xuất, không bán trực tiếp cho người tiêu dùng. Sản phẩm của chúng tôi không được bán qua Internet hoặc trong các cửa hàng bán lẻ.</p>
-			<p><strong>Điều quan trọng, chỉ có các sản phẩm Rainbow được bán bởi Nhà phân phối Rainbow được ủy quyền trong hệ thống đi kèm với bảo hành được ủy quyền</strong>. Các sản phẩm Rainbow được mua thông qua các kênh trái phép, bao gồm cả Internet, không được bảo hành theo ủy quyền. Ngoài ra, không có gì đảm bảo rằng các sản phẩm được bán trên Internet là sản phẩm Rainbow mới hoặc chính hãng.</p>
-			<p>Trong khi Rexair thông cảm với những khách hàng bị lợi dụng bởi những người bán hàng trái phép hoặc qua Internet, Rexair đứng đằng sau Nhà phân phối được ủy quyền của mình và chỉ có thể cung cấp hỗ trợ cho những khách hàng đã mua qua các kênh được ủy quyền.</p>
+			<p>ប្រព័ន្ធសម្អាត Rainbow® ត្រូវបានលក់ដល់អតិថិជន តាមរយៈបណ្ដាញឯករាជ្យ <a href="http://rainbowsystem.com/support/find-a-distributor/">អ្នកចែកចាយ Rainbow ដែលទទួលស្គាល់</a> ផ្ដាច់មុខតាមរយៈការបង្ហាញផ្ទះ។ Rexair រោងចក្រផ្ទាល់ មិនលក់ដោយផ្ទាល់ដល់អ្នកប្រើប្រាស់ឡើយ។ ផលិតផលរបស់យើងមិនត្រូវបានលក់តាមអ៊ីនធឺណិត ឬតាមហាងលក់រាយឡើយ។</p>
+			<p><strong>សំខាន់ តែផលិតផល Rainbow ដែលលក់ដោយអ្នកចែកចាយ Rainbow ដែលទទួលស្គាល់នៅក្នុងប្រព័ន្ធ ទើបភ្ជាប់ជាមួយការធានាដែលទទួលស្គាល់</strong>។ ផលិតផល Rainbow ដែលទិញតាមបណ្ដាញមិនទទួលស្គាល់ រួមមានអ៊ីនធឺណិត មិនផ្ដល់ការធានាដែលទទួលស្គាល់ឡើយ។</p>
 			<p>
-				<a href="<?php prUrl('ho-tro/khach-hang-chu-y') ?>" class="btn btn-danger">Tìm hiểu thêm</a>
+				<a href="<?php prUrl('support/buyer-beware') ?>" class="btn btn-danger">ស្វែងយល់បន្ថែម</a>
 			</p>
 		</div>
 	</div>
@@ -68,7 +64,7 @@ Cậu nhân viên hôm đó đến nhà tôi là Brian Nguyễn, thật sự là
 
 <div class="htb-pan-distributor">
 	<div class="container text-center">
-		<h1 style="font-weight: 400; margin-bottom: 36px;">Chỉ có Nhà phân phối / Đại lý ủy quyền có thể bán và hỗ trợ Rainbow chính hãng.</h1>
-		<p><a href="https://rainbowsystem.com/support/find-a-distributor/" target="_blank" class="btn btn-lg btn-light">Tìm Nhà Phân Phối</a></p>
+		<h1 style="font-weight: 400; margin-bottom: 36px;">តែអ្នកចែកចាយ/ភ្នាក់ងារដែលទទួលស្គាល់ប៉ុណ្ណោះអាចលក់ និងគាំទ្រ Rainbow ពិតប្រាកដ។</h1>
+		<p><a href="https://rainbowsystem.com/support/find-a-distributor/" target="_blank" class="btn btn-lg btn-light">ស្វែងរកអ្នកចែកចាយ</a></p>
 	</div>
 </div>

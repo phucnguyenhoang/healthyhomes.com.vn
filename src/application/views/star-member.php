@@ -1,12 +1,12 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Người nổi tiếng</h1>
+		<h1 class="float-left">អ្នកល្បីល្បាញ</h1>
 		<p class="float-right d-none d-md-block">
 			<a href="/">
 				<span>Rainbow® Cleaning System</span>
 			</a>
 			<span>/</span>
-			<span>Người nổi tiếng</span>
+			<span>អ្នកល្បីល្បាញ</span>
 		</p>
 	</div>
 </div>
@@ -14,15 +14,15 @@
 <div class="container sm-pan-video">
 	<div class="row">
 		<div class="col-md-4 sm-y-video">
-			<h5>Chương Trình Truyền Hình “Oprah Winfrey”: Oprah Winfrey on Dust Mites</h5>
+			<h5>កម្មវិធីទូរទស្សន៍ “Oprah Winfrey”: Oprah Winfrey on Dust Mites</h5>
 			<iframe width="100%" height="auto" src="https://www.youtube.com/embed/xscqQRB3whM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<div class="col-md-4 sm-y-video">
-			<h5>Chương Trình Truyền Hình “Everybody Loves Raymond”: Raymond Vacuum Only</h5>
+			<h5>កម្មវិធីទូរទស្សន៍ “Everybody Loves Raymond”: Raymond Vacuum Only</h5>
 			<iframe width="100%" height="auto" src="https://www.youtube.com/embed/MoUYAesxDIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<div class="col-md-4 sm-y-video">
-			<h5>Kênh CNN “Bed Bugs”: Anderson Cooper Report on Dust Mites</h5>
+			<h5>បណ្ដាញ CNN “Bed Bugs”: Anderson Cooper Report on Dust Mites</h5>
 			<iframe width="100%" height="auto" src="https://www.youtube.com/embed/cIOqHrNLruI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</div>

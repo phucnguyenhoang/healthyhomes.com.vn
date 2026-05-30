@@ -1,12 +1,10 @@
 <div class="pan-title p-pan-title">
   <div class="container">
-    <h1 class="float-left">Khách hàng</h1>
+    <h1 class="float-left">អតិថិជន</h1>
     <p class="float-right d-none d-md-block">
-      <a href="/">
-        <span>Rainbow® Cleaning System</span>
-      </a>
+      <a href="/"><span>Rainbow® Cleaning System</span></a>
       <span>/</span>
-      <span>Khách hàng</span>
+      <span>អតិថិជន</span>
     </p>
   </div>
 </div>
@@ -21,7 +19,7 @@
         </video>
         <div class="card-body">
           <h5 class="card-title">USA TOTAL CLEANING SYSTEM SINCE 1936</h5>
-          <p class="card-text">KHÁCH HÀNG SỞ HỮU TỪ 2013</p>
+          <p class="card-text">អតិថិជនម្ចាស់ Rainbow ចាប់តាំងពីឆ្នាំ 2013</p>
         </div>
       </div>
     </div>
@@ -34,7 +32,7 @@
         </video>
         <div class="card-body">
           <h5 class="card-title">USA TOTAL CLEANING SYSTEM SINCE 1936</h5>
-          <p class="card-text">KHÁCH HÀNG SỞ HỮU TỪ 2015</p>
+          <p class="card-text">អតិថិជនម្ចាស់ Rainbow ចាប់តាំងពីឆ្នាំ 2015</p>
         </div>
       </div>
     </div>
@@ -47,7 +45,7 @@
         </video>
         <div class="card-body">
           <h5 class="card-title">USA TOTAL CLEANING SYSTEM SINCE 1936</h5>
-          <p class="card-text">KHÁCH HÀNG SỞ HỮU TỪ 2021</p>
+          <p class="card-text">អតិថិជនម្ចាស់ Rainbow ចាប់តាំងពីឆ្នាំ 2021</p>
         </div>
       </div>
     </div>
@@ -60,7 +58,7 @@
         </video>
         <div class="card-body">
           <h5 class="card-title">USA TOTAL CLEANING SYSTEM SINCE 1936</h5>
-          <p class="card-text">KHÁCH HÀNG SỞ HỮU TỪ 04/2022</p>
+          <p class="card-text">អតិថិជនម្ចាស់ Rainbow ចាប់តាំងពីខែ 04/2022</p>
         </div>
       </div>
     </div>
@@ -73,11 +71,11 @@
         </video>
         <div class="card-body">
           <h5 class="card-title">USA TOTAL CLEANING SYSTEM SINCE 1936</h5>
-          <p class="card-text">KHÁCH HÀNG SỞ HỮU TỪ 06/2022</p>
+          <p class="card-text">អតិថិជនម្ចាស់ Rainbow ចាប់តាំងពីខែ 06/2022</p>
         </div>
       </div>
     </div>
-    
+
     <div class="col mb-4">
       <div class="card">
         <video width="100%" height="auto" controls preload="metadata">
@@ -86,11 +84,11 @@
         </video>
         <div class="card-body">
           <h5 class="card-title">USA TOTAL CLEANING SYSTEM SINCE 1936</h5>
-          <p class="card-text">KHÁCH HÀNG SỞ HỮU TỪ 2021</p>
+          <p class="card-text">អតិថិជនម្ចាស់ Rainbow ចាប់តាំងពីឆ្នាំ 2021</p>
         </div>
       </div>
     </div>
-    
+
     <div class="col mb-4">
       <div class="card">
         <video width="100%" height="auto" controls preload="metadata">
@@ -99,7 +97,7 @@
         </video>
         <div class="card-body">
           <h5 class="card-title">USA TOTAL CLEANING SYSTEM SINCE 1936</h5>
-          <p class="card-text">KHÁCH HÀNG SỞ HỮU TỪ 2021</p>
+          <p class="card-text">អតិថិជនម្ចាស់ Rainbow ចាប់តាំងពីឆ្នាំ 2021</p>
         </div>
       </div>
     </div>

@@ -21,14 +21,14 @@ class Pages extends CI_Controller
 
 	public function product()
 	{
-		$this->load->view('layout/header', array('title' => 'Sản phẩm'));
+		$this->load->view('layout/header', array('title' => 'ផលិតផល'));
 		$this->load->view('product');
 		$this->load->view('layout/footer');
 	}
 
 	public function cookingSystem()
 	{
-		$this->load->view('layout/header', array('title' => 'Các Sản Phẩm Khác'));
+		$this->load->view('layout/header', array('title' => 'ផលិតផលផ្សេងទៀត'));
 		$this->load->view('cooking-system', [
 			'gifts' => $this->Md_gift->get()
 		]);
@@ -37,56 +37,56 @@ class Pages extends CI_Controller
 
 	public function howToWork()
 	{
-		$this->load->view('layout/header', array('title' => 'Cách thức vận hành'));
+		$this->load->view('layout/header', array('title' => 'របៀបដំណើរការ'));
 		$this->load->view('how-to-work');
 		$this->load->view('layout/footer');
 	}
 
 	public function howToBuy()
 	{
-		$this->load->view('layout/header', array('title' => 'Cách thức mua hàng'));
+		$this->load->view('layout/header', array('title' => 'របៀបទិញ'));
 		$this->load->view('how-to-buy');
 		$this->load->view('layout/footer');
 	}
 
 	public function tool()
 	{
-		$this->load->view('layout/header', array('title' => 'Dụng cụ'));
+		$this->load->view('layout/header', array('title' => 'ឧបករណ៍'));
 		$this->load->view('tool');
 		$this->load->view('layout/footer');
 	}
 
 	public function aboutUs()
 	{
-		$this->load->view('layout/header', array('title' => 'Giới thiệu về chúng tôi'));
+		$this->load->view('layout/header', array('title' => 'អំពីយើង'));
 		$this->load->view('about-us');
 		$this->load->view('layout/footer');
 	}
 
 	public function history()
 	{
-		$this->load->view('layout/header', array('title' => 'Lịch sử thành lập'));
+		$this->load->view('layout/header', array('title' => 'ប្រវត្តិ'));
 		$this->load->view('history');
 		$this->load->view('layout/footer');
 	}
 
 	public function customerFeed()
 	{
-		$this->load->view('layout/header', array('title' => 'Chứng thực từ khách hàng'));
+		$this->load->view('layout/header', array('title' => 'ការឆ្លើយតបអតិថិជន'));
 		$this->load->view('customer-feed');
 		$this->load->view('layout/footer');
 	}
 
 	public function certification()
 	{
-		$this->load->view('layout/header', array('title' => 'Giấy chứng nhận'));
+		$this->load->view('layout/header', array('title' => 'វិញ្ញាបនបត្រ'));
 		$this->load->view('certification');
 		$this->load->view('layout/footer');
 	}
 
 	public function starMember()
 	{
-		$this->load->view('layout/header', array('title' => 'Người nổi tiếng'));
+		$this->load->view('layout/header', array('title' => 'អ្នកល្បីល្បាញ'));
 		$this->load->view('star-member');
 		$this->load->view('layout/footer');
 	}
@@ -97,14 +97,14 @@ class Pages extends CI_Controller
 
 	public function support()
 	{
-		$this->load->view('layout/header', array('title' => 'Hỗ trợ'));
+		$this->load->view('layout/header', array('title' => 'ការគាំទ្រ'));
 		$this->load->view('support');
 		$this->load->view('layout/footer');
 	}
 
 	public function customerWarning()
 	{
-		$this->load->view('layout/header', array('title' => 'Khách hàng chú ý'));
+		$this->load->view('layout/header', array('title' => 'ការព្រមានអតិថិជន'));
 		$this->load->view('customer-warning');
 		$this->load->view('layout/footer');
 	}
@@ -118,42 +118,42 @@ class Pages extends CI_Controller
 
 	public function userManual()
 	{
-		$this->load->view('layout/header', array('title' => 'Hướng dẫn sử dụng'));
+		$this->load->view('layout/header', array('title' => 'មគ្គុទ្ទេសក៍ប្រើប្រាស់'));
 		$this->load->view('user-manual');
 		$this->load->view('layout/footer');
 	}
 
 	public function cleaningTip()
 	{
-		$this->load->view('layout/header', array('title' => 'Những mẹo làm sạch'));
+		$this->load->view('layout/header', array('title' => 'គន្លឹះសម្អាត'));
 		$this->load->view('cleaning-tip');
 		$this->load->view('layout/footer');
 	}
 
 	public function friendlyQA()
 	{
-		$this->load->view('layout/header', array('title' => 'Những câu hỏi thường gặp'));
+		$this->load->view('layout/header', array('title' => 'សំណួរញឹកញាប់'));
 		$this->load->view('friendly-qa');
 		$this->load->view('layout/footer');
 	}
 
 	public function dataSheet()
 	{
-		$this->load->view('layout/header', array('title' => 'Dữ liệu tham khảo'));
+		$this->load->view('layout/header', array('title' => 'ឯកសារយោង'));
 		$this->load->view('datasheet');
 		$this->load->view('layout/footer');
 	}
 
 	public function supplies()
 	{
-		$this->load->view('layout/header', array('title' => 'Đặt mua phụ kiện'));
+		$this->load->view('layout/header', array('title' => 'ទិញគ្រឿងបន្ថែម'));
 		$this->load->view('supplies');
 		$this->load->view('layout/footer');
 	}
 
 	public function customers()
 	{
-		$this->load->view('layout/header', array('title' => 'Khách hàng'));
+		$this->load->view('layout/header', array('title' => 'អតិថិជន'));
 		$this->load->view('customers');
 		$this->load->view('layout/footer');
 	}
@@ -181,7 +181,7 @@ class Pages extends CI_Controller
 // 			//var_dump($frmData);die();
 // 			$this->__sendContactUsEmail($frmData);
 // 		}
-		$this->load->view('layout/header', array('title' => 'Liên hệ chúng tôi'));
+		$this->load->view('layout/header', array('title' => 'ទំនាក់ទំនងយើង'));
 		$this->load->view('contact-us');
 		$this->load->view('layout/footer');
 	}
@@ -192,7 +192,7 @@ class Pages extends CI_Controller
 // 			$frmData = $this->input->post();
 // 			$this->__sendRequestDemoEmail($frmData);
 // 		}
-		$this->load->view('layout/header', array('title' => 'Yêu cầu dùng thử tại nhà'));
+		$this->load->view('layout/header', array('title' => 'ស្នើសុំការបង្ហាញនៅផ្ទះ'));
 		$this->load->view('request-demo');
 		$this->load->view('layout/footer');
 	}
@@ -218,7 +218,7 @@ class Pages extends CI_Controller
 			'pagination' => $pagination
 		);
 		//var_dump($contentData);
-		$this->load->view('layout/header', array('title' => 'Blogs'));
+		$this->load->view('layout/header', array('title' => 'អត្ថបទ'));
 		$this->load->view('blogs', $contentData);
 		$this->load->view('layout/footer');
 	}
@@ -264,7 +264,7 @@ class Pages extends CI_Controller
 			'pagination' => $pagination
 		);
 		
-		$this->load->view('layout/header', array('title' => 'Hoạt động'));
+		$this->load->view('layout/header', array('title' => 'សកម្មភាព'));
 		$this->load->view('activities', $contentData);
 		$this->load->view('layout/footer');
 	}

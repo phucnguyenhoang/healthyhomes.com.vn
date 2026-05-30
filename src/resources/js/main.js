@@ -94,7 +94,7 @@ $(function() {
         showLoading(panStarDetail);
         $.ajax({
             method: 'POST',
-            url: baseUrl + 'chung-nhan/nguoi-noi-tieng/' + id,
+            url: baseUrl + 'certification/celebrities/' + id,
             dataType: 'HTML',
             success: function(html) {
                 removeLoading(panStarDetail);

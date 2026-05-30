@@ -1,12 +1,10 @@
 <div class="pan-title p-pan-title">
 	<div class="container">
-		<h1 class="float-left">Yêu cầu dùng thử tại nhà</h1>
+		<h1 class="float-left">ស្នើសុំការបង្ហាញនៅផ្ទះ</h1>
 		<p class="float-right d-none d-md-block">
-			<a href="/">
-				<span>Rainbow® Cleaning System</span>
-			</a>
+			<a href="/"><span>Rainbow® Cleaning System</span></a>
 			<span>/</span>
-			<span>Yêu cầu dùng thử tại nhà</span>
+			<span>ស្នើសុំការបង្ហាញនៅផ្ទះ</span>
 		</p>
 	</div>
 </div>
@@ -14,42 +12,42 @@
 <div class="container content-padding">
 	<div class="row">
 		<div class="col-md-6">
-			<h2 style="text-transform: capitalize; margin-bottom: 36px">Yêu cầu dùng thử tại nhà</h2>
-			<p style="line-height: 1.8">Để xem cách thức Rainbow có thể đáp ứng nhu cầu làm sạch cụ thể của bạn như thế nào, chúng tôi mời bạn xem nó trong nhà của bạn. Chỉ cần điền vào biểu mẫu bên dưới và chúng tôi sẽ gửi thông tin đến Nhà phân phối Rainbow được ủy quyền độc lập trong khu vực của bạn, họ sẽ liên hệ với bạn để lên lịch giới thiệu sản phẩm vào thời điểm thuận tiện cho bạn.</p>
+			<h2 style="text-transform: capitalize; margin-bottom: 36px">ស្នើសុំការបង្ហាញនៅផ្ទះ</h2>
+			<p style="line-height: 1.8">ដើម្បីឃើញរបៀបដែល Rainbow អាចបំពេញតម្រូវការសម្អាតជាក់លាក់របស់អ្នក យើងសូមអញ្ជើញអ្នកមើលវានៅក្នុងផ្ទះរបស់អ្នក។ គ្រាន់តែបំពេញទម្រង់ខាងក្រោម ហើយយើងនឹងផ្ញើព័ត៌មានទៅអ្នកចែកចាយ Rainbow ឯករាជ្យដែលទទួលស្គាល់ក្នុងតំបន់របស់អ្នក ពួកគេនឹងទំនាក់ទំនងអ្នកដើម្បីបង្ហាញនៅពេលដែលងាយស្រួលសម្រាប់អ្នក។</p>
 
 			<form id="frmRequestDemo" method="POST" action="<?= base_url('submit-request-demo') ?>" class="form" style="margin-bottom: 36px;">
 				<div class="form-group">
-			    <label for="txtName">Họ và tên <span style="color: red">*</span></label>
-			    <input type="text" class="form-control" id="txtName" name="txtName" required placeholder="Họ & tên">
+			    <label for="txtName">ឈ្មោះ <span style="color: red">*</span></label>
+			    <input type="text" class="form-control" id="txtName" name="txtName" required placeholder="ឈ្មោះ">
 			  </div>
 
 			  <div class="form-group">
-			    <label for="txtAddress">Địa chỉ đầy đủ <span style="color: red">*</span></label>
+			    <label for="txtAddress">អាសយដ្ឋានពេញ <span style="color: red">*</span></label>
 			    <input type="text" class="form-control" id="txtAddress" name="txtAddress" aria-describedby="addressHelp" required>
-			    <small id="addressHelp" class="form-text text-muted">Ví dụ: 36/7 Đường Bùi Tư Toàn, P. An Lạc, Q. Bình Tân, Tp. HCM</small>
+			    <small id="addressHelp" class="form-text text-muted">ឧទាហរណ៍: 36/7 Đường Bùi Tư Toàn, P. An Lạc, Q. Bình Tân, Tp. HCM</small>
 			  </div>
 
 			  <div class="form-group">
-			  	<label for="txtEmail">Địa chỉ Email <span style="color: red">*</span></label>
-			  	<input type="email" class="form-control" name="txtEmail" id="txtEmail" placeholder="Địa chỉ Email" required>
+			  	<label for="txtEmail">អ៊ីមែល <span style="color: red">*</span></label>
+			  	<input type="email" class="form-control" name="txtEmail" id="txtEmail" placeholder="អ៊ីមែល" required>
 			  </div>
 
 			  <div class="form-group">
-			  	<label for="txtPhone">Số điện thoại liên hệ <span style="color: red">*</span></label>
-			  	<input type="text" class="form-control" name="txtPhone" id="txtPhone" placeholder="Số điện thoại liên hệ" required>
-			  </div>		  
-			  
+			  	<label for="txtPhone">លេខទូរស័ព្ទ <span style="color: red">*</span></label>
+			  	<input type="text" class="form-control" name="txtPhone" id="txtPhone" placeholder="លេខទូរស័ព្ទ" required>
+			  </div>
+
 			  <div class="g-recaptcha" data-sitekey="<?php echo CAPTCHA_SITE_KEY; ?>"></div>
 
-			  <button type="submit" class="btn btn-primary mt-4"><span class="fas fa-paper-plane"></span> Xác Nhận</button>
+			  <button type="submit" class="btn btn-primary mt-4"><span class="fas fa-paper-plane"></span> បញ្ជាក់</button>
 			  <small class="form-text text-muted">
-			  	Các mục được đánh dấu * là bắt buộc. Để được hỗ trợ ngay lập tức, vui lòng liên hệ với nhà phân phối Rainbow ủy quyền tại địa phương.
-			  </small>	  
+			  	ប្រអប់ដែលមានសញ្ញា * គឺចាំបាច់ត្រូវបំពេញ។ សម្រាប់ការជំនួយភ្លាមៗ សូមទំនាក់ទំនងអ្នកចែកចាយ Rainbow ដែលទទួលស្គាល់ក្នុងតំបន់។
+			  </small>
 			</form>
 		</div>
 		<div class="col-md-6">
-			<img src="<?php prImg('rainbow-demo.jpg') ?>" class="d-block w-100">	
-			<p style="margin-top: 36px;">Trong buổi thuyết trình, một đại diện được đào tạo sẽ giải thích các tính năng độc đáo của Rainbow, và cách so sánh với các phương pháp làm sạch truyền thống. Bạn không bắt buộc phải mua hàng nếu chưa hài lòng.</p>
+			<img src="<?php prImg('rainbow-demo.jpg') ?>" class="d-block w-100">
+			<p style="margin-top: 36px;">ក្នុងអំឡុងការបង្ហាញ តំណាងដែលបានទទួលការបណ្ដុះបណ្ដាលនឹងពន្យល់ពីមុខងារពិសេសរបស់ Rainbow និងរបៀបប្រៀបធៀបជាមួយវិធីសម្អាតប្រពៃណី។ អ្នកមិនចាំបាច់ទិញប្រសិនបើអ្នកមិនពេញចិត្ត។</p>
 
 			<div class="rd-pan-carousel">
 				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -60,16 +58,16 @@
 				  </ol>
 				  <div class="carousel-inner">
 				    <div class="carousel-item active">
-				      <p>Đây là chiếc máy Rainbow thứ hai mà tôi mua cho gia đình và tôi sẽ không phải mua thêm loại nào nữa. Tôi mua chiếc máy đầu tiên từ năm 2016 và cho tới tận bây giờ đã là 2020, nó vẫn hoạt động ngoài mong đợi của tôi, thậm chí có thể nói là trên cả tuyệt vời ấy chứ.</p>
-				      <p style="padding-bottom: 26px;"><strong><em>Chị Nguyễn Hằng – Q.7</em></strong></p>
+				      <p>នេះគឺជា Rainbow ទីពីរដែលខ្ញុំទិញ ហើយខ្ញុំនឹងមិនត្រូវការទិញថ្មីទៀតឡើយ។ ខ្ញុំបានទិញម៉ាស៊ីនដំបូងតាំងពីឆ្នាំ ២០១៦ ហើយដល់ឥឡូវ វានៅតែដំណើរការបើសៗ ពិតជាអស្ចារ្យ!</p>
+				      <p style="padding-bottom: 26px;"><strong><em>Nguyen Hang – Q.7</em></strong></p>
 				    </div>
 				    <div class="carousel-item">
-				      <p>Tôi viết ở đây là vì muốn gửi lời cảm ơn đến Rista Phạm – người đã cho tôi nhận ra rằng, tôi sở hữu Rainbow vì lợi ích sức khỏe của tôi và gia đình chứ không phải chỉ đơn thuần là việc mua – bán một  chiếc máy. Cô bé Rista Phạm đã đến tận nhà tôi dù phải đi rất xa, tư vấn cho đến khi chúng tôi không còn nghi ngờ gì về khả năng của nó nữa. Rainbow thật sự tuyệt vời và Rista Phạm cũng vậy.</p>
-				      <p style="padding-bottom: 26px;"><strong><em>Chị Phạm Thùy Giang – Bình Dương</em></strong></p>
+				      <p>ខ្ញុំសរសេរនៅទីនេះ ដោយសារខ្ញុំចង់ដឹងគុណ Rista Phạm – អ្នកដែលបានបង្ហាញខ្ញុំថា ខ្ញុំមាន Rainbow ដោយហេតុតែសុខភាពគ្រួសារ មិនមែនគ្រាន់តែការទិញម៉ាស៊ីនប៉ុណ្ណោះ។ Rainbow ពិតជាអស្ចារ្យ!</p>
+				      <p style="padding-bottom: 26px;"><strong><em>Pham Thuy Giang – Bình Dương</em></strong></p>
 				    </div>
 				    <div class="carousel-item">
-				      <p>Khi tôi cần hỗ trợ, chỉ với một cuộc gọi, nhân viên Healthy Homes Viet Nam  có mặt rất nhanh để giải quyết vấn đề cho tôi và hơn nữa họ rất nhiệt tình và lịch sự. Tôi yêu quý chiếc máy Rainbow của mình, yêu quý cả công ty Healthy Homes Viet Nam nữa. Tôi hoàn toàn hài lòng với các dịch vụ chăm sóc khách hàng ở đây. Đây là công ty tốt nhất mà tôi từng mua hàng.</p>
-				      <p style="padding-bottom: 26px;"><strong><em>Chị Mỹ Phương – Q.10</em></strong></p>
+				      <p>នៅពេលខ្ញុំត្រូវការជំនួយ គ្រាន់តែហៅម្ដង បុគ្គលិក Healthy Homes Viet Nam មកដល់ក្នុងពេលរហ័ស ហើយពួកគេក៏ស្វាហាប់ណាស់ ហើយគួរសម។ ខ្ញុំស្រលាញ់ Rainbow ហើយស្រលាញ់ Healthy Homes Viet Nam ផងដែរ!</p>
+				      <p style="padding-bottom: 26px;"><strong><em>My Phuong – Q.10</em></strong></p>
 				    </div>
 				  </div>
 				</div>
@@ -80,7 +78,7 @@
 					<img src="<?php prImg('DSAmemberlogo-269x300.jpg') ?>" class="d-block w-100">
 				</div>
 				<div class="col-9">
-					<p>Rexair là một thành viên đáng tự hào của Hiệp hội bán hàng trực tiếp và tuân thủ Quy tắc đạo đức nghề nghiệp DSA.</p>
+					<p>Rexair គឺជាសមាជិកដ៏មោទនភាពនៃ Direct Selling Association ហើយអនុវត្តតាមក្រមប្រតិបត្តិ DSA។</p>
 				</div>
 			</div>
 		</div>

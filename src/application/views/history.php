@@ -1,15 +1,15 @@
 <div class="h-pan-img-intro"></div>
 <div class="container text-center" style="padding: 60px 0; line-height: 1.8;">
-	<h1>Nguồn Gốc Hệ Thống Làm Sạch Bằng Nước</h1>
-	<p>Rexair LLC, trụ sở tại Troy, Michigan, đã sản xuất Hệ Thống Làm Sạch Tổng Hợp Rainbow trong hơn 80 năm. Với phát minh dùng nước làm hệ thống lọc đã khiến Rainbow được cả thế giới biết đến như một sự thần kì. Ngày nay, Hệ thống Làm Sạch Tổng Hợp Rainbow được phân phối đến khắp năm châu và hàng tỷ khách hàng yêu thích tại hơn 80 quốc gia trên</p>
+	<h1>ប្រភពដើមនៃប្រព័ន្ធសម្អាតដោយទឹក</h1>
+	<p>Rexair LLC មានទីស្នាក់ការនៅ Troy, Michigan បានផលិតប្រព័ន្ធសម្អាតទូទៅ Rainbow អស់រយៈពេលជាង 80 ឆ្នាំ។ ការប្រើប្រាស់ទឹកជាប្រព័ន្ធត្រងបានធ្វើឱ្យ Rainbow ត្រូវបានគ្រប់គ្នាស្គាល់ទូទាំងពិភពលោកថាជារឿងអស្ចារ្យ។ សព្វថ្ងៃ ប្រព័ន្ធសម្អាតទូទៅ Rainbow ត្រូវបានចែកចាយទៅទូទាំងប្រាំទ្វីប ហើយអតិថិជនជាច្រើនពាន់លាននាក់ចូលចិត្តនៅក្នុងជាងប្រាំបីសិបប្រទេសទូទាំងពិភពលោក</p>
 </div>
 
 <div class="container-fluid h-pan-content">
 	<div class="row">
 		<div class="col-md-6" style="padding: 7%">
-			<h2>Khởi đầu</h2>
-			<p>Ý tưởng ban đầu cho máy hút bụi không túi đã ra đời vào những năm 1920. John W. Newcombe đã phát minh ra “Máy Tách – Separator” - một thiết bị được thiết kế để tách bụi và các hạt nhỏ ra khỏi không khí. Leslie H. Green đã nhìn thấy tiềm năng thực sự trong phát minh này và hợp tác với Newcombe để phát triển dự án “Newcombe Bagless”.</p>
-			<p>Năm 1929, Green thành lập một công ty mới có tên là Rexair, có nghĩa là “Vua của không khí”. Trong khi quốc gia đang ở trong thời kỳ Đại suy thoái, Công ty Rexair bắt đầu sản xuất, tinh chế và tiếp thị máy dọn vệ sinh Rexair.</p>
+			<h2>ការចាប់ផ្តើម</h2>
+			<p>គំនិតដំបូងសម្រាប់ម៉ាស៊ីនជូតដង្ហើមដោយគ្មានថង់បានកើតឡើងនៅក្នុងទសវត្សឆ្នាំ 1920 ។ John W. Newcombe បានប្រើប្រាស់ "Separator" ​​​— ឧបករណ៍ដែលត្រូវបានរចនាឡើងដើម្បីបំបែកធូលីនិងធាតុតូចៗចេញពីខ្យល់។ Leslie H. Green បានឃើញសក្ដានុពលពិតប្រាកដក្នុងការប្រើប្រាស់នេះ ហើយបានសហការជាមួយ Newcombe ដើម្បីអភិវឌ្ឍគម្រោង "Newcombe Bagless"។</p>
+			<p>ក្នុងឆ្នាំ 1929 Green បានបង្កើតក្រុមហ៊ុនថ្មីមួយឈ្មោះថា Rexair ដែលមានន័យថា "ស្តេចនៃខ្យល់"។ ខណៈដែលប្រទេសកំពុងស្ថិតក្នុងសម័យ Great Depression ក្រុមហ៊ុន Rexair បានចាប់ផ្ដើមផលិត កែលម្អ និងទីផ្សារម៉ាស៊ីន Rexair។</p>
 		</div>
 		<div class="col-md-6 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-002_1929.jpg');">
 		</div>
@@ -17,20 +17,20 @@
 
 	<div class="row">
 		<div class="col-md-6 order-sm-1 order-md-12" style="padding: 7%">
-			<h2>Sự phát triển của Rexair</h2>
-			<p>Năm 1936, T. Russ Hill gia nhập Rexair. Lấy cảm hứng từ những người làm sạch đường phố ở Kentucky, Hill đã nảy ra ý tưởng kết hợp nước vào thiết kế Rexair, để bẫy bụi và bụi bẩn. Sự đổi mới này làm cho Rexair trở thành một sản phẩm độc đáo và độc quyền. Rexair đã phát triển một khẩu hiệu mới: “Bụi ướt không thể bay! ™”</p>
-			<p>Vào cuối những năm 1930, Rexair đã được ca ngợi không chỉ là một máy hút bụi. Rexair có khả năng loại bỏ bụi trong không khí nhà ở, giúp cuộc sống những người bị dị ứng, hen suyễn và sốt trở nên dễ dàng hơn, và chẳng mấy chốc các chuyên gia y tế đã thừa nhận đây là một sản phẩm đột phá.</p>
+			<h2>ការអភិវឌ្ឍន៍របស់ Rexair</h2>
+			<p>ក្នុងឆ្នាំ 1936 T. Russ Hill បានចូលរួមជាមួយ Rexair ។ ដោយបានទទួលការជំរុញចិត្តពីអ្នកសម្អាតផ្លូវនៅ Kentucky Hill បានប្រមើឃើញការបញ្ចូលទឹកទៅក្នុងការរចនា Rexair ដើម្បីចាប់ធូលីនិងដីថ្នម។ ការច្នៃប្រឌិតនេះបានធ្វើឱ្យ Rexair ក្លាយជាផលិតផលតែមួយគត់។ Rexair បានអភិវឌ្ឍពាក្យស្លោកថ្មី: "ធូលីសើមមិនអាចហើរ! ™"</p>
+			<p>នៅចុងទសវត្សឆ្នាំ 1930 Rexair ត្រូវបានគេស្គាល់ថាមិនត្រឹមតែជាម៉ាស៊ីនជូតដង្ហើមប៉ុណ្ណោះ។ Rexair អាចលុបបំបាត់ធូលីក្នុងខ្យល់ក្នុងផ្ទះ ដែលជួយអ្នកដែលមានការអាឡែស៊ី ជំងឺហឺត និងគ្រុនក្ដៅ ហើយមិនយូរប៉ុន្មាន អ្នកជំនាញវេជ្ជសាស្ត្រក៏បានទទួលស្គាល់ថានេះជាផលិតផលបដិវត្តន៍។</p>
 		</div>
 		<div class="col-md-6 order-sm-12 order-md-1 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-003_1936.jpg');">
-		</div>		
+		</div>
 	</div>
 
 	<div class="row">
 		<div class="col-md-6" style="padding: 7%">
-			<h2>Những năm chiến tranh</h2>
-			<p>Khi nước Mỹ bước vào Thế chiến II, Rexair đã có bước phát triển đáng kể. Năm 1941, Rexair sáp nhập với công ty Martin-Parry ở Toledo, Ohio, cung cấp cho Rexair khả năng sản xuất được mở rộng rất nhiều.</p>
-			<p>Trong chiến tranh, Rexair và Martin-Parry là công cụ hỗ trợ cho nỗ lực chiến tranh trong việc sản xuất các hộp radar, bệ phóng tên lửa, các vách ngăn và lớp lót tàu.</p>
-			<p>Khi chiến tranh kết thúc, Rexair đã ở một vị trí hoàn hảo cho sự bùng nổ kinh tế sau chiến tranh. Công ty đã được thành lập vững chắc, và chẳng bao lâu Rexair trở thành một từ ngữ quen cho dân dụng.</p>
+			<h2>ឆ្នាំសង្គ្រាម</h2>
+			<p>នៅពេលដែលសហរដ្ឋអាមេរិកចូលរួមក្នុងសង្គ្រាមលោកលើកទី II Rexair បានមានការអភិវឌ្ឍន៍គួរឱ្យកត់សម្គាល់។ ក្នុងឆ្នាំ 1941 Rexair បានលែងចូលជាមួយក្រុមហ៊ុន Martin-Parry នៅ Toledo, Ohio ដែលផ្ដល់ឱ្យ Rexair នូវសមត្ថភាពផលិតកម្មធំទូលាយ។</p>
+			<p>ក្នុងអំឡុងសង្គ្រាម Rexair និង Martin-Parry បានជួយគាំទ្រការខិតខំប្រឹងប្រែងយោធា ក្នុងការផលិតប្រអប់ radar បន្ទះបូម បន្ទះចែក និងបន្ទះស្រោបទូកនាវា។</p>
+			<p>នៅពេលដែលសង្គ្រាមបញ្ចប់ Rexair ស្ថិតក្នុងទីតាំងល្អឥតខ្ចោះសម្រាប់ការរីកចម្រើនសេដ្ឋកិច្ចក្រោយសង្គ្រាម។ ក្រុមហ៊ុនត្រូវបានបង្ហាញយ៉ាងរឹងមាំ ហើយ Rexair ក្លាយជាឈ្មោះស្គាល់ទូទៅ។</p>
 		</div>
 		<div class="col-md-6 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-004_1941.jpg');">
 		</div>
@@ -38,19 +38,19 @@
 
 	<div class="row">
 		<div class="col-md-6 order-sm-1 order-md-12" style="padding: 7%">
-			<h2>Cơ hội khởi sắc</h2>
-			<p>Năm 1948, doanh số của máy dọn vệ sinh Rexair bắt đầu tăng vọt. Điều này một phần là do một nhân viên bán hàng trẻ tuổi từ Owensboro, Kentucky. J.V. Sanders - được biết đến với cái tên là “Sandy”, đã chứng kiến ​​một buổi giới thiệu và chạy thử sản phẩm của Rexair và đã đến Detroit, Michigan quyết tâm trở thành “người bán hàng giỏi nhất mà công ty từng có”.</p>
-			<p>Cậu ấy đã làm được và hơn thế nữa, giúp Rexair phát triển và thịnh vượng. “Sandy” là điển hình cho cơ hội mà Rexair cung cấp, và năm 1953 trở thành một trong năm Regional Sales Manager của toàn Hoa Kỳ.</p>
+			<h2>ឱកាសសម្រាប់ការលូតលាស់</h2>
+			<p>ក្នុងឆ្នាំ 1948 ការលក់ម៉ាស៊ីន Rexair ចាប់ផ្ដើមមានការស្ទើស្ទើ។ ផ្នែកមួយគឺដោយសារអ្នកលក់ក្មេងម្នាក់មកពី Owensboro, Kentucky ។ J.V. Sanders ដែលត្រូវបានគេស្គាល់ក្នុងនាម "Sandy" បានឃើញការបង្ហាញ Rexair ហើយបានចូលមកដល់ Detroit, Michigan ដោយប្ដេជ្ញាក្លាយជា "អ្នកលក់ល្អបំផុតដែលក្រុមហ៊ុនធ្លាប់មាន"។</p>
+			<p>គាត់បានធ្វើបានហើយថែមទៀត ជួយ Rexair ឱ្យរីកចម្រើននិងសម្បូរ។ "Sandy" ជាគំរូនៃឱកាសដែល Rexair ផ្ដល់ ហើយក្នុងឆ្នាំ 1953 ក្លាយជា Regional Sales Manager ម្នាក់ក្នុងចំណោមប្រាំនាក់ទូទាំងសហរដ្ឋអាមេរិក។</p>
 		</div>
 		<div class="col-md-6 order-sm-12 order-md-1 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-005_1948.jpg');">
-		</div>		
+		</div>
 	</div>
 
 	<div class="row">
 		<div class="col-md-6" style="padding: 7%">
-			<h2>Sự ra đời của Rainbow</h2>
-			<p>1955 một sự cải tiến đáng kể cho chiếc máy dọn sinh Rexair. Với thiết kế đẹp, hợp lý và động cơ mạnh gấp đôi so với thiết bị trước đây, giám đốc điều hành Rexair đã quyết định đặt tên cho nó là “Rainbow”.</p>
-			<p>Sự phát triển của cả tập đoàn Rexair rất lớn, là kết quả của một sản phẩm tuyệt vời, sự chăm chỉ và cam kết của các Đại lý, Quản lý khu vực và sự cống hiến cũng như tầm nhìn của đội ngũ điều hành.</p>
+			<h2>ការកំណើតរបស់ Rainbow</h2>
+			<p>ឆ្នាំ 1955 មានការកែលម្អគួរឱ្យកត់សម្គាល់ចំពោះម៉ាស៊ីន Rexair ។ ជាមួយការរចនាស្អាត សមហេតុ និងម៉ូទ័រខ្លាំងជាងមុន 2 ដង ប្រធានអ្នកប្រតិបត្តិ Rexair បានសម្រេចដាក់ឈ្មោះថា "Rainbow"។</p>
+			<p>ការរីកចម្រើននៃក្រុម Rexair ធំ ជាលទ្ធផលនៃផលិតផលល្អ ភាពខ្លាំងក្លា និងការប្ដេជ្ញាចិត្តរបស់ភ្នាក់ងារ អ្នកគ្រប់គ្រងតំបន់ ព្រមទាំងការឧទ្ទិស និងចក្ខុវិស័យរបស់ក្រុមអ្នកដឹកនាំ។</p>
 		</div>
 		<div class="col-md-6 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-007_1955.jpg');">
 		</div>
@@ -58,19 +58,19 @@
 
 	<div class="row">
 		<div class="col-md-6 order-sm-1 order-md-12" style="padding: 7%">
-			<h2>Rexair tổ chức lại cho tương lai</h2>
-			<p>Số tạp chí tháng 2 năm 1959 của Rexevents đã thông báo tin tức – “GIẤC MƠ LỚN TRỞ THÀNH SỰ THẬT - Sanders and Associates mua Rexair”. J.V. Sanders hiện đang kiểm soát Rexair và sự ưu tiên hàng đầu trong kinh doanh của anh là phát triển đầy đủ “Rainbow Opportunity”.</p>
-			<p>Những nhà phân phối Rainbow giờ đây đã có cơ hội trở thành chủ doanh nghiệp độc lập khi đi đến các thị trường mới, các Nhà quản lý và các Nhà phân phối Rainbow có thể trực tiếp đạt được các mục tiêu cá nhân về thành công, hạnh phúc và dĩ nhiên đi kèm cùng phần thưởng tài chính.</p>
+			<h2>Rexair រៀបចំឡើងវិញសម្រាប់អនាគត</h2>
+			<p>ទស្សនាវដ្ដី Rexevents ខែកុម្ភៈ ឆ្នាំ 1959 បានប្រកាសព័ត៌មានថា — "ក្ដីសុបិន្តធំក្លាយជាការពិត — Sanders and Associates ទិញ Rexair"។ J.V. Sanders ឥឡូវនេះគ្រប់គ្រង Rexair ហើយអាទិភាពអាជីវកម្មចម្បងរបស់គាត់គឺអភិវឌ្ឍ "Rainbow Opportunity" ឱ្យពេញលេញ។</p>
+			<p>ឥឡូវនេះ អ្នកចែកចាយ Rainbow មានឱកាសក្លាយជាម្ចាស់អាជីវកម្មឯករាជ្យ ក្នុងការឈានទៅកាន់ទីផ្សារថ្មី ។ អ្នកគ្រប់គ្រង និងអ្នកចែកចាយ Rainbow អាចសម្រេចដោយផ្ទាល់នូវគោលដៅផ្ទាល់ខ្លួនស្ដីអំពីជោគជ័យ សុភមង្គល ហើយជានិច្ចជាមួយរង្វាន់ហិរញ្ញវត្ថុ។</p>
 		</div>
 		<div class="col-md-6 order-sm-12 order-md-1 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-008_1959.jpg');">
-		</div>		
+		</div>
 	</div>
 
 	<div class="row">
 		<div class="col-md-6" style="padding: 7%">
-			<h2>Cam kết cải tiến liên tục</h2>
-			<p>Năm 1969, Rexair đã tiết lộ cơ sở sản xuất 100.000 Ft² mới của mình tại Cadillac, Michigan. Là kết quả của Rexair cam kết cải tiến sản phẩm liên tục, Rainbow đã phát triển và một loạt các cải tiến sản phẩm tinh vi đã được thiết kế - các công cụ hỗ trợ mới, Power Nozzle và AquaMate, cùng với các sản phẩm khác.</p>
-			<p>Rainbow D3 mới được ra mắt vào năm 1980, sự thay đổi mô hình lớn đầu tiên trong hai mươi năm. Với một động cơ mới, chạy mát hơn, D3 là chiếc Rainbow đầu tiên được phê duyệt cho “wet pick-up.”</p>
+			<h2>ការប្ដេជ្ញាចិត្តក្នុងការកែលម្អជាបន្ដ</h2>
+			<p>ក្នុងឆ្នាំ 1969 Rexair បានបង្ហាញរោងចក្រផលិតកម្ម 100,000 Ft² ថ្មីរបស់ខ្លួននៅ Cadillac, Michigan ។ ជាលទ្ធផលនៃការប្ដេជ្ញាចិត្តរបស់ Rexair ក្នុងការកែលម្អផលិតផលជាបន្ដ Rainbow បានរីកចម្រើន ហើយឧបករណ៍ប្រដាប់ប្រើប្រាស់ថ្មីៗជាច្រើន — Power Nozzle និង AquaMate — ត្រូវបានបង្កើតឡើង ជាមួយផលិតផលផ្សេងទៀត។</p>
+			<p>Rainbow D3 ថ្មីត្រូវបានបង្ហាញក្នុងឆ្នាំ 1980 ជាការផ្លាស់ប្ដូររំំ ំ ំ ំ ំ ដំបូងក្នុងរយៈពេលជិតម្ភៃឆ្នាំ។ ជាមួយម៉ូទ័រថ្មី ត្រជាក់ជាង D3 ជា Rainbow ដំបូងដែលត្រូវបានអនុម័តសម្រាប់ "wet pick-up"។</p>
 		</div>
 		<div class="col-md-6 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-009_1969.jpg');">
 		</div>
@@ -78,18 +78,18 @@
 
 	<div class="row">
 		<div class="col-md-6 order-sm-1 order-md-12" style="padding: 7%">
-			<h2>Rainbow trên khắp thế giới</h2>
-			<p>Cho đến năm 1947, Rexair có các chi nhánh tại Canada, Cuba và Mexico. Nhưng đến tận những năm 1980, doanh số quốc tế Rainbow mới thực sự cất cánh. Rexair đã phát triển một mạng lưới phân phối và bán hàng quốc tế, cũng như Rainbow đã được sửa đổi để đáp ứng nhu cầu cụ thể của các quốc gia trên thế giới.</p>
-			<p>Năm 1986, Rexair đã tổ chức Lễ kỷ niệm vàng bằng cách ra mắt chiếc Rainbow mới nhất, D4. Kết quả của năm năm lập kế hoạch, kỹ thuật và thử nghiệm, Rainbow mới được J.V. Sanders coi là “Hệ thống làm sạch tốt nhất trên bề mặt trái đất”.</p>
+			<h2>Rainbow នៅទូទាំងពិភពលោក</h2>
+			<p>រហូតដល់ឆ្នាំ 1947 Rexair មានសាខានៅ Canada, Cuba និង Mexico ។ ប៉ុន្ដែរហូតដល់ទសវត្សឆ្នាំ 1980 ការលក់អន្ដរជាតិ Rainbow ទើបពិតជារីកចម្រើនយ៉ាងខ្លាំង។ Rexair បានបង្កើតបណ្ដាញចែកចាយ និងលក់អន្ដរជាតិ ហើយ Rainbow ត្រូវបានកែប្រែ ដើម្បីបំពេញតម្រូវការពិសេសរបស់ប្រទេសជុំវិញពិភពលោក។</p>
+			<p>ក្នុងឆ្នាំ 1986 Rexair បានរៀបចំខួបលើកទី 50 ដោយបង្ហាញ Rainbow ថ្មីបំផុត D4 ។ ជាលទ្ធផលនៃប្រាំឆ្នាំនៃការរៀបចំផែនការ ការវិស្វកម្ម និងការសាកល្បង Rainbow ថ្មីត្រូវបាន J.V. Sanders ចាត់ទុកថាជា "ប្រព័ន្ធសម្អាតល្អបំផុតនៅលើផ្ទៃដី"។</p>
 		</div>
 		<div class="col-md-6 order-sm-12 order-md-1 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-010_1980.jpg');">
-		</div>		
+		</div>
 	</div>
 
 	<div class="row">
 		<div class="col-md-6" style="padding: 7%">
-			<h2>Dẫn lối vào một thiên niên kỷ mới</h2>
-			<p>Năm 2001, Paul Vidovich chịu trách nhiệm về Rexair, với tư cách là Chủ tịch HĐQT, Chủ tịch và Giám đốc điều hành. Paul bắt đầu sự nghiệp của mình trong lĩnh vực kinh doanh bán hàng trực tiếp vào năm 1971, và sau nhiều năm, đã trở thành một trong những nhà phân phối độc lập lớn nhất và thành công nhất của Rexair. Kỹ năng và kiến ​​thức lãnh đạo xuất sắc của ông đã đưa Rexair đạt thành tích cực kỳ cao ở Hoa Kỳ và nhiều Thị trường Quốc tế.</p>
+			<h2>ការដឹកនាំចូលក្នុងសហស្សវត្សថ្មី</h2>
+			<p>ក្នុងឆ្នាំ 2001 Paul Vidovich ទទួលខុសត្រូវ Rexair ក្នុងនាមជា ប្រធានក្រុមប្រឹក្សា ប្រធាន និងប្រធានអ្នកប្រតិបត្តិ។ Paul ចាប់ផ្ដើមមុខរបរការលក់ដោយផ្ទាល់ក្នុងឆ្នាំ 1971 ហើយក្រោយពីឆ្នាំជាច្រើន ក្លាយជាអ្នកចែកចាយឯករាជ្យធំបំផុតនិងជោគជ័យបំផុតរបស់ Rexair ។ ជំនាញភាពជានាំមុខ និងចំណេះដឹងឆ្នើមរបស់គាត់ ជំរុញ Rexair ឱ្យមានលទ្ធផលខ្ពស់ខ្លាំងទាំងនៅសហរដ្ឋអាមេរិក និងទីផ្សារអន្ដរជាតិជាច្រើន។</p>
 		</div>
 		<div class="col-md-6 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-012_2001.jpg');">
 		</div>
@@ -97,18 +97,18 @@
 
 	<div class="row">
 		<div class="col-md-6 order-sm-1 order-md-12" style="padding: 7%">
-			<h2>Sự phát triển mới nhất của một sản phẩm thực sự mang tính cách mạng</h2>
-			<p>Năm 2019, Rexair đã công bố ra mắt mẫu Rainbow SRX hoàn toàn mới. Kết quả của hơn ba năm nghiên cứu, phát triển và thử nghiệm chuyên sâu, SRX mang đến những cải tiến hiệu suất đáng kể so với các phiên bản trước, cũng như những tiến bộ đáng kể so với các công năng của những sản phẩm đối thủ cạnh tranh.</p>
-			<p>Tự hào với hơn 20 tính năng và cải tiến mới, bao gồm một động cơ hiệu suất cao 4-mode tốc độ mới được thiết kế lại, khả năng làm sạch không khí được nâng cao cùng với sự cải thiện 30% luồng không khí so với các mẫu trước đó, SRX là hệ thống làm sạch nhà tiên tiến nhất từng được sản xuất, và tiếp tục để trở thành hệ thống làm sạch nhà ở duy nhất được chứng nhận là máy làm sạch không khí bởi AHAM - Association of Home Appliance Manufacturers - Hiệp Hội Các Nhà Sản Xuất Thiết Bị Gia Dụng.</p>
+			<h2>ការអភិវឌ្ឍន៍ចុងក្រោយបំផុតនៃផលិតផលបដិវត្តន៍ពិតប្រាកដ</h2>
+			<p>ក្នុងឆ្នាំ 2019 Rexair បានប្រកាសការបង្ហាញ Rainbow SRX ថ្មីទាំងស្រុង។ ជាលទ្ធផលនៃជាងបីឆ្នាំនៃការស្រាវជ្រាវ អភិវឌ្ឍ និងការសាកល្បងស្ទង់ SRX ផ្ដល់ការកែលម្អដ៏គួរឱ្យកត់សម្គាល់ ធៀបនឹងស៊េរីមុន ក៏ដូចជាការ前進 ដ៏ សំខាន់ ធៀបនឹងផលិតផលដៃគូ។</p>
+			<p>ដោយមានលក្ខណៈពិសេស និងការអភិវឌ្ឍន៍ថ្មីជាង 20 យ៉ាង រួមមានម៉ូទ័រ 4 ល្បឿន ។ SRX ជាប្រព័ន្ធសម្អាតផ្ទះកម្រិតខ្ពស់ ដែលជាសិស្ស Rainbow System ផ្ដល់ការអភិវឌ្ឍ 30% លើស ធ្វៀនខ្យល់ ធៀបនឹងស៊េរីមុន ហើយជាប្រព័ន្ធសម្អាតផ្ទះតែមួយគត់ដែលត្រូវបានទទួលស្គាល់ជាម៉ាស៊ីនសម្អាតខ្យល់ដោយ AHAM — Association of Home Appliance Manufacturers — សមាគមអ្នកផលិតគ្រឿងស្នាក់ស្ថានផ្ទះ។</p>
 		</div>
 		<div class="col-md-6 order-sm-12 order-md-1 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-013b_2019_OPT2.jpg');">
-		</div>	
+		</div>
 	</div>
 
 	<div class="row">
 		<div class="col-md-6" style="padding: 7%">
-			<h2>Sẵn sàng cho mọi thành công trong tương lai</h2>
-			<p>Ngày nay, Rexair LLC lớn mạnh hơn bao giờ hết. Năm 2019, Chủ tịch HĐQT Rexair Paul Vidovich đã bổ nhiệm Momir Popovic là Chủ tịch & Giám đốc điều hành mới của Rexair - CEO thứ năm trong lịch sử công ty. Là một nhà đổi mới và người dẫn đầu thị trường, Rexair cung cấp cho khách hàng một sản phẩm tuyệt vời luôn đi đầu trong đổi mới kỹ thuật. Theo truyền thống đó, Rainbow SRX chắc chắn là bước đột phá lớn nhất trong các Hệ thống làm sạch nhà cao cấp từ trước đến nay, và sẽ tiếp tục mang lại cho Rexair một lợi thế là người dẫn đầu ngành trong nhiều năm tới.</p>
+			<h2>ត្រៀមរួចជាស្រេចសម្រាប់ជោគជ័យទាំងអស់នាពេលអនាគត</h2>
+			<p>សព្វថ្ងៃ Rexair LLC រឹងមាំជាងពេលណាទាំងអស់។ ក្នុងឆ្នាំ 2019 ប្រធានក្រុមប្រឹក្សា Rexair Paul Vidovich បានតែងតាំង Momir Popovic ជាប្រធាន &amp; ប្រធានអ្នកប្រតិបត្តិថ្មីរបស់ Rexair — ប្រធានអ្នកប្រតិបត្តិទី 5 ក្នុងប្រវត្តិក្រុមហ៊ុន។ ជានវប្រកបក្នុងការប្ដូរ និងអ្នកដឹកនាំទីផ្សារ Rexair ផ្ដល់ឱ្យអតិថិជននូវផលិតផលឆ្នើមមួយ ដែលតែងតែឈានមុខក្នុងការច្នៃប្រឌិតបច្ចេកទេស។ តាមប្រពៃណីនោះ Rainbow SRX ជាដំណើរចំណាន Breakthroughs ធំបំផុតក្នុងប្រព័ន្ធសម្អាតផ្ទះកម្រិតខ្ពស់ ហើយនឹងបន្ដផ្ដល់ Rexair នូវចំណូលទឹកចិត្តដ៏ខ្លាំងក្លាក្នុងឆ្នាំខាងមុខ។</p>
 		</div>
 		<div class="col-md-6 h-pan-img" style="background-image: url('/resources/imgs/history/Rexair-History-013_2019_OPT3-1.jpg');">
 		</div>

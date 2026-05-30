@@ -17,11 +17,11 @@
 
 <div class="pan-title p-pan-title">
     <div class="container">
-        <h1 class="float-left">Sản Phẩm</h1>
+        <h1 class="float-left">ផលិតផល</h1>
         <p class="float-right d-none d-md-block">
             <a href="/"><span>Rainbow® Cleaning System</span></a>
             <span>/</span>
-            <a href="<?php echo base_url('san-pham-khac'); ?>">Sản Phẩm</a>
+            <a href="<?php echo base_url('other-products'); ?>">ផលិតផល</a>
             <span>/</span>
             <?php
                 $bcName = html_entity_decode($product['name'], ENT_QUOTES, 'UTF-8');
@@ -60,11 +60,11 @@
                 </div>
                 <a class="carousel-control-prev" href="#productCarousel" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Trước</span>
+                    <span class="sr-only">មុន</span>
                 </a>
                 <a class="carousel-control-next" href="#productCarousel" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Sau</span>
+                    <span class="sr-only">បន្ទាប់</span>
                 </a>
             </div>
 
@@ -74,7 +74,7 @@
                 <div class="carousel-thumb mr-1 mb-1 <?php echo $i === 0 ? 'active' : ''; ?>"
                      data-target="#productCarousel" data-slide-to="<?php echo $i; ?>">
                     <img src="<?php echo $img['image_url']; ?>"
-                         alt="Ảnh <?php echo $i + 1; ?>">
+                         alt="រូបភាព <?php echo $i + 1; ?>">
                 </div>
                 <?php endforeach; ?>
             </div>
@@ -105,13 +105,13 @@
             </p>
             <?php endif; ?>
 
-            <a href="<?php echo base_url('ho-tro/lien-he-chung-toi'); ?>"
+            <a href="<?php echo base_url('support/contact-us'); ?>"
                class="btn btn-dark btn-lg mb-2 mr-2">
-                <i class="fas fa-phone-alt mr-2"></i>Liên hệ mua hàng
+                <i class="fas fa-phone-alt mr-2"></i>ទំនាក់ទំនងដើម្បីទិញ
             </a>
-            <a href="<?php echo base_url('yeu-cau-dung-thu-tai-nha'); ?>"
+            <a href="<?php echo base_url('request-demo'); ?>"
                class="btn btn-outline-dark btn-lg mb-2">
-                <i class="fas fa-home mr-2"></i>Dùng thử tại nhà
+                <i class="fas fa-home mr-2"></i>សាកល្បងនៅផ្ទះ
             </a>
         </div>
 
@@ -122,7 +122,7 @@
     <div class="row mt-2">
         <div class="col-12">
             <hr>
-            <h2 class="h5 font-weight-bold mb-4">Mô tả sản phẩm</h2>
+            <h2 class="h5 font-weight-bold mb-4">ការពិពណ៌នាផលិតផល</h2>
             <div class="product-detail-content mb-5">
                 <?php echo $product['description']; ?>
             </div>
@@ -132,8 +132,8 @@
 
     <!-- Back button -->
     <div class="text-center mt-3 mb-4">
-        <a href="<?php echo base_url('san-pham-khac'); ?>" class="btn btn-outline-dark">
-            <i class="fas fa-arrow-left mr-1"></i> Xem tất cả sản phẩm
+        <a href="<?php echo base_url('other-products'); ?>" class="btn btn-outline-dark">
+            <i class="fas fa-arrow-left mr-1"></i> មើលផលិតផលទាំងអស់
         </a>
     </div>
 </div>

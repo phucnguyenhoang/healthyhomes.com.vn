@@ -5,8 +5,8 @@
 				<img src="<?php prImg('Rexair-80th-Logo-250x250.png') ?>">
 			</div>
 			<div class="col-md-8">
-				<h1 style="margin: 20px 0; font-size: 36px;">Về Công Ty Của Chúng Tôi</h1>
-				<p style="line-height: 1.8">Rexair LLC đã sản xuất Hệ Thống Làm Sạch Tổng Hợp Rainbow trong hơn 80 năm. Sự thần kì của Rainbow với Hệ thống lọc bằng nước đã khiến cho Rainbow được cả thế giới biết đến. Ngày nay, Hệ Thống Làm Sạch Tổng Hợp Rainbow được phân phối chính thức và tin dùng tại hơn 80 quốc gia trên thế giới.</p>
+				<h1 style="margin: 20px 0; font-size: 36px;">អំពីក្រុមហ៊ុនរបស់យើង</h1>
+				<p style="line-height: 1.8">Rexair LLC បានផលិតប្រព័ន្ធសម្អាតទូទៅ Rainbow អស់រយៈពេលជាង ៨០ ឆ្នាំ។ ភាពអស្ចារ្យនៃ Rainbow ជាមួយប្រព័ន្ធចម្រោះទឹកបានធ្វើឱ្យ Rainbow ល្បីល្បាញទូទាំងពិភពលោក។ ថ្ងៃនេះ ប្រព័ន្ធសម្អាតទូទៅ Rainbow ត្រូវបានចែកចាយជាផ្លូវការ និងទទួលការទុកចិត្តនៅជាង ៨០ ប្រទេសទូទាំងពិភពលោក។</p>
 			</div>
 		</div>
 	</div>
@@ -18,23 +18,23 @@
 			<img src="<?php prImg('popovic-momir_opt1.jpg') ?>" class="d-block w-100">
 		</div>
 		<div class="col-md-9" style="line-height: 1.8">
-			<p style="margin-bottom: 20px">Cảm ơn bạn vì đã ghé thăm Website Nhà Phân Phối Độc Quyền của Hệ Thống Làm Sạch Tổng Hợp Rainbow tại Việt Nam. Tập đoàn Rexair tự hào cung cấp các sản phẩm và dịch vụ tuyệt vời cho Nhà phân phối và Chủ sở hữu Rainbow. Chúng tôi hy vọng bạn tìm thấy ở trang Web của chúng tôi nhiều thông tin hữu ích.</p>
-			<p style="margin-bottom: 20px">Từ năm 1936, Rexair đã sản xuất Hệ Thống Làm Sạch Tổng Hợp Rainbow và có hàng triệu khách hàng hài lòng trên toàn thế giới. Tất cả sản phẩm được giới thiệu và bán thông qua một mạng lưới các <a href="https://rainbowsystem.com/support/find-a-distributor/" target="_blank">Nhà phân phối Rainbow</a> được ủy quyền trên toàn thế giới.</p>
-			<p style="margin-bottom: 20px">Nếu bạn đang cân nhắc việc mua một chiếc máy Rainbow mới, tôi khuyến khích bạn liên hệ với Nhà phân phối Rainbow được ủy quyền và sắp xếp một cuộc hẹn để gặp một người thuận tiện trong nhà của bạn. Tôi hứa với bạn sẽ rất ngạc nhiên khi thấy tận mắt Hệ Thống Làm Sạch Tổng Hợp Rainbow.</p>
-			<p>Trân trọng,<br>
+			<p style="margin-bottom: 20px">សូមអរគុណដែលបានចូលមើលគេហទំព័ររបស់អ្នកចែកចាយផ្ដាច់មុខប្រព័ន្ធសម្អាតទូទៅ Rainbow នៅកម្ពុជា។ ក្រុមហ៊ុន Rexair មានមោទនភាពក្នុងការផ្ដល់ផលិតផល និងសេវាកម្មដ៏ល្អឥតខ្ចោះដល់អ្នកចែកចាយ និងម្ចាស់ Rainbow។ យើងសង្ឃឹមថាអ្នករកឃើញព័ត៌មានមានប្រយោជន៍ច្រើននៅលើគេហទំព័ររបស់យើង។</p>
+			<p style="margin-bottom: 20px">ចាប់តាំងពីឆ្នាំ ១៩៣៦ Rexair បានផលិតប្រព័ន្ធសម្អាតទូទៅ Rainbow ហើយមានអតិថិជនពេញចិត្តរាប់លាននាក់ទូទាំងពិភពលោក។ ផលិតផលទាំងអស់ត្រូវបានណែនាំ និងលក់តាមរយៈបណ្ដាញ <a href="https://rainbowsystem.com/support/find-a-distributor/" target="_blank">អ្នកចែកចាយ Rainbow</a> ដែលទទួលការអនុញ្ញាតទូទាំងពិភពលោក។</p>
+			<p style="margin-bottom: 20px">ប្រសិនបើអ្នកកំពុងពិចារណាទិញ Rainbow ថ្មី ខ្ញុំ​លើក​ទឹក​ចិត្ត​ឱ្យ​អ្នក​ទំនាក់​ទំនង​ជាមួយ​អ្នក​ចែក​ចាយ​ Rainbow ដែល​ទទួល​ស្គាល់ ហើយ​រៀប​ចំ​ ការ​ណាត់​ជួប​ ដែល​ងាយ​ស្រួល​ នៅ​ក្នុង​ផ្ទះ​របស់​អ្នក។ ខ្ញុំ​សន្យា​ថា​អ្នក​នឹង​ភ្ញាក់​ផ្អើល​នៅ​ពេល​ឃើញ​ប្រព័ន្ធ​សម្អាត​ទូទៅ Rainbow ដោយ​ផ្ទាល់​ភ្នែក​។</p>
+			<p>ដោយ​ការ​គោរព​អំណរ,<br>
 				<strong>Momir Popovic</strong><br>
-				Chủ tịch & Giám đốc điều hành, Rexair LLC</p>
+				ប្រធាន &amp; នាយក​ប្រតិបត្តិ, Rexair LLC</p>
 		</div>
 	</div>
 <br>
 	<div class="row" style="line-height: 1.8">
 		<div class="col-md-6">
 			<img src="<?php prImg('rexair-headquarters-1024x546.jpg') ?>" class="d-block w-100"><br>
-			<p>Trụ sở chính toàn thế giới của Rexair, LLC được đặt tại Troy, Michigan, Hoa Kỳ. Chính từ đây, mạng lưới bán hàng, tiếp thị và phân phối độc lập trên toàn thế giới của Hệ Thống Làm Sạch Tổng Hợp Rainbow được điều phối và quản lý.</p>
+			<p>មូលដ្ឋានកណ្ដាល Rexair, LLC ទូទាំងពិភពលោក មានទីតាំងនៅ Troy, Michigan, USA។ ពីទីនេះ បណ្ដាញលក់ ទីផ្សារ និងការចែកចាយឯករាជ្យទូទាំងពិភពលោករបស់ប្រព័ន្ធសម្អាតទូទៅ Rainbow ត្រូវបានសម្របសម្រួល និងគ្រប់គ្រង។</p>
 		</div>
 		<div class="col-md-6">
 			<img src="<?php prImg('rexair-manufacturing-iso-1024x546.jpg') ?>" class="d-block w-100"><br>
-			<p>Rainbow chỉ sử dụng những vật liệu chất lượng cao cấp tại trung tâm công nghệ và sản xuất hiện đại nhất của Rexair ở Cadillac, Michigan, Hoa Kỳ với QMS ISO 9001: 2015. Các biện pháp kiểm soát chất lượng đáng kể được thực hiện để đảm bảo rằng mỗi chiếc máy Rainbow đều đáp ứng các tiêu chuẩn cao về độ bền và hiệu suất.</p>
+			<p>Rainbow ប្រើតែវត្ថុធាតុដើមដែលមានគុណភាពខ្ពស់នៅមជ្ឈមណ្ឌលបច្ចេកវិទ្យា និងផលិតកម្មទំនើបបំផុតរបស់ Rexair នៅ Cadillac, Michigan, USA ដែលមានវិញ្ញាបនបត្រ QMS ISO 9001:2015 ។ ការត្រួតពិនិត្យគុណភាពយ៉ាងតឹងរ៉ឹងត្រូវបានអនុវត្ត ដើម្បីធានាថា Rainbow ម៉ាស៊ីននីមួយៗបំពេញតម្រូវការខ្ពស់ខាងភាពរឹងមាំ និងប្រសិទ្ធភាព។</p>
 		</div>
 	</div>
 </div>
@@ -43,9 +43,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8" style="line-height: 1.7">
-				<h3>Mô Hình Bán Hàng Trực Tiếp Của Chúng Tôi</h3>
-				<p>Chúng tôi tin tưởng chắc chắn rằng Hệ thống làm sạch tổng hợp Rainbow® được giới thiệu và được bán tốt nhất cho khách hàng thông qua các buổi dùng thử và giới thiệu sản phẩm được cá nhân hóa tại nhà. Điều này cho phép khách hàng trải nghiệm tính linh hoạt và hiệu suất của sản phẩm và đưa ra quyết định mua hàng sáng suốt. <strong>Sản phẩm của chúng tôi đã được bán theo cách này trong hơn 80 năm qua</strong>.</p>
-				<p>Rexair là một thành viên đáng tự hào của Hiệp hội bán hàng trực tiếp, giúp đảm bảo rằng việc tiếp thị sản phẩm được thực hiện với đạo đức kinh doanh và dịch vụ cao nhất cho người tiêu dùng.</p>
+				<h3>គំរូលក់ផ្ទាល់របស់យើង</h3>
+				<p>យើងជឿជាក់ជាក់ថា ប្រព័ន្ធសម្អាតទូទៅ Rainbow® ត្រូវបានណែនាំ និងលក់ល្អបំផុតដល់អតិថិជន តាមរយៈការបង្ហាញ និងណែនាំផ្ទាល់ខ្លួននៅផ្ទះ។ នេះអនុញ្ញាតឱ្យអតិថិជនបទពិសោធន៍ភាពបត់បែន និងប្រសិទ្ធភាពរបស់ផលិតផល ហើយធ្វើការសម្រេចចិត្តទិញដោយមានព័ត៌មានគ្រប់គ្រាន់។ <strong>ផលិតផលរបស់យើងត្រូវបានលក់តាមរបៀបនេះអស់ជាង ៨០ ឆ្នាំ</strong>។</p>
+				<p>Rexair គឺជាសមាជិកដ៏មោទនភាពនៃសមាគមលក់ផ្ទាល់ (Direct Selling Association) ដែលជួយធានាថា ការទីផ្សារផលិតផលត្រូវបានអនុវត្តដោយមានក្រមសីលធម៌ ​និងសេវាខ្ពស់បំផុតចំពោះអ្នកប្រើប្រាស់។</p>
 			</div>
 			<div class="col-md-4 text-center">
 				<img src="<?php prImg('DSA_White_logo-200x223.png') ?>">
