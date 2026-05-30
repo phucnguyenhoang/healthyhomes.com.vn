@@ -100,7 +100,7 @@ define('CAPTCHA_VERIFY_URL', 'https://www.google.com/recaptcha/api/siteverify');
 // GA Send email url
 defined('GAS_SEND_EMAIL_URL')      OR define('GAS_SEND_EMAIL_URL', 'https://script.google.com/macros/s/AKfycbyYVIKm04d639jByGzJ3Wj2mAhIFuonAyBBJaaTUZDbVss-2sZk7_No7D1lynoz8tZbtQ/exec');
 
-define('SECRET_TOKEN', 'a1b2c3d4e5f6g7h8i9j0');
+define('SECRET_TOKEN', '');
 // define('CUSTOMER_SERVICE_EMAIL', 'nguyenwiro@gmail.com');
 define('CUSTOMER_SERVICE_EMAIL', 'customerservice@healthyhomes.com.vn');
 
